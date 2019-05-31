@@ -2270,3 +2270,346 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.31-03.43.30:285][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2019.05.31-03.43.30:484][178]LogSavePackage: Moving '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/ThirdPersonExampleMap31CB68E341D925A5875942BDA71BB322.tmp' to '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.05.31-03.43.30:704][178]LogSavePackage: Moving '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/ThirdPersonExampleMap_BuiltData12CA095541BEF50A2E3000936DFEA0EF.tmp' to '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.05.31-03.44.33:816][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-03.44.33:891][874]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-03.44.33:913][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.44.33:913][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-03.44.33:913][874]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 3:44:33 am)
+[2019.05.31-03.44.33:914][874]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-03.44.33:926][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012293s)
+[2019.05.31-03.44.33:927][874]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-03.44.33:927][874]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2019.05.31-03.44.33:927][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013352s)
+[2019.05.31-03.44.33:964][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.05.31-03.44.33:976][874]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-03.44.33:996][874]LogInit: FAudioDevice initialized.
+[2019.05.31-03.44.34:028][874]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-03.44.34:032][874]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-15.44.34
+[2019.05.31-03.44.34:033][874]LogWorld: Bringing up level for play took: 0.004024
+[2019.05.31-03.44.34:046][874]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-03.44.34:046][874]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.773
+[2019.05.31-03.44.34:047][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.44.39:461][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.44.39:461][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-03.44.39:489][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-03.44.39:489][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.44.39:527][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-03.44.39:532][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.05.31-03.44.39:584][519]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.05.31-03.44.41:756][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-03.44.52:284][537]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Boss/BossAttacks/Boss1HeavyHit_Montage.Boss1HeavyHit_Montage
+[2019.05.31-03.44.52:297][537]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.31-03.44.52:333][537]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.31-03.44.52:738][537]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.31-03.44.57:187][885]LogSlate: Window 'Boss1HeavyHit_Montage' being destroyed
+[2019.05.31-03.44.57:191][885]LogSlate: Window 'Boss1HeavyHit_Montage' being destroyed
+[2019.05.31-03.45.05:102][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-03.45.31:743][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-03.45.34:825][503]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Boss/BossSpeicalAttacks/Boss1Stap.Boss1Stap
+[2019.05.31-03.45.34:839][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.31-03.45.34:878][503]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.31-03.45.35:228][503]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.31-03.45.37:134][664]LogSlate: Window 'Boss1Stap' being destroyed
+[2019.05.31-03.45.37:139][664]LogSlate: Window 'Boss1Stap' being destroyed
+[2019.05.31-03.45.48:852][569]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Boss/NewAnimations/Boss1HeavySwing.Boss1HeavySwing
+[2019.05.31-03.45.48:863][569]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.31-03.45.48:898][569]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.31-03.45.49:259][569]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.31-03.45.51:544][779]LogSlate: Window 'Boss1HeavySwing' being destroyed
+[2019.05.31-03.45.51:548][779]LogSlate: Window 'Boss1HeavySwing' being destroyed
+[2019.05.31-03.45.56:818][193]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Boss/NewAnimations/Boss1WindCombo.Boss1WindCombo
+[2019.05.31-03.45.56:832][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.31-03.45.56:868][193]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.31-03.45.57:222][193]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.31-03.46.36:404][ 69]LogSlate: Window 'Boss1WindCombo' being destroyed
+[2019.05.31-03.46.36:409][ 69]LogSlate: Window 'Boss1WindCombo' being destroyed
+[2019.05.31-03.50.54:946][ 32]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Boss/NewAnimations/Boss1WindCombo.Boss1WindCombo
+[2019.05.31-03.50.54:961][ 32]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.31-03.50.54:996][ 32]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.31-03.50.55:349][ 32]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.31-03.51.20:920][425]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.05.31-03.51.32:382][531]LogSlate: Window 'Boss1WindCombo' being destroyed
+[2019.05.31-03.51.32:386][531]LogSlate: Window 'Boss1WindCombo' being destroyed
+[2019.05.31-03.51.36:970][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-03.51.41:862][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.05.31-03.51.46:977][358]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.31-03.51.46:980][358]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Animetion/CharacterNormalAttack1.CharacterNormalAttack1
+	Asset Name: /Game/Animetion/CharacterNormalAttack2.CharacterNormalAttack2
+	Asset Name: /Game/Animetion/CharacterNormalAttack3.CharacterNormalAttack3
+[2019.05.31-03.51.48:813][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.05.31-03.51.52:966][814]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (CharacterNormalAttack1)
+[2019.05.31-03.51.55:988][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-03.51.56:056][173]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-03.51.56:076][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.51.56:076][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-03.51.56:076][173]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 3:51:56 am)
+[2019.05.31-03.51.56:077][173]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-03.51.56:090][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012471s)
+[2019.05.31-03.51.56:090][173]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-03.51.56:090][173]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2019.05.31-03.51.56:090][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013433s)
+[2019.05.31-03.51.56:126][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.05.31-03.51.56:139][173]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-03.51.56:158][173]LogInit: FAudioDevice initialized.
+[2019.05.31-03.51.56:184][173]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-03.51.56:188][173]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-15.51.56
+[2019.05.31-03.51.56:189][173]LogWorld: Bringing up level for play took: 0.003652
+[2019.05.31-03.51.56:202][173]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-03.51.56:202][173]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.947
+[2019.05.31-03.51.56:203][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.51.57:169][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.51.57:170][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-03.51.57:199][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-03.51.57:199][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.51.57:233][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-03.51.57:237][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.05.31-03.51.57:268][284]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.05.31-03.51.58:124][386]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (CharacterNormalAttack1)
+[2019.05.31-03.51.58:960][479]Cmd: DELETE
+[2019.05.31-03.51.58:960][479]Cmd: ACTOR DELETE
+[2019.05.31-03.51.58:962][479]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.05.31-03.51.58:989][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.31-03.51.58:989][479]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.05.31-03.52.01:568][785]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (CharacterNormalAttack2)
+[2019.05.31-03.52.02:477][888]Cmd: DELETE
+[2019.05.31-03.52.02:477][888]Cmd: ACTOR DELETE
+[2019.05.31-03.52.02:478][888]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.05.31-03.52.02:505][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.05.31-03.52.02:505][888]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.05.31-03.52.03:393][994]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (CharacterNormalAttack3)
+[2019.05.31-03.52.04:815][154]Cmd: DELETE
+[2019.05.31-03.52.04:815][154]Cmd: ACTOR DELETE
+[2019.05.31-03.52.04:817][154]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.05.31-03.52.04:844][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.05.31-03.52.04:844][154]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.05.31-03.52.18:580][812]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\MDS2019\Seek\Animations\Character\FBX\CharacterNormalAttack3.FBX)
+[2019.05.31-03.52.18:618][812]LogFbx: Loading FBX Scene from E:\MDS2019\Seek\Animations\Character\FBX\CharacterNormalAttack3.FBX
+[2019.05.31-03.52.18:645][812]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.31-03.52.18:657][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-03.52.28:478][812]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(0) Base HumanPelvis
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(1) Base HumanLThigh
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(2) Base HumanLCalf
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(3) Base HumanLFoot
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(4) Base HumanLDigit11
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(5) Base HumanRThigh
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(6) Base HumanRCalf
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(7) Base HumanRFoot
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(8) Base HumanRDigit11
+[2019.05.31-03.52.28:514][812]LogFbx: SortedLinks :(9) Base HumanSpine1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(10) Base HumanSpine2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(11) Base HumanSpine3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(12) Base HumanSpine4
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(13) Base HumanRibcage
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(14) Base HumanLCollarbone
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(15) Base HumanLUpperarm
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(16) Base HumanLForearm
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(17) Base HumanLPalm
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(18) Base HumanLThumb1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(19) Base HumanLThumb2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(20) Base HumanLThumb3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(21) Base HumanLIndex1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(22) Base HumanLIndex2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(23) Base HumanLIndex3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(24) Base HumanLMiddle1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(25) Base HumanLMiddle2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(26) Base HumanLMiddle3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(27) Base HumanLRing1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(28) Base HumanLRing2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(29) Base HumanLRing3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(30) Base HumanLPinky1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(31) Base HumanLPinky2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(32) Base HumanLPinky3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(33) Base HumanRCollarbone
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(34) Base HumanRUpperarm
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(35) Base HumanRForearm
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(36) Base HumanRPalm
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(37) Base HumanRThumb1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(38) Base HumanRThumb2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(39) Base HumanRThumb3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(40) Base HumanRIndex1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(41) Base HumanRIndex2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(42) Base HumanRIndex3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(43) Base HumanRMiddle1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(44) Base HumanRMiddle2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(45) Base HumanRMiddle3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(46) Base HumanRRing1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(47) Base HumanRRing2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(48) Base HumanRRing3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(49) Base HumanRPinky1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(50) Base HumanRPinky2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(51) Base HumanRPinky3
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(52) Base HumanSwordBone
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(53) Base HumanNeck1
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(54) Base HumanNeck2
+[2019.05.31-03.52.28:515][812]LogFbx: SortedLinks :(55) Base HumanHead
+[2019.05.31-03.52.28:516][812]LogFbx: Parsing AnimStack Take 001
+[2019.05.31-03.52.28:842][812]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animetion/CharacterNormalAttack3.CharacterNormalAttack3
+[2019.05.31-03.52.28:843][812]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.CharacterNormalAttack3) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.31-03.52.28:862][812]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\MDS2019\Seek\Animations\Character\FBX\CharacterNormalAttack1.FBX)
+[2019.05.31-03.52.28:898][812]LogFbx: Loading FBX Scene from E:\MDS2019\Seek\Animations\Character\FBX\CharacterNormalAttack1.FBX
+[2019.05.31-03.52.28:926][812]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(0) Base HumanPelvis
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(1) Base HumanLThigh
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(2) Base HumanLCalf
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(3) Base HumanLFoot
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(4) Base HumanLDigit11
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(5) Base HumanRThigh
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(6) Base HumanRCalf
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(7) Base HumanRFoot
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(8) Base HumanRDigit11
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(9) Base HumanSpine1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(10) Base HumanSpine2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(11) Base HumanSpine3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(12) Base HumanSpine4
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(13) Base HumanRibcage
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(14) Base HumanLCollarbone
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(15) Base HumanLUpperarm
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(16) Base HumanLForearm
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(17) Base HumanLPalm
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(18) Base HumanLThumb1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(19) Base HumanLThumb2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(20) Base HumanLThumb3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(21) Base HumanLIndex1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(22) Base HumanLIndex2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(23) Base HumanLIndex3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(24) Base HumanLMiddle1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(25) Base HumanLMiddle2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(26) Base HumanLMiddle3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(27) Base HumanLRing1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(28) Base HumanLRing2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(29) Base HumanLRing3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(30) Base HumanLPinky1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(31) Base HumanLPinky2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(32) Base HumanLPinky3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(33) Base HumanRCollarbone
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(34) Base HumanRUpperarm
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(35) Base HumanRForearm
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(36) Base HumanRPalm
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(37) Base HumanRThumb1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(38) Base HumanRThumb2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(39) Base HumanRThumb3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(40) Base HumanRIndex1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(41) Base HumanRIndex2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(42) Base HumanRIndex3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(43) Base HumanRMiddle1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(44) Base HumanRMiddle2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(45) Base HumanRMiddle3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(46) Base HumanRRing1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(47) Base HumanRRing2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(48) Base HumanRRing3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(49) Base HumanRPinky1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(50) Base HumanRPinky2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(51) Base HumanRPinky3
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(52) Base HumanSwordBone
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(53) Base HumanNeck1
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(54) Base HumanNeck2
+[2019.05.31-03.52.28:934][812]LogFbx: SortedLinks :(55) Base HumanHead
+[2019.05.31-03.52.28:935][812]LogFbx: Parsing AnimStack Take 001
+[2019.05.31-03.52.29:259][812]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animetion/CharacterNormalAttack1.CharacterNormalAttack1
+[2019.05.31-03.52.29:260][812]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.CharacterNormalAttack1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.31-03.52.29:279][812]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\MDS2019\Seek\Animations\Character\FBX\CharacterNormalAttack2.FBX)
+[2019.05.31-03.52.29:316][812]LogFbx: Loading FBX Scene from E:\MDS2019\Seek\Animations\Character\FBX\CharacterNormalAttack2.FBX
+[2019.05.31-03.52.29:343][812]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(0) Base HumanPelvis
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(1) Base HumanLThigh
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(2) Base HumanLCalf
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(3) Base HumanLFoot
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(4) Base HumanLDigit11
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(5) Base HumanRThigh
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(6) Base HumanRCalf
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(7) Base HumanRFoot
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(8) Base HumanRDigit11
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(9) Base HumanSpine1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(10) Base HumanSpine2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(11) Base HumanSpine3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(12) Base HumanSpine4
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(13) Base HumanRibcage
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(14) Base HumanLCollarbone
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(15) Base HumanLUpperarm
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(16) Base HumanLForearm
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(17) Base HumanLPalm
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(18) Base HumanLThumb1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(19) Base HumanLThumb2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(20) Base HumanLThumb3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(21) Base HumanLIndex1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(22) Base HumanLIndex2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(23) Base HumanLIndex3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(24) Base HumanLMiddle1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(25) Base HumanLMiddle2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(26) Base HumanLMiddle3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(27) Base HumanLRing1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(28) Base HumanLRing2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(29) Base HumanLRing3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(30) Base HumanLPinky1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(31) Base HumanLPinky2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(32) Base HumanLPinky3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(33) Base HumanRCollarbone
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(34) Base HumanRUpperarm
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(35) Base HumanRForearm
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(36) Base HumanRPalm
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(37) Base HumanRThumb1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(38) Base HumanRThumb2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(39) Base HumanRThumb3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(40) Base HumanRIndex1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(41) Base HumanRIndex2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(42) Base HumanRIndex3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(43) Base HumanRMiddle1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(44) Base HumanRMiddle2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(45) Base HumanRMiddle3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(46) Base HumanRRing1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(47) Base HumanRRing2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(48) Base HumanRRing3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(49) Base HumanRPinky1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(50) Base HumanRPinky2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(51) Base HumanRPinky3
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(52) Base HumanSwordBone
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(53) Base HumanNeck1
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(54) Base HumanNeck2
+[2019.05.31-03.52.29:352][812]LogFbx: SortedLinks :(55) Base HumanHead
+[2019.05.31-03.52.29:353][812]LogFbx: Parsing AnimStack Take 001
+[2019.05.31-03.52.29:670][812]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animetion/CharacterNormalAttack2.CharacterNormalAttack2
+[2019.05.31-03.52.29:671][812]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.CharacterNormalAttack2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.31-03.52.33:146][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-03.52.33:203][169]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-03.52.33:223][169]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.52.33:223][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-03.52.33:223][169]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 3:52:33 am)
+[2019.05.31-03.52.33:223][169]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-03.52.33:234][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011912s)
+[2019.05.31-03.52.33:235][169]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-03.52.33:235][169]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2019.05.31-03.52.33:235][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013129s)
+[2019.05.31-03.52.33:266][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.05.31-03.52.33:278][169]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-03.52.33:297][169]LogInit: FAudioDevice initialized.
+[2019.05.31-03.52.33:327][169]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-03.52.33:331][169]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-15.52.33
+[2019.05.31-03.52.33:332][169]LogWorld: Bringing up level for play took: 0.004149
+[2019.05.31-03.52.33:345][169]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-03.52.33:345][169]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.092
+[2019.05.31-03.52.33:346][169]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.52.45:640][640]LogCharacterMovement: EnemyBoss_2 is stuck and failed to move! Velocity: X=1746.56 Y=-1159.86 Z=0.00 Location: X=-415.70 Y=138.56 Z=214.94 Normal: X=-0.10 Y=0.69 Z=-0.72 PenetrationDepth:35.583 Actor:CharacterNormalAttack2_24 Component:SkeletalMeshComponent0 BoneName:Base-HumanLThigh (0 other events since notify)
+[2019.05.31-03.53.22:526][ 62]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.803 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.31-03.53.24:080][248]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.53.24:080][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-03.53.24:110][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-03.53.24:110][248]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.53.24:142][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-03.53.24:146][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.05.31-03.53.24:178][250]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2019.05.31-03.53.31:938][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-03.53.31:973][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.05.31-03.53.32:175][172]LogSavePackage: Moving '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/ThirdPersonExampleMapD4D4F67C4E0A7AFCB87D45B7DBAF828F.tmp' to '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.05.31-03.53.32:341][172]LogSavePackage: Moving '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/ThirdPersonExampleMap_BuiltDataAD957D5042FF6FA14D6EFAB3F0ECDA7C.tmp' to '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.05.31-03.53.33:859][232]LogHttp: Warning: 0000026AE85987C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.05.31-03.53.33:859][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26ac99b7f70 [can pipeline])
+[2019.05.31-03.53.33:860][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 1 (Re-using existing connection! (#64) with host datarouter.ol.epicgames.com)
+[2019.05.31-03.53.33:860][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.208.92.41) port 443 (#64))
+[2019.05.31-03.53.33:860][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.05.31-03.53.33:860][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.05.31-03.53.33:860][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.05.31-03.53.33:860][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.05.31-03.53.33:860][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 7 (Closing connection 64)
+[2019.05.31-03.53.33:860][232]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD2666D2-4EFD-B993-2DD9-CEA6B7F25D2A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.2-6574378%2B%2B%2BUE4%2BRelease-4.22&UserID=345f25e14e22f48c425e0aba32d4d460%7C8984d2ffec8b48febca5844bc0482211%7C96571a30-0791-41e2-9aa7-f8d7f38971f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
