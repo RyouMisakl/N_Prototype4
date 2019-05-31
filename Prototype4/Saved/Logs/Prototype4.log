@@ -2613,3 +2613,421 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.31-03.53.33:860][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2019.05.31-03.53.33:860][232]LogHttp: Warning: 0000026AE85987C0: libcurl info message cache 7 (Closing connection 64)
 [2019.05.31-03.53.33:860][232]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD2666D2-4EFD-B993-2DD9-CEA6B7F25D2A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.2-6574378%2B%2B%2BUE4%2BRelease-4.22&UserID=345f25e14e22f48c425e0aba32d4d460%7C8984d2ffec8b48febca5844bc0482211%7C96571a30-0791-41e2-9aa7-f8d7f38971f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.05.31-03.59.26:006][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-03.59.26:072][555]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-03.59.26:092][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.59.26:092][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-03.59.26:092][555]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 3:59:26 am)
+[2019.05.31-03.59.26:093][555]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-03.59.26:107][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014356s)
+[2019.05.31-03.59.26:108][555]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-03.59.26:108][555]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2019.05.31-03.59.26:108][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015446s)
+[2019.05.31-03.59.26:142][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.05.31-03.59.26:154][555]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-03.59.26:174][555]LogInit: FAudioDevice initialized.
+[2019.05.31-03.59.26:205][555]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-03.59.26:209][555]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-15.59.26
+[2019.05.31-03.59.26:210][555]LogWorld: Bringing up level for play took: 0.003796
+[2019.05.31-03.59.26:223][555]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-03.59.26:223][555]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.98
+[2019.05.31-03.59.26:223][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.59.38:503][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.59.38:503][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-03.59.38:533][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-03.59.38:533][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-03.59.38:563][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-03.59.38:569][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.05.31-03.59.38:623][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2019.05.31-04.03.44:655][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.05.31-04.03.44:655][829]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.030
+[2019.05.31-04.03.44:656][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animetion/CharacterNormalAttack3] ([1] browsable assets)...
+[2019.05.31-04.03.44:678][829]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animetion/CharacterNormalAttack3.CharacterNormalAttack3]
+[2019.05.31-04.03.44:678][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animetion/CharacterNormalAttack3]
+[2019.05.31-04.03.44:694][829]LogSavePackage: Moving '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/CharacterNormalAttack3_Auto2BE1C97D44E88224F487E44ADC3338882.tmp' to '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/Animetion/CharacterNormalAttack3_Auto2.uasset'
+[2019.05.31-04.03.44:695][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animetion/CharacterNormalAttack1] ([1] browsable assets)...
+[2019.05.31-04.03.44:709][829]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animetion/CharacterNormalAttack1.CharacterNormalAttack1]
+[2019.05.31-04.03.44:710][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animetion/CharacterNormalAttack1]
+[2019.05.31-04.03.44:726][829]LogSavePackage: Moving '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/CharacterNormalAttack1_Auto29D01AADD4C1A2CC28F94B9A18C94108E.tmp' to '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/Animetion/CharacterNormalAttack1_Auto2.uasset'
+[2019.05.31-04.03.44:727][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animetion/CharacterNormalAttack2] ([1] browsable assets)...
+[2019.05.31-04.03.44:740][829]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animetion/CharacterNormalAttack2.CharacterNormalAttack2]
+[2019.05.31-04.03.44:740][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animetion/CharacterNormalAttack2]
+[2019.05.31-04.03.44:756][829]LogSavePackage: Moving '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/CharacterNormalAttack2_Auto2E36A8701445434E62CC920AD8C1E9ABC.tmp' to '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/Animetion/CharacterNormalAttack2_Auto2.uasset'
+[2019.05.31-04.03.44:756][829]LogFileHelpers: Auto-saving content packages took 0.101
+[2019.05.31-04.20.30:985][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-04.20.31:035][568]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-04.20.31:056][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.20.31:056][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-04.20.31:056][568]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 4:20:31 am)
+[2019.05.31-04.20.31:057][568]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-04.20.31:069][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012279s)
+[2019.05.31-04.20.31:070][568]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-04.20.31:070][568]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2019.05.31-04.20.31:070][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013415s)
+[2019.05.31-04.20.31:105][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.05.31-04.20.31:118][568]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-04.20.31:138][568]LogInit: FAudioDevice initialized.
+[2019.05.31-04.20.31:168][568]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-04.20.31:172][568]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-16.20.31
+[2019.05.31-04.20.31:173][568]LogWorld: Bringing up level for play took: 0.003645
+[2019.05.31-04.20.31:186][568]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-04.20.31:186][568]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.039
+[2019.05.31-04.20.31:187][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.21.01:602][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.21.01:602][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.21.01:635][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-04.21.01:635][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.21.01:673][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.21.01:677][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.05.31-04.21.01:703][213]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2019.05.31-04.22.14:930][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-04.22.15:247][819]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-04.22.15:272][819]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.22.15:273][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-04.22.15:273][819]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 4:22:15 am)
+[2019.05.31-04.22.15:273][819]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-04.22.15:287][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013385s)
+[2019.05.31-04.22.15:287][819]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-04.22.15:288][819]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2019.05.31-04.22.15:288][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014574s)
+[2019.05.31-04.22.15:323][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.05.31-04.22.15:336][819]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-04.22.15:357][819]LogInit: FAudioDevice initialized.
+[2019.05.31-04.22.15:385][819]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-04.22.15:390][819]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-16.22.15
+[2019.05.31-04.22.15:390][819]LogWorld: Bringing up level for play took: 0.004498
+[2019.05.31-04.22.15:404][819]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-04.22.15:404][819]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.18
+[2019.05.31-04.22.15:404][819]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.22.47:252][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.22.47:252][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.22.47:284][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-04.22.47:284][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.22.47:319][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.22.47:324][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.05.31-04.22.47:380][605]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2019.05.31-04.23.00:825][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-04.24.29:507][714]LogEditorFactories: Performing atomic reimport of [E:/MDS2019/Seek/Animations/FBX/Boss1Skin.fbx]
+[2019.05.31-04.24.29:544][714]LogFbx: Loading FBX Scene from E:/MDS2019/Seek/Animations/FBX/Boss1Skin.fbx
+[2019.05.31-04.24.29:606][714]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.31-04.24.29:608][714]LogFbx: =================================================
+[2019.05.31-04.24.29:608][714]LogFbx: Dumping Node START [PM3D_Cylinder3D2] 
+[2019.05.31-04.24.29:608][714]LogFbx: 	Total Deformer Count 708353280.
+[2019.05.31-04.24.29:608][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:608][714]LogFbx: =================================================
+[2019.05.31-04.24.29:608][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:608][714]LogFbx: 		[Node Attribute Child 1] PM3D_Cylinder3D2 (Type Mesh).
+[2019.05.31-04.24.29:608][714]LogFbx: Dumping Node END [PM3D_Cylinder3D2]
+[2019.05.31-04.24.29:608][714]LogFbx: =================================================
+[2019.05.31-04.24.29:608][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1] 
+[2019.05.31-04.24.29:608][714]LogFbx: 	Total Deformer Count -2077466688.
+[2019.05.31-04.24.29:608][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:608][714]LogFbx: =================================================
+[2019.05.31-04.24.29:608][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:608][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1 (Type Mesh).
+[2019.05.31-04.24.29:608][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1]
+[2019.05.31-04.24.29:608][714]LogFbx: =================================================
+[2019.05.31-04.24.29:608][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_1:pSphere2] 
+[2019.05.31-04.24.29:608][714]LogFbx: 	Total Deformer Count 1528816768.
+[2019.05.31-04.24.29:608][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:608][714]LogFbx: =================================================
+[2019.05.31-04.24.29:608][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:608][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_1:pSphere2 (Type Mesh).
+[2019.05.31-04.24.29:608][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_1:pSphere2]
+[2019.05.31-04.24.29:608][714]LogFbx: =================================================
+[2019.05.31-04.24.29:608][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:_low1] 
+[2019.05.31-04.24.29:608][714]LogFbx: 	Total Deformer Count 1528816768.
+[2019.05.31-04.24.29:608][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:608][714]LogFbx: =================================================
+[2019.05.31-04.24.29:608][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:608][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:_low1 (Type Mesh).
+[2019.05.31-04.24.29:608][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:_low1]
+[2019.05.31-04.24.29:608][714]LogFbx: =================================================
+[2019.05.31-04.24.29:608][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_5:backup2_2] 
+[2019.05.31-04.24.29:608][714]LogFbx: 	Total Deformer Count 1528810048.
+[2019.05.31-04.24.29:608][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:609][714]LogFbx: =================================================
+[2019.05.31-04.24.29:609][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:609][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_5:backup2_2 (Type Mesh).
+[2019.05.31-04.24.29:609][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_5:backup2_2]
+[2019.05.31-04.24.29:609][714]LogFbx: =================================================
+[2019.05.31-04.24.29:609][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_1:polySurface3] 
+[2019.05.31-04.24.29:609][714]LogFbx: 	Total Deformer Count -201407168.
+[2019.05.31-04.24.29:609][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:609][714]LogFbx: =================================================
+[2019.05.31-04.24.29:609][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:609][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_1:polySurface3 (Type Mesh).
+[2019.05.31-04.24.29:609][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_1:polySurface3]
+[2019.05.31-04.24.29:609][714]LogFbx: =================================================
+[2019.05.31-04.24.29:609][714]LogFbx: Dumping Node START [PM3D_Cylinder3D2] 
+[2019.05.31-04.24.29:609][714]LogFbx: 	Total Deformer Count 708346720.
+[2019.05.31-04.24.29:609][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:609][714]LogFbx: =================================================
+[2019.05.31-04.24.29:609][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:609][714]LogFbx: 		[Node Attribute Child 1] PM3D_Cylinder3D2 (Type Mesh).
+[2019.05.31-04.24.29:609][714]LogFbx: Dumping Node END [PM3D_Cylinder3D2]
+[2019.05.31-04.24.29:609][714]LogFbx: =================================================
+[2019.05.31-04.24.29:609][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1] 
+[2019.05.31-04.24.29:609][714]LogFbx: 	Total Deformer Count -2077460736.
+[2019.05.31-04.24.29:609][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:609][714]LogFbx: =================================================
+[2019.05.31-04.24.29:609][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:609][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1 (Type Mesh).
+[2019.05.31-04.24.29:609][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1]
+[2019.05.31-04.24.29:609][714]LogFbx: =================================================
+[2019.05.31-04.24.29:609][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_1:pSphere2] 
+[2019.05.31-04.24.29:610][714]LogFbx: 	Total Deformer Count 1528823008.
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_1:pSphere2 (Type Mesh).
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_1:pSphere2]
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:_low1] 
+[2019.05.31-04.24.29:610][714]LogFbx: 	Total Deformer Count 1528823008.
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:_low1 (Type Mesh).
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:_low1]
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1] 
+[2019.05.31-04.24.29:610][714]LogFbx: 	Total Deformer Count -2077469760.
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1 (Type Mesh).
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1]
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_1:pSphere2] 
+[2019.05.31-04.24.29:610][714]LogFbx: 	Total Deformer Count 1528816768.
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_1:pSphere2 (Type Mesh).
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_1:pSphere2]
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:_low1] 
+[2019.05.31-04.24.29:610][714]LogFbx: 	Total Deformer Count 1528816768.
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:_low1 (Type Mesh).
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:_low1]
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_5:backup2_2] 
+[2019.05.31-04.24.29:610][714]LogFbx: 	Total Deformer Count 1528816768.
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_5:backup2_2 (Type Mesh).
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_5:backup2_2]
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node START [boss_head:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_1:polySurface3] 
+[2019.05.31-04.24.29:610][714]LogFbx: 	Total Deformer Count 1404843840.
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.31-04.24.29:610][714]LogFbx: =================================================
+[2019.05.31-04.24.29:610][714]LogFbx: 	Attribute () Type (4).
+[2019.05.31-04.24.29:610][714]LogFbx: 		[Node Attribute Child 1] boss_head:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_1:polySurface3 (Type Mesh).
+[2019.05.31-04.24.29:610][714]LogFbx: Dumping Node END [boss_head:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_1:polySurface3]
+[2019.05.31-04.24.29:611][714]LogFbx: Valid bind pose for Pose (skinCluster2) - PM3D_Cylinder3D2
+[2019.05.31-04.24.29:611][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node PM3D_Cylinder3D2 : The relative matrices do not match
+[2019.05.31-04.24.29:611][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1 : The relative matrices do not match
+[2019.05.31-04.24.29:611][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node boss_head:boss_head:boss_head:Boss_1:pSphere2 : The relative matrices do not match
+[2019.05.31-04.24.29:611][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node boss_head:boss_head:boss_head:_low1 : The relative matrices do not match
+[2019.05.31-04.24.29:612][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node boss_head:boss_head:boss_head:Boss_5:backup2_2 : The relative matrices do not match
+[2019.05.31-04.24.29:612][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node boss_head:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_1:polySurface3 : The relative matrices do not match
+[2019.05.31-04.24.29:612][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node PM3D_Cylinder3D2 : The relative matrices do not match
+[2019.05.31-04.24.29:612][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1 : The relative matrices do not match
+[2019.05.31-04.24.29:613][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node boss_head:boss_head:boss_head:Boss_1:pSphere2 : The relative matrices do not match
+[2019.05.31-04.24.29:613][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node boss_head:boss_head:boss_head:_low1 : The relative matrices do not match
+[2019.05.31-04.24.29:613][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node boss_head:boss_head:boss_head:Boss_5:backup2_2 : The relative matrices do not match
+[2019.05.31-04.24.29:613][714]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node boss_head:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_1:polySurface3 : The relative matrices do not match
+[2019.05.31-04.24.29:613][714]LogFbx: Valid bind pose for Pose (skinCluster5) - PM3D_Cylinder3D2
+[2019.05.31-04.24.29:613][714]LogFbx: Valid bind pose for Pose (skinCluster6) - PM3D_Cylinder3D2
+[2019.05.31-04.24.29:614][714]LogFbx: Valid bind pose for Pose (skinCluster7) - PM3D_Cylinder3D2
+[2019.05.31-04.24.29:615][714]LogFbx: Triangulating skeletal mesh PM3D_Cylinder3D2
+[2019.05.31-04.24.29:761][714]LogFbx: Triangulating skeletal mesh boss_head:boss_head:boss_head:Boss_1:PM3D_Ring3D1
+[2019.05.31-04.24.29:769][714]LogFbx: Triangulating skeletal mesh boss_head:boss_head:boss_head:Boss_1:pSphere2
+[2019.05.31-04.24.29:830][714]LogFbx: Triangulating skeletal mesh boss_head:boss_head:boss_head:_low1
+[2019.05.31-04.24.30:010][714]LogFbx: Triangulating skeletal mesh boss_head:boss_head:boss_head:Boss_5:backup2_2
+[2019.05.31-04.24.31:317][714]LogFbx: Triangulating skeletal mesh boss_head:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_5:boss_head:boss_head:Boss_1:polySurface3
+[2019.05.31-04.24.31:679][714]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Player/lambert3.lambert3 or Material /Game/Environment_Assets/lambert3.lambert3
+[2019.05.31-04.24.31:679][714]LogFbx: Warning: Bones digested - 36  Depth of hierarchy - 13
+[2019.05.31-04.24.32:177][714]LogSkeletalMesh: Section 0: 1192 vertices, 8 active bones
+[2019.05.31-04.24.32:177][714]LogSkeletalMesh: Section 1: 1346 vertices, 15 active bones
+[2019.05.31-04.24.32:178][714]LogSkeletalMesh: Section 2: 232 vertices, 7 active bones
+[2019.05.31-04.24.32:179][714]LogSkeletalMesh: Section 3: 9480 vertices, 35 active bones
+[2019.05.31-04.24.32:179][714]LogSkeletalMesh: Section 4: 76 vertices, 5 active bones
+[2019.05.31-04.24.32:180][714]LogSkeletalMesh: Section 5: 1765 vertices, 1 active bones
+[2019.05.31-04.24.32:186][714]LogSkeletalMesh: Section 0: Material=0, 2052 triangles
+[2019.05.31-04.24.32:186][714]LogSkeletalMesh: Section 1: Material=1, 2409 triangles
+[2019.05.31-04.24.32:186][714]LogSkeletalMesh: Section 2: Material=2, 336 triangles
+[2019.05.31-04.24.32:186][714]LogSkeletalMesh: Section 3: Material=3, 16568 triangles
+[2019.05.31-04.24.32:186][714]LogSkeletalMesh: Section 4: Material=4, 100 triangles
+[2019.05.31-04.24.32:186][714]LogSkeletalMesh: Section 5: Material=5, 1674 triangles
+[2019.05.31-04.25.01:579][714]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2019.05.31-04.25.01:586][714]LogSkeletalMesh: Building Skeletal Mesh Boss1Skin...
+[2019.05.31-04.25.01:620][714]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Boss/Boss1Skin.Boss1Skin
+[2019.05.31-04.25.01:634][714]LogEditorFactories: -- imported successfully
+[2019.05.31-04.25.01:639][714]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'lambert3' was rename 'lambert3_ncl1_1' 
+[2019.05.31-04.25.01:639][714]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.05.31-04.25.01:639][714]FBXImport: Warning: The following bones are missing from the bind pose:
+Base HumanLThigh  
+Base HumanLCalf  
+Base HumanLFoot  
+Base HumanRThigh  
+Base HumanRCalf  
+Base HumanRFoot  
+Base HumanLForearm  
+Base HumanLPalm  
+Base HumanLThumb1  
+Base HumanLThumb2  
+Base HumanLThumb3  
+Base HumanLFingers1  
+Base HumanLFingers2  
+Base HumanLFingers3  
+Base HumanRThumb1  
+Base HumanRThumb2  
+Base HumanRThumb3  
+Base HumanRFingers1  
+Base HumanRFingers2  
+Base HumanRFingers3  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.05.31-04.25.01:640][714]LogSkeletalMesh: Building Skeletal Mesh Boss1Skin...
+[2019.05.31-04.25.01:670][714]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Boss/Boss1Skin.Boss1Skin
+[2019.05.31-04.25.09:351][526]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Boss/Boss1Skin_Anim.Boss1Skin_Anim
+[2019.05.31-04.25.09:352][526]LogAnimationCompression: Recompressing (AnimSequence /Game/Boss/Boss1Skin_Anim.Boss1Skin_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.31-04.25.09:802][560]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Boss/Boss1Skin.Boss1Skin
+[2019.05.31-04.25.09:816][560]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.31-04.25.09:854][560]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.31-04.25.13:194][866]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-04.25.13:213][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.25.13:213][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-04.25.13:213][866]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 4:25:13 am)
+[2019.05.31-04.25.13:213][866]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-04.25.13:227][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013137s)
+[2019.05.31-04.25.13:228][866]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-04.25.13:228][866]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2019.05.31-04.25.13:228][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014279s)
+[2019.05.31-04.25.13:263][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.05.31-04.25.13:275][866]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-04.25.13:295][866]LogInit: FAudioDevice initialized.
+[2019.05.31-04.25.13:327][866]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-04.25.13:331][866]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-16.25.13
+[2019.05.31-04.25.13:332][866]LogWorld: Bringing up level for play took: 0.003717
+[2019.05.31-04.25.13:344][866]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-04.25.13:344][866]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.121
+[2019.05.31-04.25.13:344][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.25.21:986][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.25.21:987][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.25.22:015][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-04.25.22:015][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.25.22:047][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.25.22:052][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.05.31-04.25.22:088][603]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2019.05.31-04.25.23:093][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-04.25.23:180][711]LogSlate: Window 'Boss1Skin' being destroyed
+[2019.05.31-04.25.23:194][711]LogSlate: Window 'Boss1Skin' being destroyed
+[2019.05.31-04.25.28:194][131]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Boss/Boss1Skin.Boss1Skin
+[2019.05.31-04.25.28:209][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.31-04.25.28:243][131]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.31-04.25.31:387][337]LogSkeletalMesh: Building Skeletal Mesh Boss1Skin...
+[2019.05.31-04.25.31:420][337]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Boss/Boss1Skin.Boss1Skin
+[2019.05.31-04.25.33:006][451]LogSkeletalMesh: Building Skeletal Mesh Boss1Skin...
+[2019.05.31-04.25.33:042][451]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Boss/Boss1Skin.Boss1Skin
+[2019.05.31-04.25.34:457][558]LogSkeletalMesh: Building Skeletal Mesh Boss1Skin...
+[2019.05.31-04.25.34:486][558]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Boss/Boss1Skin.Boss1Skin
+[2019.05.31-04.25.36:393][729]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-04.25.36:412][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.25.36:412][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-04.25.36:413][729]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 4:25:36 am)
+[2019.05.31-04.25.36:413][729]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-04.25.36:428][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014859s)
+[2019.05.31-04.25.36:428][729]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-04.25.36:429][729]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2019.05.31-04.25.36:429][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015816s)
+[2019.05.31-04.25.36:461][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.05.31-04.25.36:473][729]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-04.25.36:492][729]LogInit: FAudioDevice initialized.
+[2019.05.31-04.25.36:522][729]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-04.25.36:526][729]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-16.25.36
+[2019.05.31-04.25.36:527][729]LogWorld: Bringing up level for play took: 0.003797
+[2019.05.31-04.25.36:539][729]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-04.25.36:540][729]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.683
+[2019.05.31-04.25.36:540][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.26.10:755][665]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.26.10:756][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.26.10:787][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-04.26.10:787][665]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.26.10:820][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.26.10:825][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.05.31-04.26.10:864][667]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2019.05.31-04.26.16:282][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.31-04.26.16:391][928]LogSlate: Window 'Boss1Skin' being destroyed
+[2019.05.31-04.26.16:409][928]LogSlate: Window 'Boss1Skin' being destroyed
+[2019.05.31-04.26.22:854][458]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Boss/BossAnimBlueprint.BossAnimBlueprint
+[2019.05.31-04.26.22:872][458]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.31-04.26.23:191][458]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.31-04.26.25:886][637]LogSlate: Window 'BossAnimBlueprint' being destroyed
+[2019.05.31-04.26.25:891][637]LogSlate: Window 'BossAnimBlueprint' being destroyed
+[2019.05.31-04.26.48:082][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.05.31-04.26.50:079][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-04.26.50:120][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.05.31-04.26.50:327][239]LogSavePackage: Moving '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/ThirdPersonExampleMap8ABF1C03439659A1DFC7E0BB1CBB5B2D.tmp' to '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.05.31-04.26.50:512][239]LogSavePackage: Moving '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Saved/ThirdPersonExampleMap_BuiltData1D27712245E19B7882CFF4AB65A416B0.tmp' to '../../../../Users/sijin.fan7100/Documents/N_Prototype4/Prototype4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.05.31-04.27.16:295][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-04.27.22:804][313]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-04.27.22:824][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.27.22:824][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-04.27.22:824][313]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 4:27:22 am)
+[2019.05.31-04.27.22:825][313]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-04.27.22:836][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011198s)
+[2019.05.31-04.27.22:837][313]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-04.27.22:837][313]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2019.05.31-04.27.22:837][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012731s)
+[2019.05.31-04.27.22:874][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.05.31-04.27.22:887][313]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-04.27.22:905][313]LogInit: FAudioDevice initialized.
+[2019.05.31-04.27.22:932][313]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-04.27.22:936][313]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-16.27.22
+[2019.05.31-04.27.22:937][313]LogWorld: Bringing up level for play took: 0.003707
+[2019.05.31-04.27.22:950][313]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-04.27.22:950][313]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.271
+[2019.05.31-04.27.22:951][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.27.28:170][935]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=71.81 Y=-595.69 Z=0.00 Location: X=-779.38 Y=-317.23 Z=222.40 Normal: X=-0.58 Y=0.78 Z=-0.22 PenetrationDepth:0.489 Actor:CharacterNormalAttack1_22 Component:SkeletalMeshComponent0 BoneName:Base-HumanRThigh (0 other events since notify)
+[2019.05.31-04.27.31:772][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.27.31:772][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.27.31:803][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-04.27.31:803][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.27.31:835][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.27.31:839][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.05.31-04.27.31:870][369]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.05.31-04.27.39:488][435]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.31-04.27.40:255][512]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.31-04.27.40:274][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.27.40:274][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.31-04.27.40:274][512]PIE: New page: PIE session: ThirdPersonExampleMap (1/06/2019 4:27:40 am)
+[2019.05.31-04.27.40:275][512]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.31-04.27.40:284][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009064s)
+[2019.05.31-04.27.40:284][512]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.31-04.27.40:285][512]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2019.05.31-04.27.40:285][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009962s)
+[2019.05.31-04.27.40:314][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.05.31-04.27.40:326][512]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.31-04.27.40:345][512]LogInit: FAudioDevice initialized.
+[2019.05.31-04.27.40:375][512]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.31-04.27.40:379][512]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.31-16.27.40
+[2019.05.31-04.27.40:379][512]LogWorld: Bringing up level for play took: 0.003602
+[2019.05.31-04.27.40:392][512]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.05.31-04.27.40:392][512]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.83
+[2019.05.31-04.27.40:393][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.27.52:694][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.27.52:694][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.27.52:722][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.31-04.27.52:722][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.31-04.27.52:763][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.31-04.27.52:768][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.05.31-04.27.52:799][983]LogPlayLevel: Display: Destroying online subsystem :Context_86
