@@ -1,0 +1,1525 @@
+﻿Log file open, 06/03/19 21:35:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prototype4
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.343759
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1080 with Max-Q Design
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.03-13.36.01:003][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.03-13.36.01:003][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.03-13.36.01:004][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.03-13.36.01:004][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.03-13.36.01:004][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.03-13.36.01:009][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.03-13.36.01:009][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.03-13.36.01:009][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.03-13.36.01:009][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.03-13.36.01:010][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.03-13.36.01:010][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.03-13.36.01:010][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.03-13.36.01:061][  0]LogHAL: Display: Platform has ~ 24 GB [25726074880 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.03-13.36.01:061][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.03-13.36.01:061][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.03-13.36.01:061][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.03-13.36.01:062][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.03-13.36.01:063][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.03-13.36.01:063][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.03-13.36.01:063][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProject/N_prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.03-13.36.01:063][  0]LogInit: Computer: DESKTOP-PJP97K6
+[2019.06.03-13.36.01:063][  0]LogInit: User: DarrenChua
+[2019.06.03-13.36.01:063][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.03-13.36.01:063][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2019.06.03-13.36.01:063][  0]LogMemory: Memory total: Physical=24.0GB (24GB approx)
+[2019.06.03-13.36.01:063][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.03-13.36.01:063][  0]LogMemory: Process Physical Memory: 98.68 MB used, 98.68 MB peak
+[2019.06.03-13.36.01:064][  0]LogMemory: Process Virtual Memory: 98.09 MB used, 98.09 MB peak
+[2019.06.03-13.36.01:064][  0]LogMemory: Physical Memory: 13232.86 MB used,  11301.44 MB free, 24534.30 MB total
+[2019.06.03-13.36.01:064][  0]LogMemory: Virtual Memory: 4653.45 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.06.03-13.36.02:635][  0]LogInit: Using OS detected language (en-US).
+[2019.06.03-13.36.02:635][  0]LogInit: Using OS detected locale (en-SG).
+[2019.06.03-13.36.02:637][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.03-13.36.02:841][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.03-13.36.02:912][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.03-13.36.02:912][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.03-13.36.09:395][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.06.03-13.36.09:395][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.03-13.36.09:510][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (Feature Level 11_0)
+[2019.06.03-13.36.09:510][  0]LogD3D11RHI:       8079/0/12267 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.03-13.36.09:512][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.03-13.36.09:512][  0]LogD3D11RHI:       0/0/12267 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.03-13.36.09:512][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.03-13.36.09:551][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.03-13.36.09:551][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.03-13.36.09:551][  0]LogWindows: EnumDisplayDevices:
+[2019.06.03-13.36.09:551][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (P:1 D:1)
+[2019.06.03-13.36.09:552][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (P:0 D:0)
+[2019.06.03-13.36.09:552][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (P:0 D:0)
+[2019.06.03-13.36.09:552][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 with Max-Q Design' (P:0 D:0)
+[2019.06.03-13.36.09:553][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.03-13.36.09:553][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 with Max-Q Design
+[2019.06.03-13.36.09:553][  0]LogD3D11RHI:   Driver Version: 419.35 (internal:25.21.14.1935, unified:419.35)
+[2019.06.03-13.36.09:553][  0]LogD3D11RHI:      Driver Date: 3-1-2019
+[2019.06.03-13.36.09:553][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.06.03-13.36.09:614][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.03-13.36.09:627][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.03-13.36.09:628][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.03-13.36.09:628][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.03-13.36.09:637][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.03-13.36.10:171][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.03-13.36.10:201][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.03-13.36.10:223][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.03-13.36.10:242][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.03-13.36.10:274][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.03-13.36.10:314][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.03-13.36.10:417][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.03-13.36.10:447][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.03-13.36.10:474][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.03-13.36.10:626][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.03-13.36.10:666][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.03-13.36.10:760][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.03-13.36.10:760][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.03-13.36.10:800][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.03-13.36.10:800][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.03-13.36.10:819][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.03-13.36.10:855][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.03-13.36.10:917][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.03-13.36.10:939][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.03-13.36.11:011][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.03-13.36.11:011][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.03-13.36.11:011][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.03-13.36.11:140][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.03-13.36.11:646][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../UnrealProject/N_prototype4/Prototype4/Intermediate/Shaders/WorkingDirectory/112012/).
+[2019.06.03-13.36.11:646][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Darren Chua/AppData/Local/Temp/UnrealShaderWorkingDir/DED244504457B85F818D70A72E6F6CFD/'.
+[2019.06.03-13.36.11:650][  0]LogXGEController: Cleaning working directory: C:/Users/Darren Chua/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.03-13.36.11:650][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.03-13.36.11:650][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.03-13.36.11:650][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.03-13.36.12:372][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.03-13.36.12:455][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Darren Chua/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.03-13.36.12:455][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Darren Chua/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.03-13.36.12:455][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProject/N_prototype4/Prototype4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.03-13.36.12:455][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.03-13.36.12:455][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProject/N_prototype4/Prototype4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.03-13.36.12:455][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.03-13.36.12:472][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.03-13.36.12:472][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.03-13.36.12:472][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.03-13.36.12:485][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Darren Chua/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.03-13.36.12:485][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.03-13.36.12:485][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.03-13.36.12:518][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.03-13.36.12:519][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.03-13.36.12:520][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.03-13.36.12:649][  0]LogAssetRegistry: FAssetRegistry took 0.0404 seconds to start up
+[2019.06.03-13.36.13:075][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.03-13.36.13:684][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.03-13.36.13:684][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.03-13.36.13:684][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.03-13.36.13:684][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.03-13.36.13:684][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.03-13.36.13:700][  0]LogNetVersion: Prototype4 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2674950334)
+[2019.06.03-13.36.14:758][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.542602 seconds
+[2019.06.03-13.36.14:768][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.03-13.36.14:768][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.03-13.36.14:768][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.03-13.36.17:653][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.03-13.36.17:686][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.03-13.36.18:445][  0]SourceControl: Source control is disabled
+[2019.06.03-13.36.18:445][  0]SourceControl: Source control is disabled
+[2019.06.03-13.36.18:501][  0]SourceControl: Source control is disabled
+[2019.06.03-13.36.18:525][  0]SourceControl: Source control is disabled
+[2019.06.03-13.36.19:467][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.03-13.36.20:021][  0]LogOcInput: OculusInput pre-init called
+[2019.06.03-13.36.20:999][  0]LogEngine: Initializing Engine...
+[2019.06.03-13.36.21:116][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.06.03-13.36.21:117][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.06.03-13.36.21:346][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.03-13.36.21:385][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.03-13.36.21:474][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.36.21:587][  0]LogInit: FAudioDevice initialized.
+[2019.06.03-13.36.21:587][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.03-13.36.21:711][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Darren Chua/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.03-13.36.21:721][  0]LogInit: Texture streaming: Enabled
+[2019.06.03-13.36.21:810][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.03-13.36.21:930][  0]LogInit: Transaction tracking system initialized
+[2019.06.03-13.36.22:064][  0]BlueprintLog: New page: Editor Load
+[2019.06.03-13.36.22:727][  0]LocalizationService: Localization service is disabled
+[2019.06.03-13.36.23:529][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.03-13.36.23:529][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.03-13.36.24:450][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/N_prototype4/Prototype4/Content/' took 0.06s
+[2019.06.03-13.36.24:498][  0]SourceControl: Source control is disabled
+[2019.06.03-13.36.24:646][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-13.36.24:648][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.03-13.36.29:838][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.06.03-13.36.29:838][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-13.36.29:844][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-13.36.35:174][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.06.03-13.36.35:175][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-13.36.35:178][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-13.36.35:211][  0]Cmd: MAP LOAD FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.03-13.36.35:211][  0]LightingResults: New page: Lighting Build
+[2019.06.03-13.36.35:217][  0]MapCheck: New page: Map Check
+[2019.06.03-13.36.35:217][  0]LightingResults: New page: Lighting Build
+[2019.06.03-13.36.35:249][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.06.03-13.36.35:484][  0]LogLinker: Warning: Can't find file '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono'
+[2019.06.03-13.36.35:484][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono' while loading NULL.
+[2019.06.03-13.36.35:484][  0]LogLinker: Warning: Can't find file '/Game/Sound/WHOOSH_Wide_Fast_stereo'
+[2019.06.03-13.36.35:484][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/WHOOSH_Wide_Fast_stereo' while loading NULL.
+[2019.06.03-13.36.35:491][  0]LogLinker: Warning: Can't find file '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono'
+[2019.06.03-13.36.35:491][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono' while loading NULL.
+[2019.06.03-13.36.35:492][  0]LogLinker: Warning: Can't find file '/Game/Sound/WHOOSH_Wide_Fast_stereo'
+[2019.06.03-13.36.35:492][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/WHOOSH_Wide_Fast_stereo' while loading NULL.
+[2019.06.03-13.36.35:517][  0]LogLinker: Warning: Can't find file '/Game/Sound/WHOOSH_Wide_Fast_stereo'
+[2019.06.03-13.36.35:517][  0]LoadErrors: Failed to load /Game/Sound/WHOOSH_Wide_Fast_stereo.WHOOSH_Wide_Fast_stereo Referenced by K2Node_CallFunction_78
+[2019.06.03-13.36.35:517][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/WHOOSH_Wide_Fast_stereo' while loading NULL.
+[2019.06.03-13.36.35:518][  0]LogLinker: Warning: Can't find file '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono'
+[2019.06.03-13.36.35:518][  0]LoadErrors: Failed to load /Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono.SWORD_Whoosh_Hit_Armor_Hard_RR2_mono Referenced by K2Node_CallFunction_65
+[2019.06.03-13.36.35:518][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono' while loading NULL.
+[2019.06.03-13.36.35:526][  0]LogLinker: Warning: Can't find file '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono'
+[2019.06.03-13.36.35:526][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono' while loading NULL.
+[2019.06.03-13.36.35:527][  0]LogLinker: Warning: Can't find file '/Game/Sound/WHOOSH_Wide_Fast_stereo'
+[2019.06.03-13.36.35:527][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/WHOOSH_Wide_Fast_stereo' while loading NULL.
+[2019.06.03-13.36.35:527][  0]LogLinker: Warning: Can't find file '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono'
+[2019.06.03-13.36.35:527][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/SWORD_Whoosh_Hit_Armor_Hard_RR2_mono' while loading NULL.
+[2019.06.03-13.36.35:527][  0]LogLinker: Warning: Can't find file '/Game/Sound/WHOOSH_Wide_Fast_stereo'
+[2019.06.03-13.36.35:528][  0]LogLinker: Warning: Can't find file for asset '/Game/Sound/WHOOSH_Wide_Fast_stereo' while loading NULL.
+[2019.06.03-13.36.36:177][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.03-13.36.36:194][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.03-13.36.36:233][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.06.03-13.36.36:235][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.03-13.36.36:235][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2019.06.03-13.36.36:235][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.024
+[2019.06.03-13.36.36:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.36.36:378][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.36.36:391][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.36.36:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.36.36:432][  0]LogCollectionManager: Loaded 0 collections in 0.002556 seconds
+[2019.06.03-13.36.36:449][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/N_prototype4/Prototype4/Saved/Collections/' took 0.01s
+[2019.06.03-13.36.36:449][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/N_prototype4/Prototype4/Content/Developers/DarrenChua/Collections/' took 0.00s
+[2019.06.03-13.36.36:449][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/N_prototype4/Prototype4/Content/Collections/' took 0.00s
+[2019.06.03-13.36.36:449][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.03-13.36.36:459][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2741 classes and 672 folders.
+[2019.06.03-13.36.36:468][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.03-13.36.36:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.03-13.36.36:548][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.03-13.36.36:631][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.06.03-13.36.36:650][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.03-13.36.36:656][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.03-13.36.36:707][  0]LogRenderer: Reallocating scene render targets to support 1020x572 Format 10 NumSamples 1 (Frame:1).
+[2019.06.03-13.36.36:943][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.03-13.36.36:943][  0]LogLoad: (Engine Initialization) Total time: 41.23 seconds
+[2019.06.03-13.36.36:943][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.03-13.36.37:015][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.03-13.36.37:020][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.36.37:070][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.03-13.36.37:128][  1]LogAssetRegistry: Asset discovery search completed in 24.5022 seconds
+[2019.06.03-13.36.37:131][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.03-13.36.37:131][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2019.06.03-13.36.38:019][ 26]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.03-13.36.42:113][111]LogFileCache: Retrieving MD5 hashes for directory 'D:/UnrealProject/N_prototype4/Prototype4/Content/' took 5.15s
+[2019.06.03-13.36.42:264][114]LogSlate: Window 'Message Log' being destroyed
+[2019.06.03-13.36.42:321][114]LogSlate: Window 'Message Log' being destroyed
+[2019.06.03-13.36.43:698][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.36.58:187][458]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\People and games\AssetPackage\Assets\Universal Sound FX\WHOOSHES\Classic\WHOOSH_Wide_Fast_stereo.wav)
+[2019.06.03-13.37.38:913][651]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:\People and games\AssetPackage\Assets\Universal Sound FX\WEAPONS\Melee\Swords\SWORD_Whoosh_Hit_Sword_Hard_RR1_mono.wav)
+[2019.06.03-13.37.46:340][819]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.37.46:355][819]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Georgina.Georgina
+[2019.06.03-13.37.46:386][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.06.03-13.37.48:197][819]LogSlate: Window 'Save Content' being destroyed
+[2019.06.03-13.37.48:342][819]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/SWORD_Whoosh_Hit_Sword_Hard_RR1_CA36EA174AA1B65FFCED75AAE05CF3F5.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Sound/SWORD_Whoosh_Hit_Sword_Hard_RR1_mono.uasset'
+[2019.06.03-13.37.48:355][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/WHOOSH_Wide_Fast_stereo" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/Sound/WHOOSH_Wide_Fast_stereo.uasset" SILENT=true
+[2019.06.03-13.37.49:058][819]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/WHOOSH_Wide_Fast_stereo37325361454510893EA3F58F17589F41.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Sound/WHOOSH_Wide_Fast_stereo.uasset'
+[2019.06.03-13.37.49:064][819]Cmd: MAP LOAD FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Maps/Georgina.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.03-13.37.49:064][819]LightingResults: New page: Lighting Build
+[2019.06.03-13.37.49:064][819]LoadErrors: New page: Loading map: Georgina.umap
+[2019.06.03-13.37.49:065][819]MapCheck: New page: Map Check
+[2019.06.03-13.37.49:065][819]LightingResults: New page: Lighting Build
+[2019.06.03-13.37.49:095][819]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.06.03-13.37.49:105][819]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.03-13.37.49:132][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.06.03-13.37.49:168][819]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.03-13.37.49:168][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2019.06.03-13.37.49:168][819]LogFileHelpers: Loading map 'Georgina' took 0.105
+[2019.06.03-13.37.52:266][891]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.37.52:287][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.37.52:287][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.37.52:287][891]PIE: New page: PIE session: Georgina (4 Jun 2019 5:37:52 am)
+[2019.06.03-13.37.52:298][891]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.37.52:306][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007507s)
+[2019.06.03-13.37.52:306][891]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.37.52:306][891]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2019.06.03-13.37.52:306][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.008207s)
+[2019.06.03-13.37.52:333][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.06.03-13.37.52:375][891]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.37.52:479][891]LogInit: FAudioDevice initialized.
+[2019.06.03-13.37.52:527][891]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.37.52:531][891]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.37.52
+[2019.06.03-13.37.52:561][891]LogWorld: Bringing up level for play took: 0.031217
+[2019.06.03-13.37.52:580][891]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.06.03-13.37.52:584][891]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.391
+[2019.06.03-13.37.52:584][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.38.07:317][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.38.07:317][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.38.07:382][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.38.07:383][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.38.07:415][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.38.07:419][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.06.03-13.38.07:441][333]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.06.03-13.38.08:965][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.38.14:409][496]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Boss/EnemyBoss.EnemyBoss
+[2019.06.03-13.38.15:241][496]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.06.03-13.38.16:194][496]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.03-13.38.18:368][533]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.03-13.38.58:411][370]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.06.03-13.39.21:773][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/EnemyBoss" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/Boss/EnemyBoss.uasset" SILENT=true
+[2019.06.03-13.39.22:090][765]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/EnemyBoss98E12A0A4029A18C396968873C340D22.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Boss/EnemyBoss.uasset'
+[2019.06.03-13.39.27:206][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/EnemyBoss" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/Boss/EnemyBoss.uasset" SILENT=true
+[2019.06.03-13.39.27:658][848]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/EnemyBossB31E435043965C83BE97AE9BE610AB50.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Boss/EnemyBoss.uasset'
+[2019.06.03-13.39.28:914][872]BlueprintLog: New page: Compile EnemyBoss
+[2019.06.03-13.39.29:582][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.06.03-13.40.14:002][660]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacterC47E3B3C42D3A8E40553F589E44CA4F6.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-13.40.38:020][117]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacter152643354DF807E8F5EF95AB68AA3181.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-13.40.38:163][121]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.03-13.40.38:535][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.06.03-13.40.40:763][160]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.40.40:833][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.40.40:833][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.40.40:833][160]PIE: New page: PIE session: Georgina (4 Jun 2019 5:40:40 am)
+[2019.06.03-13.40.40:833][160]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.40.40:841][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007634s)
+[2019.06.03-13.40.40:841][160]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.40.40:842][160]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2019.06.03-13.40.40:842][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.008397s)
+[2019.06.03-13.40.40:887][160]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.06.03-13.40.40:933][160]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.40.41:049][160]LogInit: FAudioDevice initialized.
+[2019.06.03-13.40.41:081][160]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.40.41:084][160]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.40.41
+[2019.06.03-13.40.41:085][160]LogWorld: Bringing up level for play took: 0.002933
+[2019.06.03-13.40.41:100][160]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.907
+[2019.06.03-13.40.41:100][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.40.41:417][171]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WHOOSH_Wide_Fast_stereo...
+[2019.06.03-13.40.41:442][171]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 32640 while cooking SoundWave /Game/Sound/WHOOSH_Wide_Fast_stereo.WHOOSH_Wide_Fast_stereo.
+[2019.06.03-13.41.01:181][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.41.01:182][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.41.01:249][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.41.01:249][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.41.01:293][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.41.01:299][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.06.03-13.41.01:318][765]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.06.03-13.41.02:006][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.41.07:171][854]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacter1D93BA2445C5CCAC207145AA287A4541.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-13.41.08:508][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.41.15:030][  9]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.03-13.41.15:358][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.06.03-13.41.39:832][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.41.51:225][659]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacter0C76BD4B447F9000D6BC45932F83E86B.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-13.41.51:880][670]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.03-13.41.52:157][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.06.03-13.41.54:214][705]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.41.54:241][705]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.41.54:241][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.41.54:241][705]PIE: New page: PIE session: Georgina (4 Jun 2019 5:41:54 am)
+[2019.06.03-13.41.54:241][705]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.41.54:247][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006848s)
+[2019.06.03-13.41.54:248][705]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.41.54:248][705]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.06.03-13.41.54:248][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.007726s)
+[2019.06.03-13.41.54:285][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.06.03-13.41.54:333][705]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.41.54:449][705]LogInit: FAudioDevice initialized.
+[2019.06.03-13.41.54:477][705]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.41.54:480][705]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.41.54
+[2019.06.03-13.41.54:481][705]LogWorld: Bringing up level for play took: 0.003635
+[2019.06.03-13.41.54:499][705]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.306
+[2019.06.03-13.41.54:499][705]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.42.03:032][962]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SWORD_Whoosh_Hit_Sword_Hard_RR1_mono...
+[2019.06.03-13.42.03:049][962]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 135694 while cooking SoundWave /Game/Sound/SWORD_Whoosh_Hit_Sword_Hard_RR1_mono.SWORD_Whoosh_Hit_Sword_Hard_RR1_mono.
+[2019.06.03-13.42.23:432][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.42.23:432][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.42.23:500][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.42.23:500][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.42.23:541][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.42.23:545][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.06.03-13.42.23:568][575]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.06.03-13.42.24:174][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.42.32:948][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.42.33:048][765]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.42.33:071][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.42.33:071][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.42.33:071][765]PIE: New page: PIE session: Georgina (4 Jun 2019 5:42:33 am)
+[2019.06.03-13.42.33:072][765]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.42.33:079][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007480s)
+[2019.06.03-13.42.33:080][765]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.42.33:080][765]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2019.06.03-13.42.33:080][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.008197s)
+[2019.06.03-13.42.33:120][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.06.03-13.42.33:168][765]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.42.33:278][765]LogInit: FAudioDevice initialized.
+[2019.06.03-13.42.33:310][765]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.42.33:312][765]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.42.33
+[2019.06.03-13.42.33:313][765]LogWorld: Bringing up level for play took: 0.002823
+[2019.06.03-13.42.33:328][765]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 1.134
+[2019.06.03-13.42.33:328][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.44.12:748][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.44.12:749][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.44.12:814][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.44.12:815][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.44.12:862][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.44.12:867][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.06.03-13.44.12:888][748]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.06.03-13.44.13:780][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.44.35:498][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.44.52:429][627]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Player/Animation/Backup_CharacterDeflect_Montage1.Backup_CharacterDeflect_Montage1
+[2019.06.03-13.44.52:471][627]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.06.03-13.44.52:516][627]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.06.03-13.44.52:516][627]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.03-13.44.52:759][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.03-13.44.52:765][627]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.06.03-13.44.52:766][627]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.06.03-13.44.52:812][627]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.03-13.44.53:633][627]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.03-13.45.06:350][865]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.03-13.45.13:532][955]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Backup_CharacterDeflect_Montage15165FC3146D0C3C02EF1ADB7EEB674EF.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/Animation/Backup_CharacterDeflect_Montage1.uasset'
+[2019.06.03-13.45.15:597][  2]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.45.15:703][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.45.15:703][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.45.15:703][  2]PIE: New page: PIE session: Georgina (4 Jun 2019 5:45:15 am)
+[2019.06.03-13.45.15:703][  2]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.45.15:715][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011339s)
+[2019.06.03-13.45.15:715][  2]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.45.15:715][  2]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2019.06.03-13.45.15:715][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.011957s)
+[2019.06.03-13.45.15:780][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.06.03-13.45.15:819][  2]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.45.15:924][  2]LogInit: FAudioDevice initialized.
+[2019.06.03-13.45.15:957][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.45.15:960][  2]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.45.15
+[2019.06.03-13.45.15:960][  2]LogWorld: Bringing up level for play took: 0.002765
+[2019.06.03-13.45.15:975][  2]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina -0.218
+[2019.06.03-13.45.15:975][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.45.33:816][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.45.33:816][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.45.33:884][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.45.33:884][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.45.33:940][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.45.33:948][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.06.03-13.45.33:972][539]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.06.03-13.45.34:655][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.45.46:729][731]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Backup_CharacterDeflect_Montage19D0789844847F101C7786BB2752B0DD8.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/Animation/Backup_CharacterDeflect_Montage1.uasset'
+[2019.06.03-13.45.48:253][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.45.49:299][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.45.49:397][789]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.45.49:421][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.45.49:421][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.45.49:421][789]PIE: New page: PIE session: Georgina (4 Jun 2019 5:45:49 am)
+[2019.06.03-13.45.49:421][789]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.45.49:430][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008432s)
+[2019.06.03-13.45.49:430][789]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.45.49:430][789]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2019.06.03-13.45.49:431][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.009314s)
+[2019.06.03-13.45.49:468][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.06.03-13.45.49:514][789]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.45.49:627][789]LogInit: FAudioDevice initialized.
+[2019.06.03-13.45.49:658][789]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.45.49:661][789]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.45.49
+[2019.06.03-13.45.49:662][789]LogWorld: Bringing up level for play took: 0.003314
+[2019.06.03-13.45.49:678][789]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina -0.515
+[2019.06.03-13.45.49:679][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.46.09:399][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.46.09:399][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.46.09:468][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.46.09:469][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.46.09:521][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.46.09:526][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.06.03-13.46.09:551][383]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.06.03-13.46.10:382][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.46.10:481][408]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.46.10:620][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.46.10:620][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.46.10:620][408]PIE: New page: PIE session: Georgina (4 Jun 2019 5:46:10 am)
+[2019.06.03-13.46.10:621][408]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.46.10:629][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008138s)
+[2019.06.03-13.46.10:629][408]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.46.10:630][408]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2019.06.03-13.46.10:630][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.008886s)
+[2019.06.03-13.46.10:675][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.06.03-13.46.10:722][408]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.46.10:835][408]LogInit: FAudioDevice initialized.
+[2019.06.03-13.46.10:861][408]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.46.10:863][408]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.46.10
+[2019.06.03-13.46.10:864][408]LogWorld: Bringing up level for play took: 0.002704
+[2019.06.03-13.46.10:879][408]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.686
+[2019.06.03-13.46.10:879][408]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.46.34:199][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.46.34:200][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.46.34:265][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.46.34:266][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.46.34:330][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.46.34:340][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.06.03-13.46.34:369][110]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.06.03-13.46.35:159][133]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.46.59:025][496]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Backup_CharacterDeflect_Montage14F67334247AFA63B5CC40D8272708714.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/Animation/Backup_CharacterDeflect_Montage1.uasset'
+[2019.06.03-13.46.59:420][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.47.00:598][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.47.00:648][533]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.47.00:676][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.47.00:676][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.47.00:676][533]PIE: New page: PIE session: Georgina (4 Jun 2019 5:47:00 am)
+[2019.06.03-13.47.00:676][533]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.47.00:684][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007691s)
+[2019.06.03-13.47.00:684][533]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.47.00:685][533]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2019.06.03-13.47.00:685][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.008592s)
+[2019.06.03-13.47.00:729][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.06.03-13.47.00:775][533]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.47.00:880][533]LogInit: FAudioDevice initialized.
+[2019.06.03-13.47.00:914][533]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.47.00:916][533]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.47.00
+[2019.06.03-13.47.00:917][533]LogWorld: Bringing up level for play took: 0.002808
+[2019.06.03-13.47.00:932][533]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.739
+[2019.06.03-13.47.00:932][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.47.24:199][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.47.24:199][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.47.24:264][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.47.24:265][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.47.24:313][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.47.24:318][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.06.03-13.47.24:342][233]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.06.03-13.47.25:091][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.48.15:433][958]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Backup_CharacterDeflect_Montage150805E624AF40EC2BF12709DF11CD598.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/Animation/Backup_CharacterDeflect_Montage1.uasset'
+[2019.06.03-13.48.16:685][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.48.17:631][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.48.17:730][  6]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.48.17:756][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.48.17:757][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.48.17:757][  6]PIE: New page: PIE session: Georgina (4 Jun 2019 5:48:17 am)
+[2019.06.03-13.48.17:757][  6]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.48.17:766][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008674s)
+[2019.06.03-13.48.17:766][  6]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.48.17:766][  6]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2019.06.03-13.48.17:766][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.009405s)
+[2019.06.03-13.48.17:807][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.06.03-13.48.17:852][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.48.17:966][  6]LogInit: FAudioDevice initialized.
+[2019.06.03-13.48.18:000][  6]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.48.18:004][  6]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.48.18
+[2019.06.03-13.48.18:005][  6]LogWorld: Bringing up level for play took: 0.003872
+[2019.06.03-13.48.18:022][  6]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina -0.171
+[2019.06.03-13.48.18:023][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.48.57:398][188]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.48.57:399][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.48.57:466][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.48.57:466][188]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.48.57:518][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.48.57:523][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.06.03-13.48.57:546][189]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.06.03-13.48.58:957][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.49.08:500][380]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/swing1_Anim.swing1_Anim
+[2019.06.03-13.49.08:501][380]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/swing1_Anim.swing1_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.03-13.49.39:783][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.49.40:044][950]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Player/Animation/Backup_CharacterDeflect_Montage1.Backup_CharacterDeflect_Montage1
+[2019.06.03-13.49.55:322][200]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Backup_CharacterDeflect_Montage14E02E8704302EDCE1C54DE83C5C35AA6.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/Animation/Backup_CharacterDeflect_Montage1.uasset'
+[2019.06.03-13.49.58:030][258]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.49.58:054][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.49.58:054][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.49.58:054][258]PIE: New page: PIE session: Georgina (4 Jun 2019 5:49:58 am)
+[2019.06.03-13.49.58:054][258]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.49.58:062][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007444s)
+[2019.06.03-13.49.58:062][258]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.49.58:063][258]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.06.03-13.49.58:063][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.008184s)
+[2019.06.03-13.49.58:107][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.06.03-13.49.58:149][258]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.49.58:257][258]LogInit: FAudioDevice initialized.
+[2019.06.03-13.49.58:289][258]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.49.58:292][258]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.49.58
+[2019.06.03-13.49.58:293][258]LogWorld: Bringing up level for play took: 0.002836
+[2019.06.03-13.49.58:308][258]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.115
+[2019.06.03-13.49.58:308][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.50.42:666][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.50.42:666][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.50.42:731][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.50.42:731][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.50.42:779][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.50.42:784][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.06.03-13.50.42:808][591]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.06.03-13.50.43:759][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.50.52:655][786]LogSlate: Window 'Backup_CharacterDeflect_Montage1' being destroyed
+[2019.06.03-13.50.52:658][786]LogSlate: Window 'Backup_CharacterDeflect_Montage1' being destroyed
+[2019.06.03-13.50.52:744][786]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.03-13.50.55:481][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.51.01:226][947]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.06.03-13.52.50:526][955]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacterC712E6CD403CBE2C029C9D87A79E8A26.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-13.52.51:231][968]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.03-13.52.51:597][968]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2019.06.03-13.52.54:031][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.52.54:054][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.52.54:054][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.52.54:054][ 15]PIE: New page: PIE session: Georgina (4 Jun 2019 5:52:54 am)
+[2019.06.03-13.52.54:054][ 15]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.52.54:062][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007096s)
+[2019.06.03-13.52.54:062][ 15]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.52.54:062][ 15]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2019.06.03-13.52.54:062][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.007894s)
+[2019.06.03-13.52.54:126][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.06.03-13.52.54:170][ 15]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.52.54:303][ 15]LogInit: FAudioDevice initialized.
+[2019.06.03-13.52.54:333][ 15]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.52.54:336][ 15]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.52.54
+[2019.06.03-13.52.54:337][ 15]LogWorld: Bringing up level for play took: 0.003416
+[2019.06.03-13.52.54:353][ 15]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.16
+[2019.06.03-13.52.54:354][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.53.26:332][975]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.53.26:333][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.53.26:400][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.53.26:400][975]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.53.26:446][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.53.26:451][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.06.03-13.53.26:474][976]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.06.03-13.53.27:147][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.53.40:031][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.53.46:308][400]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Player/CharacterModel_Model__Skeleton.CharacterModel_Model__Skeleton
+[2019.06.03-13.53.46:414][400]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.03-13.53.46:515][400]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.03-13.53.46:871][401]LogRenderer: Reallocating scene render targets to support 1144x884 Format 10 NumSamples 1 (Frame:1).
+[2019.06.03-13.54.07:514][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CharacterModel_Model__Skeleton" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/CharacterModel_Model__Skeleton.uasset" SILENT=true
+[2019.06.03-13.54.07:595][766]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/CharacterModel_Model__Skeleton994748C64086084DC318DB8B2E3776A4.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/CharacterModel_Model__Skeleton.uasset'
+[2019.06.03-13.54.18:300][930]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacter4287254B4BC2AD7BE2D45E9A3D9FD994.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-13.54.27:769][ 90]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacterFD34E20742CB75F30E0802BAB6ABD973.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-13.54.28:162][ 98]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.03-13.54.28:434][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.06.03-13.54.32:747][172]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-13.54.32:772][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.54.32:772][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-13.54.32:772][172]PIE: New page: PIE session: Georgina (4 Jun 2019 5:54:32 am)
+[2019.06.03-13.54.32:773][172]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-13.54.32:781][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008440s)
+[2019.06.03-13.54.32:782][172]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-13.54.32:782][172]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2019.06.03-13.54.32:782][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.009482s)
+[2019.06.03-13.54.32:824][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.06.03-13.54.32:874][172]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-13.54.32:991][172]LogInit: FAudioDevice initialized.
+[2019.06.03-13.54.33:019][172]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-13.54.33:021][172]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-21.54.33
+[2019.06.03-13.54.33:022][172]LogWorld: Bringing up level for play took: 0.002880
+[2019.06.03-13.54.33:037][172]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.844
+[2019.06.03-13.54.33:037][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.55.28:483][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.55.28:483][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.55.28:549][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-13.55.28:550][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-13.55.28:596][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-13.55.28:604][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.06.03-13.55.28:630][837]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.06.03-13.55.29:555][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.55.29:707][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.06.03-13.55.30:006][865]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/GeorginaF682B9774F343824DE282C9C5BA21D82.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Maps/Georgina.umap'
+[2019.06.03-13.55.30:102][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Georgina_BuiltData" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Maps/Georgina_BuiltData.uasset" SILENT=true
+[2019.06.03-13.55.30:414][865]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Georgina_BuiltDataFF00A5EF45B485F5908D99A632D0976B.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Maps/Georgina_BuiltData.uasset'
+[2019.06.03-13.55.31:305][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.55.31:448][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.06.03-13.55.31:718][891]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/GeorginaEE44ED2548F190F2ACD7B8BA6F0F2953.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Maps/Georgina.umap'
+[2019.06.03-13.55.31:851][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Georgina_BuiltData" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Maps/Georgina_BuiltData.uasset" SILENT=true
+[2019.06.03-13.55.32:153][891]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Georgina_BuiltData2DBB1463408C68A94C261EB6022C75EF.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Maps/Georgina_BuiltData.uasset'
+[2019.06.03-13.55.33:503][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.55.42:092][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-13.56.41:647][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-13.56.47:825][493]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Boss/EnemyBoss.EnemyBoss
+[2019.06.03-13.59.19:583][169]BlueprintLog: New page: Compile EnemyBoss
+[2019.06.03-13.59.20:253][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.06.03-14.00.16:248][190]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.03-14.00.16:896][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.06.03-14.00.38:321][514]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacterEA3A0D9B4F4D2FCA76A1C0AA915E5116.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-14.00.56:690][826]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacter6BC30CB9410FD94FA7A336BBC3063405.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-14.00.58:580][863]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.03-14.00.58:872][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.06.03-14.01.01:347][912]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-14.01.01:376][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.01.01:376][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-14.01.01:376][912]PIE: New page: PIE session: Georgina (4 Jun 2019 6:01:01 am)
+[2019.06.03-14.01.01:376][912]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-14.01.01:384][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007885s)
+[2019.06.03-14.01.01:385][912]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-14.01.01:385][912]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.06.03-14.01.01:385][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.008712s)
+[2019.06.03-14.01.01:432][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.06.03-14.01.01:475][912]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-14.01.01:581][912]LogInit: FAudioDevice initialized.
+[2019.06.03-14.01.01:608][912]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-14.01.01:611][912]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-22.01.01
+[2019.06.03-14.01.01:613][912]LogWorld: Bringing up level for play took: 0.004224
+[2019.06.03-14.01.01:630][912]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina -0.563
+[2019.06.03-14.01.01:630][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.02.21:315][304]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.02.21:315][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-14.02.21:382][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-14.02.21:382][304]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.02.21:427][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-14.02.21:435][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.06.03-14.02.21:460][305]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.06.03-14.02.23:282][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.03-14.02.31:525][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/EnemyBoss" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/Boss/EnemyBoss.uasset" SILENT=true
+[2019.06.03-14.02.31:870][482]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/EnemyBoss20D80C704C75B06917913EB35C86D724.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Boss/EnemyBoss.uasset'
+[2019.06.03-14.02.33:002][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-14.02.33:064][504]BlueprintLog: New page: Compile EnemyBoss
+[2019.06.03-14.02.33:529][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.06.03-14.02.36:465][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-14.02.36:564][565]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-14.02.37:134][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.02.37:135][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-14.02.37:135][565]PIE: New page: PIE session: Georgina (4 Jun 2019 6:02:37 am)
+[2019.06.03-14.02.37:135][565]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-14.02.37:142][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007231s)
+[2019.06.03-14.02.37:143][565]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-14.02.37:143][565]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2019.06.03-14.02.37:143][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.007999s)
+[2019.06.03-14.02.37:192][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.06.03-14.02.37:237][565]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-14.02.37:340][565]LogInit: FAudioDevice initialized.
+[2019.06.03-14.02.37:371][565]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-14.02.37:374][565]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-22.02.37
+[2019.06.03-14.02.37:375][565]LogWorld: Bringing up level for play took: 0.002928
+[2019.06.03-14.02.37:391][565]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 1.197
+[2019.06.03-14.02.37:391][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.03.19:583][832]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.03.19:584][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-14.03.19:648][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-14.03.19:649][832]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.03.19:699][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-14.03.19:706][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.06.03-14.03.19:737][833]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.06.03-14.03.32:498][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-14.03.42:984][471]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenuUi/MainMenu.MainMenu
+[2019.06.03-14.03.43:503][471]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.06.03-14.04.21:788][634]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenuUi/GameOverUI.GameOverUI
+[2019.06.03-14.04.56:132][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuUi/GameOverUI" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/MainMenuUi/GameOverUI.uasset" SILENT=true
+[2019.06.03-14.04.56:494][389]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/GameOverUI9CA94C22489CEBF6200C40803412C3DC.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/MainMenuUi/GameOverUI.uasset'
+[2019.06.03-14.07.34:938][372]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2019.06.03-14.07.35:647][372]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Georgina_Auto1B91AE1564A8A4BE1DB7E6F99CB6A3448.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Autosaves/Game/ThirdPersonBP/Maps/Georgina_Auto1.umap'
+[2019.06.03-14.07.35:686][372]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Georgina' took 0.823
+[2019.06.03-14.07.35:686][372]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.823
+[2019.06.03-14.19.04:643][366]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.03-14.19.04:696][367]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.03-14.19.16:820][755]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.06.03-14.19.16:833][755]LogMetaData: Removing '/Game/Player/PlayerShake.SKEL_PlayerShake_C' ref from Metadata '/Game/Player/NewBlueprint.PackageMetaData'
+[2019.06.03-14.19.16:833][755]LogMetaData: Removing '/Game/Player/PlayerShake.PlayerShake_C' ref from Metadata '/Game/Player/NewBlueprint.PackageMetaData'
+[2019.06.03-14.19.16:859][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerShake" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/PlayerShake.uasset" SILENT=true
+[2019.06.03-14.19.16:894][755]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/PlayerShake347F642942112C786E3B35A1963BC0D0.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/PlayerShake.uasset'
+[2019.06.03-14.19.17:135][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.06.03-14.19.17:195][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.06.03-14.19.17:241][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.06.03-14.19.18:657][792]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/PlayerShake.PlayerShake
+[2019.06.03-14.19.36:980][973]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (32.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.03-14.21.24:280][702]BlueprintLog: New page: Compile PlayerShake
+[2019.06.03-14.21.24:333][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.06.03-14.22.56:241][941]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.03-14.23.28:614][481]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.06.03-14.23.28:963][481]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.06.03-14.23.31:397][551]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-14.23.31:521][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.23.31:521][551]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.03-14.23.31:522][551]LogPlayLevel: [PlayLevel] Compiling Georgina before play...
+[2019.06.03-14.23.31:740][551]LogPlayLevel: [PlayLevel] Compiling GameOverUI before play...
+[2019.06.03-14.23.32:708][551]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2019.06.03-14.23.32:708][551]LogPlayLevel: PlayLevel: Blueprint regeneration took 1186 ms (2 blueprints)
+[2019.06.03-14.23.32:708][551]PIE: New page: PIE session: Georgina (4 Jun 2019 6:23:32 am)
+[2019.06.03-14.23.32:709][551]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-14.23.32:717][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008151s)
+[2019.06.03-14.23.32:718][551]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-14.23.32:718][551]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2019.06.03-14.23.32:718][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.008899s)
+[2019.06.03-14.23.32:769][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.06.03-14.23.32:811][551]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-14.23.32:921][551]LogInit: FAudioDevice initialized.
+[2019.06.03-14.23.32:955][551]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-14.23.32:958][551]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-22.23.32
+[2019.06.03-14.23.32:959][551]LogWorld: Bringing up level for play took: 0.002949
+[2019.06.03-14.23.32:974][551]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.781
+[2019.06.03-14.23.32:974][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.23.54:666][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.23.54:666][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-14.23.54:717][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-14.23.54:717][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.23.54:789][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-14.23.54:798][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.06.03-14.23.54:824][847]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.06.03-14.23.56:724][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-14.24.16:680][470]BlueprintLog: New page: Compile PlayerShake
+[2019.06.03-14.24.16:732][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.06.03-14.24.18:547][535]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.03-14.24.18:583][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.24.18:583][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.03-14.24.18:583][535]PIE: New page: PIE session: Georgina (4 Jun 2019 6:24:18 am)
+[2019.06.03-14.24.18:584][535]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina
+[2019.06.03-14.24.18:591][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007506s)
+[2019.06.03-14.24.18:592][535]LogAIModule: Creating AISystem for world Georgina
+[2019.06.03-14.24.18:592][535]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2019.06.03-14.24.18:592][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Georgina.Georgina to /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina (0.008121s)
+[2019.06.03-14.24.18:641][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.06.03-14.24.18:683][535]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.03-14.24.18:793][535]LogInit: FAudioDevice initialized.
+[2019.06.03-14.24.18:827][535]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.03-14.24.18:830][535]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina.Georgina up for play (max tick rate 0) at 2019.06.03-22.24.18
+[2019.06.03-14.24.18:830][535]LogWorld: Bringing up level for play took: 0.003003
+[2019.06.03-14.24.18:846][535]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Georgina 0.653
+[2019.06.03-14.24.18:847][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.24.37:890][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.24.37:891][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-14.24.37:951][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.03-14.24.37:951][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina' with GeneratedClass '/Game/ThirdPersonBP/Maps/Georgina.Georgina_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Georgina.Georgina:PersistentLevel.Georgina'
+[2019.06.03-14.24.38:007][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-14.24.38:012][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.06.03-14.24.38:036][445]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.06.03-14.24.42:560][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.03-14.24.42:714][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.06.03-14.24.44:380][625]LogSlate: Window 'Save Content' being destroyed
+[2019.06.03-14.24.44:413][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerShake" FILE="../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/PlayerShake.uasset" SILENT=true
+[2019.06.03-14.24.45:124][625]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/PlayerShakeA7C85C4D48EEB7704E05F5A6C81F1F18.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/Player/PlayerShake.uasset'
+[2019.06.03-14.24.45:550][625]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/ThirdPersonCharacter28EE27A94CEDC686C501DA8295BAD015.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.06.03-14.24.45:719][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.06.03-14.24.46:048][625]LogSavePackage: Moving '../../../../UnrealProject/N_prototype4/Prototype4/Saved/Georgina2BE5740143852AC20770FFA338C28FBC.tmp' to '../../../../UnrealProject/N_prototype4/Prototype4/Content/ThirdPersonBP/Maps/Georgina.umap'
+[2019.06.03-14.24.46:136][625]LogFileHelpers: Saving map 'Georgina' took 0.554
+[2019.06.03-14.24.46:631][625]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.03-14.24.46:861][625]LogSlate: Window 'PlayerShake' being destroyed
+[2019.06.03-14.24.46:892][625]LogSlate: Window 'Prototype4 - Unreal Editor' being destroyed
+[2019.06.03-14.24.46:894][625]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-14.24.47:183][626]Cmd: QUIT_EDITOR
+[2019.06.03-14.24.48:086][626]LogExit: Preparing to exit.
+[2019.06.03-14.24.49:495][626]LogDirectoryWatcher: A directory notification failed for 'D:/UnrealProject/N_prototype4/Prototype4/Content/', and we were unable to create a new request.
+[2019.06.03-14.24.49:626][626]LogExit: Editor shut down
+[2019.06.03-14.24.49:628][626]LogExit: Transaction tracking system shut down
+[2019.06.03-14.24.50:444][626]LogExit: Object subsystem successfully closed.
+[2019.06.03-14.24.50:468][626]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.03-14.24.50:481][626]LogD3D11RHI: Shutdown
+[2019.06.03-14.24.50:481][626]LogD3D11RHI: CleanupD3DDevice
+[2019.06.03-14.24.50:483][626]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.03-14.24.50:483][626]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.03-14.24.50:483][626]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.03-14.24.50:483][626]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.03-14.24.50:483][626]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.03-14.24.50:483][626]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.03-14.24.50:726][626]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.03-14.24.50:749][626]LogModuleManager: Shutting down and abandoning module SequencerWidgets (670)
+[2019.06.03-14.24.50:749][626]LogModuleManager: Shutting down and abandoning module PinnedCommandList (668)
+[2019.06.03-14.24.50:749][626]LogModuleManager: Shutting down and abandoning module SkeletonEditor (666)
+[2019.06.03-14.24.50:749][626]LogModuleManager: Shutting down and abandoning module AnimationEditor (664)
+[2019.06.03-14.24.50:749][626]LogModuleManager: Shutting down and abandoning module BlueprintGraph (662)
+[2019.06.03-14.24.50:749][626]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (660)
+[2019.06.03-14.24.50:749][626]LogModuleManager: Shutting down and abandoning module Voice (658)
+[2019.06.03-14.24.50:749][626]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (656)
+[2019.06.03-14.24.50:750][626]LogModuleManager: Shutting down and abandoning module SceneOutliner (654)
+[2019.06.03-14.24.50:750][626]LogModuleManager: Shutting down and abandoning module AddContentDialog (652)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module WidgetCarousel (651)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module EditorWidgets (648)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module CollectionManager (646)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module StatsViewer (644)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module FoliageEdit (642)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module LandscapeEditor (640)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module MeshPaintMode (638)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (636)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module ActorPickerMode (634)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module GeometryMode (632)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module TextureAlignMode (630)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module BspMode (628)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (626)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (624)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module AutomationWorker (622)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module OculusMR (620)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (618)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (616)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (614)
+[2019.06.03-14.24.50:751][626]LogModuleManager: Shutting down and abandoning module PlacementMode (613)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module MaterialEditor (612)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (608)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (606)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (604)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (602)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (600)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module WebMMedia (598)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (596)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (594)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module SequenceRecorder (593)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (590)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (588)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (586)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (584)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (582)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (580)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (578)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (576)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (574)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (572)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (570)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module CharacterAI (568)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module SmartSnapping (566)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module SessionServices (564)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module MeshPaint (562)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module ViewportSnapping (560)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module ViewportInteraction (558)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module ClothPainter (556)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (555)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module LogVisualizer (552)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module IntroTutorials (550)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (549)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (546)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (544)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (542)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (540)
+[2019.06.03-14.24.50:752][626]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (539)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (536)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (534)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (532)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (530)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (528)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module InputBindingEditor (526)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module MergeActors (524)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (522)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module LocalizationService (521)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module HardwareTargeting (518)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (516)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module UndoHistory (514)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module XmlParser (512)
+[2019.06.03-14.24.51:727][626]LogModuleManager: Shutting down and abandoning module Blutility (510)
+[2019.06.03-14.24.51:728][626]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (508)
+[2019.06.03-14.24.51:728][626]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (507)
+[2019.06.03-14.24.51:728][626]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (504)
+[2019.06.03-14.24.51:728][626]LogModuleManager: Shutting down and abandoning module SettingsEditor (502)
+[2019.06.03-14.24.51:728][626]LogModuleManager: Shutting down and abandoning module ProjectLauncher (500)
+[2019.06.03-14.24.51:728][626]LogModuleManager: Shutting down and abandoning module SessionFrontend (498)
+[2019.06.03-14.24.51:728][626]LogModuleManager: Shutting down and abandoning module ProfilerClient (496)
+[2019.06.03-14.24.51:728][626]LogModuleManager: Shutting down and abandoning module DeviceManager (494)
+[2019.06.03-14.24.51:728][626]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (493)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module AutomationController (490)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module AutomationWindow (488)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module Layers (486)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (484)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module DetailCustomizations (482)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module PackagesDialog (480)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (478)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module Persona (476)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (475)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module AnimGraph (473)
+[2019.06.03-14.24.51:784][626]LogModuleManager: Shutting down and abandoning module Kismet (470)
+[2019.06.03-14.24.51:797][626]LogModuleManager: Shutting down and abandoning module GraphEditor (468)
+[2019.06.03-14.24.51:797][626]LogModuleManager: Shutting down and abandoning module ClassViewer (466)
+[2019.06.03-14.24.51:798][626]LogModuleManager: Shutting down and abandoning module Toolbox (464)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module ModuleUI (462)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module MovieSceneTools (460)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module OutputLog (458)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module GammaUI (456)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module Documentation (454)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module LiveCoding (452)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module LevelSequence (450)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (448)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module MovieScene (446)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (444)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module LauncherPlatform (442)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module AnalyticsET (440)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module PortalServices (438)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module PortalRpc (436)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module MessagingRpc (434)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module AIModule (432)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module GameplayDebugger (431)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module AITestSuite (429)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module NavigationSystem (427)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module DesktopPlatform (424)
+[2019.06.03-14.24.51:799][626]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (422)
+[2019.06.03-14.24.51:805][626]LogModuleManager: Shutting down and abandoning module ProfilerService (420)
+[2019.06.03-14.24.51:865][626]LogModuleManager: Shutting down and abandoning module TaskGraph (418)
+[2019.06.03-14.24.51:865][626]LogModuleManager: Shutting down and abandoning module SteamVRController (416)
+[2019.06.03-14.24.51:865][626]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (414)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (412)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module OculusEditor (410)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module OculusInput (408)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (406)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module EditableMesh (404)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (402)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module CableComponent (400)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module AudioCapture (398)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (396)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module LinearTimecode (386)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module ImgMedia (384)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (382)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (380)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (378)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module HTML5Networking (376)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (374)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (372)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module BackChannel (370)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module AppleVision (368)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (366)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module AppleImageUtils (364)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module AlembicImporter (362)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module AlembicLibrary (361)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module GeometryCache (360)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (359)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module VariantManagerContent (354)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (352)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (350)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module PluginBrowser (348)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (346)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (344)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.06.03-14.24.51:866][626]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module ConcertSyncClientLibrary (324)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module ConcertUICore (322)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (320)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module ConcertFrontend (318)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (314)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module SignificanceManager (300)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module ActorSequence (290)
+[2019.06.03-14.24.51:867][626]LogModuleManager: Shutting down and abandoning module UdpMessaging (288)
+[2019.06.03-14.24.51:968][626]LogModuleManager: Shutting down and abandoning module TcpMessaging (286)
+[2019.06.03-14.24.52:107][626]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (284)
+[2019.06.03-14.24.52:107][626]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (282)
+[2019.06.03-14.24.52:107][626]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (280)
+[2019.06.03-14.24.52:107][626]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (278)
+[2019.06.03-14.24.52:108][626]LogModuleManager: Shutting down and abandoning module MagicLeapController (276)
+[2019.06.03-14.24.52:109][626]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.03-14.24.52:109][626]LogModuleManager: Shutting down and abandoning module MagicLeapAR (274)
+[2019.06.03-14.24.52:109][626]LogModuleManager: Shutting down and abandoning module AugmentedReality (273)
+[2019.06.03-14.24.52:109][626]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2019.06.03-14.24.52:109][626]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2019.06.03-14.24.52:109][626]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2019.06.03-14.24.52:109][626]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2019.06.03-14.24.52:109][626]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2019.06.03-14.24.52:109][626]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2019.06.03-14.24.52:112][626]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2019.06.03-14.24.52:112][626]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2019.06.03-14.24.52:112][626]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2019.06.03-14.24.52:112][626]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2019.06.03-14.24.52:155][626]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2019.06.03-14.24.52:162][626]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2019.06.03-14.24.52:162][626]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (246)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module ConcertTransport (244)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module Concert (242)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.06.03-14.24.52:163][626]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.06.03-14.24.52:164][626]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.06.03-14.24.52:164][626]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.06.03-14.24.52:164][626]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.06.03-14.24.52:164][626]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.06.03-14.24.52:164][626]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.06.03-14.24.52:164][626]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.06.03-14.24.52:164][626]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.06.03-14.24.52:165][626]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.06.03-14.24.52:184][626]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.06.03-14.24.52:184][626]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.06.03-14.24.52:184][626]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.06.03-14.24.52:184][626]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.06.03-14.24.52:185][626]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.06.03-14.24.52:208][626]LogDerivedDataCache: Shutdown
+[2019.06.03-14.24.52:214][626]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.06.03-14.24.52:214][626]LogXGEController: Cleaning working directory: C:/Users/Darren Chua/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.03-14.24.52:214][626]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.06.03-14.24.52:215][626]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.06.03-14.24.52:335][626]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.06.03-14.24.52:335][626]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.06.03-14.24.52:335][626]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.06.03-14.24.52:335][626]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.06.03-14.24.52:335][626]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.06.03-14.24.52:386][626]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.06.03-14.24.52:387][626]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.06.03-14.24.52:399][626]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.06.03-14.24.52:399][626]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.06.03-14.24.52:609][626]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.06.03-14.24.52:610][626]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.06.03-14.24.52:610][626]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.06.03-14.24.52:610][626]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.06.03-14.24.52:610][626]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.06.03-14.24.52:612][626]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.06.03-14.24.52:612][626]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.06.03-14.24.52:612][626]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.06.03-14.24.52:612][626]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.06.03-14.24.52:612][626]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.06.03-14.24.52:612][626]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.06.03-14.24.52:612][626]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.06.03-14.24.52:621][626]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.06.03-14.24.52:621][626]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.06.03-14.24.52:621][626]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.03-14.24.52:621][626]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.06.03-14.24.52:621][626]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.06.03-14.24.52:621][626]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.06.03-14.24.52:621][626]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.06.03-14.24.52:621][626]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.06.03-14.24.52:626][626]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.06.03-14.24.52:626][626]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.06.03-14.24.52:652][626]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.06.03-14.24.52:652][626]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.03-14.24.52:652][626]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB7FC3B65-40F1-25F5-39FF-1BBC89F0E30A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.2-6574378%2B%2B%2BUE4%2BRelease-4.22&UserID=055363374857821eddcc0eb92cd54226%7Cf78be8046f3942a686e1c70fca118f0f%7C4c9cd85d-8284-4444-9dfc-6f2aa1cd548e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.03-14.24.52:685][626]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.06.03-14.24.52:693][626]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.06.03-14.24.52:697][626]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.06.03-14.24.52:703][626]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.06.03-14.24.52:703][626]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.06.03-14.24.52:714][626]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.06.03-14.24.52:715][626]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.06.03-14.24.52:715][626]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.06.03-14.24.52:715][626]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.06.03-14.24.52:715][626]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.06.03-14.24.52:715][626]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.06.03-14.24.52:715][626]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.06.03-14.24.52:717][626]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.06.03-14.24.52:729][626]LogExit: Exiting.
+[2019.06.03-14.24.52:746][626]Log file closed, 06/03/19 22:24:52
