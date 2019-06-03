@@ -1,0 +1,1578 @@
+﻿Log file open, 06/02/19 23:39:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prototype4
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.476811
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1607) (), CPU: Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.39.18:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.02-11.39.18:768][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.02-11.39.18:769][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.02-11.39.18:769][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.02-11.39.18:769][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.39.18:769][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.39.18:775][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:775][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.02-11.39.18:775][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.02-11.39.18:775][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:775][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.02-11.39.18:775][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:775][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.02-11.39.18:775][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.02-11.39.18:775][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.02-11.39.18:776][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.02-11.39.18:777][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.02-11.39.18:777][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.02-11.39.18:777][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.02-11.39.18:803][  0]LogHAL: Display: Platform has ~ 8 GB [8512647168 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.02-11.39.18:803][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.02-11.39.18:803][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.02-11.39.18:803][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:803][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.02-11.39.18:803][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.02-11.39.18:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.02-11.39.18:805][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.02-11.39.18:806][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.02-11.39.18:806][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.02-11.39.18:806][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.39.18:806][  0]LogInit: Computer: HARRYFANHE
+[2019.06.02-11.39.18:806][  0]LogInit: User: Administrator
+[2019.06.02-11.39.18:806][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.06.02-11.39.18:806][  0]LogInit: High frequency timer resolution =2.533211 MHz
+[2019.06.02-11.39.18:807][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.06.02-11.39.18:807][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.02-11.39.18:807][  0]LogMemory: Process Physical Memory: 97.02 MB used, 97.02 MB peak
+[2019.06.02-11.39.18:807][  0]LogMemory: Process Virtual Memory: 96.02 MB used, 96.02 MB peak
+[2019.06.02-11.39.18:807][  0]LogMemory: Physical Memory: 4136.34 MB used,  3981.96 MB free, 8118.29 MB total
+[2019.06.02-11.39.18:807][  0]LogMemory: Virtual Memory: 515.52 MB used,  134217216.00 MB free, 134217728.00 MB total
+[2019.06.02-11.39.18:920][  0]LogInit: Using OS detected language (zh-CN).
+[2019.06.02-11.39.18:921][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.06.02-11.39.18:924][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.06.02-11.39.18:924][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.06.02-11.39.18:924][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.06.02-11.39.18:925][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.06.02-11.39.18:925][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.06.02-11.39.18:925][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.06.02-11.39.18:925][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.06.02-11.39.18:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.06.02-11.39.18:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.06.02-11.39.18:926][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.06.02-11.39.18:927][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.06.02-11.39.19:054][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.06.02-11.39.19:054][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.06.02-11.39.19:055][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.06.02-11.39.19:055][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.06.02-11.39.19:055][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.06.02-11.39.19:056][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.06.02-11.39.19:056][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.06.02-11.39.19:056][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.06.02-11.39.19:057][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.06.02-11.39.19:057][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.06.02-11.39.19:057][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.06.02-11.39.19:059][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.06.02-11.39.19:060][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.06.02-11.39.19:060][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.06.02-11.39.19:060][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.06.02-11.39.19:060][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.06.02-11.39.19:061][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.06.02-11.39.19:061][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.06.02-11.39.19:061][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.06.02-11.39.19:061][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.06.02-11.39.19:062][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.06.02-11.39.19:062][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.06.02-11.39.19:125][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.02-11.39.19:197][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.02-11.39.19:197][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.02-11.39.19:781][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.02-11.39.19:781][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.02-11.39.19:977][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2019.06.02-11.39.19:977][  0]LogD3D11RHI:       2010/0/4059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.02-11.39.19:994][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.06.02-11.39.19:994][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.02-11.39.20:000][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.02-11.39.20:000][  0]LogD3D11RHI:       0/0/4059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.02-11.39.20:000][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.02-11.39.20:010][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.02-11.39.20:010][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.02-11.39.20:010][  0]LogWindows: EnumDisplayDevices:
+[2019.06.02-11.39.20:011][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.06.02-11.39.20:014][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.02-11.39.20:017][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.02-11.39.20:020][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.02-11.39.20:020][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2019.06.02-11.39.20:020][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.02-11.39.20:020][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.02-11.39.20:020][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.06.02-11.39.20:136][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.02-11.39.20:157][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.02-11.39.20:158][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.02-11.39.20:158][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.02-11.39.20:173][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.02-11.39.21:380][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.02-11.39.21:423][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.02-11.39.21:468][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.02-11.39.21:503][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.02-11.39.21:542][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.02-11.39.21:575][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.02-11.39.21:608][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.02-11.39.21:642][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.02-11.39.21:660][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.02-11.39.21:883][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.02-11.39.21:892][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.02-11.39.21:997][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.02-11.39.21:997][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.02-11.39.22:073][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.02-11.39.22:073][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.02-11.39.22:104][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.02-11.39.22:140][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.02-11.39.22:169][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.02-11.39.22:197][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.02-11.39.22:297][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.02-11.39.22:297][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.02-11.39.22:298][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.02-11.39.22:324][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.02-11.39.22:490][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Intermediate/Shaders/WorkingDirectory/3232/).
+[2019.06.02-11.39.22:491][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/37B6F9614D864D375DE75B81B6EE88DA/'.
+[2019.06.02-11.39.22:498][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.02-11.39.22:499][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.02-11.39.22:499][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.02-11.39.23:568][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.02-11.39.23:690][  0]LogDerivedDataCache: Loaded boot cache 0.12s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.02-11.39.23:691][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.02-11.39.23:691][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Administrator/Documents/N_Prototype4/Prototype4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.02-11.39.23:691][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.02-11.39.23:691][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Administrator/Documents/N_Prototype4/Prototype4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.02-11.39.23:691][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.02-11.39.23:712][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.02-11.39.23:712][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.02-11.39.23:712][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.02-11.39.23:727][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.02-11.39.23:727][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.02-11.39.23:727][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.02-11.39.23:773][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.02-11.39.23:777][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.02-11.39.23:778][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.02-11.39.23:948][  0]LogAssetRegistry: FAssetRegistry took 0.0473 seconds to start up
+[2019.06.02-11.39.24:874][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.02-11.39.25:128][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.02-11.39.25:128][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.02-11.39.25:128][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.02-11.39.25:128][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.02-11.39.25:128][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.02-11.39.25:149][  0]LogNetVersion: Prototype4 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2674950334)
+[2019.06.02-11.39.26:299][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 4 prioritized culture(s) in 0.385283 seconds
+[2019.06.02-11.39.26:310][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.02-11.39.26:310][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.02-11.39.26:310][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.02-11.39.28:341][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.02-11.39.28:357][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.02-11.39.28:796][  0]SourceControl: 源码控制已禁用
+[2019.06.02-11.39.28:797][  0]SourceControl: 源码控制已禁用
+[2019.06.02-11.39.28:804][  0]SourceControl: 源码控制已禁用
+[2019.06.02-11.39.28:807][  0]SourceControl: 源码控制已禁用
+[2019.06.02-11.39.29:064][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.02-11.39.29:351][  0]LogOcInput: OculusInput pre-init called
+[2019.06.02-11.39.30:836][  0]LogEngine: Initializing Engine...
+[2019.06.02-11.39.30:841][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.02-11.39.30:844][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.06.02-11.39.31:225][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.02-11.39.31:262][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.02-11.39.31:306][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.02-11.39.31:372][  0]LogInit: FAudioDevice initialized.
+[2019.06.02-11.39.31:373][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.02-11.39.31:515][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.02-11.39.31:516][  0]LogInit: Texture streaming: Enabled
+[2019.06.02-11.39.31:561][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.02-11.39.31:640][  0]LogInit: Transaction tracking system initialized
+[2019.06.02-11.39.31:708][  0]BlueprintLog: New page: 编辑器加载
+[2019.06.02-11.39.31:927][  0]LocalizationService: 本地化服务已禁用
+[2019.06.02-11.39.32:583][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.02-11.39.32:583][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.02-11.39.33:209][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/' took 0.22s
+[2019.06.02-11.39.33:209][  0]SourceControl: 源码控制已禁用
+[2019.06.02-11.39.33:209][  0]Cmd: MAP LOAD FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.02-11.39.33:211][  0]LightingResults: New page: 光照构建
+[2019.06.02-11.39.33:220][  0]MapCheck: New page: 地图检测
+[2019.06.02-11.39.33:220][  0]LightingResults: New page: 光照构建
+[2019.06.02-11.39.33:343][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.06.02-11.39.35:769][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.02-11.39.35:905][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.02-11.39.35:955][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.06.02-11.39.35:955][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.02-11.39.35:956][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.838毫秒完成。
+[2019.06.02-11.39.35:956][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.747
+[2019.06.02-11.39.36:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.39.36:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.39.36:504][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.39.36:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.39.36:580][  0]LogCollectionManager: Loaded 0 collections in 0.004365 seconds
+[2019.06.02-11.39.36:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Collections/' took 0.01s
+[2019.06.02-11.39.36:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Developers/Administrator/Collections/' took 0.01s
+[2019.06.02-11.39.36:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Collections/' took 0.01s
+[2019.06.02-11.39.36:720][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.02-11.39.36:748][  0]LogContentBrowser: Native class hierarchy populated in 0.0269 seconds. Added 2741 classes and 672 folders.
+[2019.06.02-11.39.36:794][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.02-11.39.36:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.36:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.39.37:499][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.02-11.39.37:581][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.06.02-11.39.37:948][  0]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.02-11.39.37:957][  0]LogSlate: Took 0.005311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.06.02-11.39.37:958][  0]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.02-11.39.37:983][  0]LogSlate: Took 0.016744 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.02-11.39.38:303][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.06.02-11.39.38:547][  0]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '光 (U+5149)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.06.02-11.39.38:830][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.06.02-11.39.38:830][  0]LogLoad: (Engine Initialization) Total time: 25.63 seconds
+[2019.06.02-11.39.38:830][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.02-11.39.39:132][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.02-11.39.39:319][  0]LogSlate: Took 0.011264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.02-11.39.40:570][  4]LogAssetRegistry: Asset discovery search completed in 16.6434 seconds
+[2019.06.02-11.39.40:584][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.02-11.39.40:584][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2019.06.02-11.39.44:576][ 16]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/' took 5.71s
+[2019.06.02-11.40.53:760][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.40.56:324][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.40.59:553][359]LogActorFactory: Actor Factory created slash
+[2019.06.02-11.41.00:086][385]LogActorFactory: Actor Factory created slash
+[2019.06.02-11.41.04:289][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.41.13:504][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.41.18:564][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.41.20:549][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-11.41.21:315][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (slash)
+[2019.06.02-11.41.23:000][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.41.25:298][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-11.41.30:448][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-11.41.31:791][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (slash)
+[2019.06.02-11.41.33:239][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.41.34:804][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-11.41.35:670][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (slash)
+[2019.06.02-11.41.36:536][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.41.40:770][340]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.41.42:124][388]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.02-11.41.42:137][388]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Mat/M_Sword_trail_2.M_Sword_trail_2
+[2019.06.02-11.41.42:203][388]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.41.43:711][388]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.41.43:778][388]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.41.43:836][388]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.06.02-11.41.43:854][388]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2019.06.02-11.41.43:976][388]LogSlate: Took 0.018263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.02-11.41.44:799][391]LogSlate: Took 0.014458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.02-11.41.48:635][528]LogSlate: Window 'M_Sword_trail_2' being destroyed
+[2019.06.02-11.41.48:641][528]LogSlate: Window 'M_Sword_trail_2' being destroyed
+[2019.06.02-11.41.52:510][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.41.52:688][677]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Mat/M_Sword_trail_2.M_Sword_trail_2
+[2019.06.02-11.41.52:699][677]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.41.52:894][677]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.41.52:928][677]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.41.52:991][677]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.06.02-11.41.53:004][677]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2019.06.02-11.41.53:377][678]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.41.59:223][868]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-11.42.04:059][ 23]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Mat/M_Sword_trail2.M_Sword_trail2
+[2019.06.02-11.42.04:070][ 23]LogMaterial: Display: Missing cached shader map for material M_Sword_trail2, compiling. 
+[2019.06.02-11.42.04:316][ 23]LogMaterial: Display: Missing cached shader map for material M_Sword_trail2, compiling. 
+[2019.06.02-11.42.04:350][ 23]LogMaterial: Display: Missing cached shader map for material M_Sword_trail2, compiling. 
+[2019.06.02-11.42.04:413][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.02-11.42.04:433][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.06.02-11.42.04:453][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.02-11.42.04:473][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2019.06.02-11.42.04:490][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.02-11.42.08:936][156]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.42.10:765][216]MaterialEditorStats: Base pass shader without light map: 51 instructions
+[2019.06.02-11.42.10:765][216]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.42.10:765][216]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.42.10:765][216]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.42.12:533][246]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-11.42.18:034][397]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.42.21:686][419]MaterialEditorStats: Base pass shader without light map: 58 instructions
+[2019.06.02-11.42.21:686][419]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.42.21:686][419]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.02-11.42.21:686][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.02-11.42.21:686][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.44.20:103][790]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.02-11.44.20:245][790]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.06.02-11.46.18:610][901]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.46.21:283][988]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.46.29:670][265]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-11.46.29:671][265]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.46.29:671][265]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.46.29:671][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.46.44:560][980]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.46.44:576][980]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.02-11.46.44:615][980]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.06.02-11.46.44:629][980]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2019.06.02-11.46.44:641][980]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.02-11.46.48:131][104]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.46.49:835][157]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-11.46.53:662][294]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.46.53:688][294]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.02-11.46.53:736][294]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.06.02-11.46.53:756][294]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2019.06.02-11.46.53:785][294]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.02-11.46.54:474][315]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-11.46.58:973][445]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.47.03:335][492]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-11.47.03:335][492]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.47.03:335][492]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.47.03:335][492]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.47.12:070][743]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.47.13:025][774]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.47.14:850][828]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.47.18:148][871]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.47.24:210][936]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-11.47.24:210][936]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.47.24:210][936]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.47.24:210][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.47.31:272][985]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.47.32:659][ 26]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.47.38:683][215]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.47.38:718][215]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.06.02-11.47.40:766][268]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.47.43:690][359]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.47.52:152][447]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-11.47.52:152][447]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.47.52:152][447]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.47.52:152][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.48.03:764][554]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.04:572][578]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.04:604][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.48.06:006][610]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.48.12:915][746]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-11.48.12:915][746]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.48.12:916][746]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.48.12:916][746]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.48.19:076][ 32]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.19:127][ 32]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.48.19:147][ 32]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.19:199][ 32]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.48.21:701][ 74]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.48.23:744][136]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.23:774][136]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.48.26:045][179]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.48.33:728][353]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.33:767][353]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.36:132][404]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.48.38:575][454]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.40:558][494]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.48.49:231][776]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.49:583][776]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.49:694][777]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.06.02-11.48.52:645][809]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.48.57:930][912]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.57:962][912]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.48.58:026][912]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.49.01:086][953]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.49.03:754][ 23]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.03:788][ 23]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.09:733][145]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.09:766][145]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.11:421][173]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.49.13:720][199]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.16:025][260]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.16:398][260]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.16:500][261]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.06.02-11.49.18:192][304]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.20:323][359]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.23:659][423]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.49.27:261][507]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.31:469][581]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.49.32:129][600]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.34:227][618]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.49.40:453][726]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.43:979][782]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.46:623][854]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.49.47:235][870]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.49:866][885]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.49.53:281][953]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.49.53:939][953]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.49.56:456][  1]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.50.03:647][101]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.04:705][126]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.50.05:451][146]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.07:269][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.50.15:182][303]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-11.50.15:182][303]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.50.15:182][303]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.50.15:182][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.50.17:132][379]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.17:150][379]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.50.18:901][428]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.18:940][428]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.50.21:013][487]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.50.25:333][577]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.25:363][577]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.27:715][643]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.29:680][694]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.50.30:357][714]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.32:148][744]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.50.35:767][818]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.40:047][914]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.50.42:604][970]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.42:641][970]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.02-11.50.45:005][  4]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.50.50:683][ 84]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.50:726][ 84]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.02-11.50.50:751][ 84]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.02-11.50.50:816][ 84]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.52:119][117]LogEditorTransaction: Undo 材质编辑器： 转换为贴图
+[2019.06.02-11.50.52:133][117]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.52:498][117]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.52:562][117]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.02-11.50.52:607][117]LogMaterial: Display: Missing cached shader map for material M_Sword_trail2, compiling. 
+[2019.06.02-11.50.55:202][180]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.55:232][180]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.02-11.50.55:262][180]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.02-11.50.55:321][180]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.50.58:023][249]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.51.01:978][312]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-11.51.08:276][391]LogMaterialEditor: Applying material M_Sword_trail_2
+[2019.06.02-11.51.10:137][391]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.51.10:194][391]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.51.10:341][391]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.51.10:404][391]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.51.10:562][391]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2019.06.02-11.51.10:584][391]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-11.51.16:086][391]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.51.16:090][391]TextureStreamingBuild: Display: Compiling optional shaders took 5.527 seconds.
+[2019.06.02-11.51.16:504][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.06.02-11.51.16:584][391]MaterialEditorStats: Base pass shader without light map: 58 instructions
+[2019.06.02-11.51.16:584][391]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.51.16:584][391]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.02-11.51.16:584][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.02-11.51.16:584][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.51.27:748][463]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-11.51.27:748][463]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.51.27:748][463]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.51.27:748][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.51.37:565][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.06.02-11.51.38:497][492]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/ThirdPersonExampleMap_Auto1C2FD7CA2475813741D0047904F8CCCC9.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.06.02-11.51.38:526][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.001
+[2019.06.02-11.51.38:527][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.001
+[2019.06.02-11.51.38:532][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VFX/Mat/M_Sword_trail_2] ([1] browsable assets)...
+[2019.06.02-11.51.38:612][492]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VFX/Mat/M_Sword_trail_2.M_Sword_trail_2]
+[2019.06.02-11.51.38:612][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/Mat/M_Sword_trail_2]
+[2019.06.02-11.51.38:666][492]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_2_Auto1FB96314143D2DA086D5FDEBFD5CB07BA.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/VFX/Mat/M_Sword_trail_2_Auto1.uasset'
+[2019.06.02-11.51.38:671][492]LogFileHelpers: Auto-saving content packages took 0.142
+[2019.06.02-11.53.21:037][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.53.32:574][472]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.35:064][542]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.53.37:053][568]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.37:087][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.53.37:132][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.02-11.53.37:181][568]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.38:489][605]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.38:526][605]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.53.38:575][605]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.39:492][630]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.43:050][737]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.53.43:391][747]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.43:420][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.53.43:462][747]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.45:596][811]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.47:905][876]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.53.49:397][908]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.49:431][908]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.53.49:474][908]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.51:045][954]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.51:079][954]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.53.51:124][954]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.52:466][993]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.53.54:370][ 48]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.54.04:191][358]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-11.54.04:191][358]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.54.04:191][358]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.54.04:191][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.54.09:154][507]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.54.09:172][507]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.02-11.54.10:780][552]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.54.17:213][736]MaterialEditorStats: Base pass shader without light map: 58 instructions
+[2019.06.02-11.54.17:213][736]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.54.17:213][736]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.54.17:213][736]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-11.54.17:213][736]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.54.19:271][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.54.21:631][917]LogMaterialEditor: Saving and Compiling material M_Sword_trail_2
+[2019.06.02-11.54.22:263][917]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.54.22:339][917]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.54.22:388][917]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.54.22:513][917]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2019.06.02-11.54.22:535][917]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-11.54.27:631][917]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.54.27:636][917]TextureStreamingBuild: Display: Compiling optional shaders took 5.123 seconds.
+[2019.06.02-11.54.34:244][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.06.02-11.54.37:688][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset" SILENT=true
+[2019.06.02-11.54.37:738][917]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_207BE6FBF4DD8ABFC3F0A6C8F0EEB95DD.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset'
+[2019.06.02-11.54.58:224][250]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.54.58:251][250]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.54.58:290][250]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.54.59:069][271]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.55.05:366][433]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.55.14:413][518]MaterialEditorStats: Base pass shader without light map: 58 instructions
+[2019.06.02-11.55.14:413][518]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.55.14:413][518]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.55.14:413][518]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-11.55.14:413][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.55.15:868][572]LogMaterialEditor: Applying material M_Sword_trail_2
+[2019.06.02-11.55.16:510][572]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.55.16:581][572]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.55.16:623][572]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.55.16:706][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.06.02-11.55.16:726][572]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-11.55.23:466][572]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.55.23:470][572]TextureStreamingBuild: Display: Compiling optional shaders took 6.764 seconds.
+[2019.06.02-11.55.23:640][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.06.02-11.55.36:145][734]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.55.36:147][734]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.02-11.55.36:147][734]LogMaterial: 	(Node ComponentMask) Missing ComponentMask input
+[2019.06.02-11.55.36:188][734]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2019.06.02-11.55.36:191][734]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Missing ComponentMask input
+[2019.06.02-11.55.38:687][805]LogEditorTransaction: Undo 左对齐
+[2019.06.02-11.55.38:696][805]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.55.38:699][805]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.02-11.55.38:699][805]LogMaterial: 	(Node ComponentMask) Missing ComponentMask input
+[2019.06.02-11.55.38:725][805]LogMaterial: Display: Missing cached shader map for material M_Sword_trail2, compiling. 
+[2019.06.02-11.55.39:921][842]LogEditorTransaction: Undo 材质编辑器： 删除
+[2019.06.02-11.55.39:943][842]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.55.39:975][842]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.55.40:040][842]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2019.06.02-11.55.40:135][842]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.06.02-11.55.40:151][842]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.02-11.55.40:170][842]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.02-11.55.40:189][842]LogMaterial: Display: Missing cached shader map for material M_Sword_trail2, compiling. 
+[2019.06.02-11.55.42:293][897]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.55.42:355][897]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.02-11.55.47:557][992]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.55.48:366][ 15]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.55.52:508][133]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-11.55.54:272][181]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.55.55:603][220]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.56.02:141][371]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.56.02:172][371]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.02-11.56.03:331][385]MaterialEditorStats: Base pass shader without light map: 58 instructions
+[2019.06.02-11.56.03:331][385]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.56.03:331][385]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.02-11.56.03:331][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.02-11.56.03:331][385]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.56.04:033][395]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.56.09:941][460]MaterialEditorStats: Base pass shader without light map: 52 instructions
+[2019.06.02-11.56.09:941][460]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.56.09:941][460]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.56.09:941][460]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-11.56.09:941][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.56.52:462][681]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.56.53:485][712]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.56.58:166][856]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.56.58:925][880]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.00:695][935]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.57.01:975][973]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.03:849][ 34]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.57.05:122][ 77]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.06:694][125]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.09:232][201]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.57.13:815][280]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.15:070][317]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.16:051][346]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.16:082][346]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.17:221][380]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.17:273][380]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.18:119][401]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.18:210][401]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant2Vector_0, compiling. 
+[2019.06.02-11.57.21:657][442]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.57.28:788][500]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.06.02-11.57.28:788][500]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.57.28:788][500]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.57.28:788][500]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-11.57.28:788][500]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.57.50:184][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-11.57.53:566][849]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.53:588][849]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant2Vector_0, compiling. 
+[2019.06.02-11.57.53:623][849]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.55:171][897]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.55:208][897]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant2Vector_0, compiling. 
+[2019.06.02-11.57.55:253][897]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.56:600][936]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.56:634][936]LogMaterialEditor: Saving and Compiling material M_Sword_trail_2
+[2019.06.02-11.57.58:083][936]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.57.58:206][936]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.57.58:248][936]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.57.58:366][936]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.06.02-11.57.58:388][936]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-11.58.02:554][936]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.58.02:559][936]TextureStreamingBuild: Display: Compiling optional shaders took 4.192 seconds.
+[2019.06.02-11.58.06:241][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.06.02-11.58.08:673][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset" SILENT=true
+[2019.06.02-11.58.08:757][936]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_2E8C77F214CF420248BB59DBBB0505913.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset'
+[2019.06.02-11.58.08:794][936]MaterialEditorStats: Base pass shader without light map: 56 instructions
+[2019.06.02-11.58.08:794][936]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.58.08:794][936]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.58.08:795][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-11.58.08:795][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.58.12:278][ 93]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.58.13:072][116]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.58.13:509][129]LogMaterialEditor: Saving and Compiling material M_Sword_trail_2
+[2019.06.02-11.58.14:939][129]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.58.15:055][129]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.58.15:107][129]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.58.15:626][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.06.02-11.58.15:650][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-11.58.25:633][129]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.58.25:642][129]TextureStreamingBuild: Display: Compiling optional shaders took 10.016 seconds.
+[2019.06.02-11.58.25:767][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.06.02-11.58.34:625][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset" SILENT=true
+[2019.06.02-11.58.34:712][129]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_2136F94A54CCCBD6CA6D418A56F6325EB.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset'
+[2019.06.02-11.58.34:743][129]MaterialEditorStats: Base pass shader without light map: 52 instructions
+[2019.06.02-11.58.34:743][129]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.58.34:743][129]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.58.34:743][129]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-11.58.34:743][129]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.58.38:723][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.58.40:773][374]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.58.41:221][376]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.58.50:318][649]MaterialEditorStats: Base pass shader without light map: 52 instructions
+[2019.06.02-11.58.50:318][649]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-11.58.50:318][649]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-11.58.50:318][649]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-11.58.50:319][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-11.58.55:525][897]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.58.55:548][897]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.58.56:553][927]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.59.01:319][ 70]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.59.02:110][ 88]LogMaterialEditor: Applying material M_Sword_trail_2
+[2019.06.02-11.59.03:645][ 88]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.59.03:775][ 88]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.59.03:835][ 88]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.59.03:946][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.06.02-11.59.03:971][ 88]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-11.59.09:055][ 88]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.59.09:058][ 88]TextureStreamingBuild: Display: Compiling optional shaders took 5.111 seconds.
+[2019.06.02-11.59.09:138][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.06.02-11.59.11:976][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.59.13:433][204]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.59.17:499][309]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.59.17:530][309]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.59.20:544][402]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.59.20:581][402]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.59.24:892][536]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.59.29:301][668]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.59.30:689][707]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2019.06.02-11.59.32:467][760]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-11.59.51:381][293]LogMaterialEditor: Applying material M_Sword_trail_2
+[2019.06.02-11.59.52:578][293]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-11.59.52:646][293]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.59.52:688][293]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-11.59.52:809][293]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.06.02-11.59.52:832][293]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-11.59.57:069][293]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-11.59.57:072][293]TextureStreamingBuild: Display: Compiling optional shaders took 4.263 seconds.
+[2019.06.02-12.00.00:933][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.06.02-12.00.09:257][540]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-12.00.09:257][540]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.00.09:257][540]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-12.00.09:257][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-12.00.09:257][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.00.15:118][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.00.17:817][872]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.17:843][872]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2019.06.02-12.00.17:886][872]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.18:610][893]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.19:566][920]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.21:860][984]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.23:938][ 43]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.00.24:781][ 66]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.25:557][ 87]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.26:913][124]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.28:630][171]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.28:680][171]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.29:441][192]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.29:501][193]LogMaterialEditor: Applying material M_Sword_trail_2
+[2019.06.02-12.00.31:030][193]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.00.31:088][193]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.31:214][193]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.00.31:261][193]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.00.31:375][193]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2019.06.02-12.00.31:400][193]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.00.36:073][193]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.00.36:076][193]TextureStreamingBuild: Display: Compiling optional shaders took 4.701 seconds.
+[2019.06.02-12.00.39:942][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.06.02-12.00.47:257][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-12.00.48:207][362]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-12.00.48:208][362]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.00.48:208][362]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-12.00.48:208][362]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-12.00.48:208][362]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.00.50:831][469]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.50:847][469]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.52:105][505]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.52:166][506]LogMaterialEditor: Saving and Compiling material M_Sword_trail_2
+[2019.06.02-12.00.53:664][506]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.00.53:722][506]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.00.53:827][506]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.00.53:875][506]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.00.53:972][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.06.02-12.00.53:995][506]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.00.58:778][506]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.00.58:782][506]TextureStreamingBuild: Display: Compiling optional shaders took 4.810 seconds.
+[2019.06.02-12.01.02:411][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.06.02-12.01.04:477][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset" SILENT=true
+[2019.06.02-12.01.04:561][506]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_237DAE2804DC1E64ED9391C97B4F4854E.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset'
+[2019.06.02-12.01.04:602][506]MaterialEditorStats: Base pass shader without light map: 50 instructions
+[2019.06.02-12.01.04:602][506]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.01.04:602][506]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-12.01.04:602][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-12.01.04:602][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.01.11:057][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-12.01.15:791][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (slash)
+[2019.06.02-12.01.19:749][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.01.25:482][419]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.01.25:506][419]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.01.26:815][455]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.01.27:507][472]LogMaterialEditor: Saving and Compiling material M_Sword_trail_2
+[2019.06.02-12.01.29:231][472]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.01.29:371][472]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.01.29:426][472]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.01.29:540][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.06.02-12.01.29:568][472]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.01.34:089][472]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.01.34:093][472]TextureStreamingBuild: Display: Compiling optional shaders took 4.552 seconds.
+[2019.06.02-12.01.34:186][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.06.02-12.01.34:208][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-12.01.40:522][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset" SILENT=true
+[2019.06.02-12.01.40:602][472]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_2C70D9EB84C55335ACD59048FCF1053FC.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset'
+[2019.06.02-12.01.40:639][472]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2019.06.02-12.01.40:639][472]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.01.40:639][472]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-12.01.40:639][472]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-12.01.40:639][472]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.01.42:773][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.01.48:349][704]LogSlate: Window '消息' being destroyed
+[2019.06.02-12.01.48:357][704]LogSlate: Window 'M_Sword_trail2' being destroyed
+[2019.06.02-12.01.48:359][704]LogSlate: Window 'M_Sword_trail2' being destroyed
+[2019.06.02-12.01.52:791][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-12.01.56:762][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.02.03:829][183]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.02.06:793][270]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.02.13:019][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.02.13:085][439]LogMaterialEditor: Applying material M_Sword_trail_2
+[2019.06.02-12.02.14:714][439]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.02.14:834][439]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.02.14:878][439]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.02.14:977][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.06.02-12.02.14:999][439]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.02.19:949][439]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.02.19:954][439]TextureStreamingBuild: Display: Compiling optional shaders took 4.977 seconds.
+[2019.06.02-12.02.20:027][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.06.02-12.02.22:483][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-12.02.25:914][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.02.36:173][882]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2019.06.02-12.02.36:173][882]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.02.36:173][882]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-12.02.36:173][882]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-12.02.36:173][882]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.02.42:415][127]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Mat/M_Sword_trail2.M_Sword_trail2
+[2019.06.02-12.02.42:431][127]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.06.02-12.02.42:574][127]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.06.02-12.02.42:597][127]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.06.02-12.02.42:648][127]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.02-12.02.42:666][127]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.06.02-12.02.42:687][127]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.02-12.02.42:715][127]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2019.06.02-12.02.42:738][127]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.02-12.02.44:952][175]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-12.02.50:915][334]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.02.54:677][435]MaterialEditorStats: Base pass shader without light map: 58 instructions
+[2019.06.02-12.02.54:677][435]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.02.54:678][435]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.02-12.02.54:678][435]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.02-12.02.54:678][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.02.59:910][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.03.17:881][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.03.37:867][202]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.03.40:248][261]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.03.42:897][330]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.03.44:241][365]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.03.44:283][365]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.06.02-12.03.46:341][420]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.03.46:566][426]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.03.51:951][556]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.04.01:172][766]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2019.06.02-12.04.01:173][766]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.04.01:173][766]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-12.04.01:173][766]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.02-12.04.01:173][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.04.03:099][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.04.05:878][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.04.14:152][245]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.14:927][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_1 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_1
+[2019.06.02-12.04.14:927][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_1 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_1
+[2019.06.02-12.04.14:928][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionParticleColor'"MaterialGraphNode_1.MaterialExpressionParticleColor_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.06.02-12.04.14:928][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_11
+[2019.06.02-12.04.14:928][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_11
+[2019.06.02-12.04.14:929][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_11.MaterialExpressionLinearInterpolate_0"')'
+[2019.06.02-12.04.14:931][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_3
+[2019.06.02-12.04.14:932][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_3
+[2019.06.02-12.04.14:932][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_3.MaterialExpressionAdd_0"')'
+[2019.06.02-12.04.14:933][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_4
+[2019.06.02-12.04.14:933][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_4
+[2019.06.02-12.04.14:934][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_4.MaterialExpressionTextureCoordinate_0"')'
+[2019.06.02-12.04.14:934][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_5
+[2019.06.02-12.04.14:934][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_5
+[2019.06.02-12.04.14:934][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_5.MaterialExpressionMultiply_0"')'
+[2019.06.02-12.04.14:936][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_13
+[2019.06.02-12.04.14:936][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_13
+[2019.06.02-12.04.14:936][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_13.MaterialExpressionTextureSample_7"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.06.02-12.04.14:936][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_6
+[2019.06.02-12.04.14:936][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_6
+[2019.06.02-12.04.14:936][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_6.MaterialExpressionConstant_0"')'
+[2019.06.02-12.04.14:939][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_7
+[2019.06.02-12.04.14:939][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_7
+[2019.06.02-12.04.14:940][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'"MaterialGraphNode_7.MaterialExpressionPanner_0"')'
+[2019.06.02-12.04.14:945][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_14
+[2019.06.02-12.04.14:945][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_14
+[2019.06.02-12.04.14:945][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_14.MaterialExpressionTextureSample_2"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.06.02-12.04.14:945][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_12
+[2019.06.02-12.04.14:945][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_12
+[2019.06.02-12.04.14:946][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionOneMinus'"MaterialGraphNode_12.MaterialExpressionOneMinus_0"')'
+[2019.06.02-12.04.14:947][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_10
+[2019.06.02-12.04.14:947][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_10
+[2019.06.02-12.04.14:948][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_10.MaterialExpressionTextureSample_1"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.06.02-12.04.14:950][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_7
+[2019.06.02-12.04.14:950][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_7
+[2019.06.02-12.04.14:951][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'"MaterialGraphNode_7.MaterialExpressionPanner_0"')'
+[2019.06.02-12.04.14:953][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_3
+[2019.06.02-12.04.14:953][266]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_3
+[2019.06.02-12.04.14:953][266]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_3.MaterialExpressionAdd_0"')'
+[2019.06.02-12.04.15:007][266]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.15:048][266]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.02-12.04.15:074][266]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.06.02-12.04.15:095][266]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.06.02-12.04.15:112][266]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2019.06.02-12.04.15:135][266]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.06.02-12.04.17:845][324]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-12.04.19:625][366]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.19:677][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.02-12.04.19:729][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.06.02-12.04.19:781][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.06.02-12.04.19:835][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2019.06.02-12.04.19:893][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.06.02-12.04.22:171][419]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.23:374][447]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.28:991][572]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-12.04.30:416][606]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.30:473][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.06.02-12.04.31:816][634]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.36:615][752]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.04.40:245][844]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.40:282][844]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.41:512][876]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.41:555][876]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.43:230][917]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.48:191][ 42]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.48:228][ 42]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.49:185][ 66]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.49:228][ 66]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.51:088][115]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.51:118][115]LogMaterialEditor: Applying material M_Sword_trail_2
+[2019.06.02-12.04.52:876][115]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.02-12.04.53:009][115]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.04.53:065][115]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.04.53:179][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.06.02-12.04.53:204][115]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.04.59:856][115]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.02-12.04.59:856][115]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.04.59:860][115]TextureStreamingBuild: Display: Compiling optional shaders took 6.680 seconds.
+[2019.06.02-12.05.06:021][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.06.02-12.05.09:751][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.05.21:512][215]LogSlate: Window '消息' being destroyed
+[2019.06.02-12.05.21:549][216]MaterialEditorStats: Base pass shader without light map: 59 instructions
+[2019.06.02-12.05.21:550][216]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.05.21:550][216]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.02-12.05.21:550][216]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.02-12.05.21:550][216]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.05.21:636][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.06.02-12.05.21:636][216]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2019.06.02-12.05.21:638][216]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VFX/Mat/M_Sword_trail_2] ([1] browsable assets)...
+[2019.06.02-12.05.21:668][216]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VFX/Mat/M_Sword_trail_2.M_Sword_trail_2]
+[2019.06.02-12.05.21:668][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/Mat/M_Sword_trail_2]
+[2019.06.02-12.05.21:768][216]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_2_Auto293049738454F313263980680F9B2E45B.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/VFX/Mat/M_Sword_trail_2_Auto2.uasset'
+[2019.06.02-12.05.21:773][216]LogFileHelpers: Auto-saving content packages took 0.135
+[2019.06.02-12.05.36:681][809]LogMaterialEditor: Saving and Compiling material M_Sword_trail_2
+[2019.06.02-12.05.36:708][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset" SILENT=true
+[2019.06.02-12.05.36:809][809]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_236B320F84C1E4662D69F2FBA9B215496.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset'
+[2019.06.02-12.05.39:127][851]LogSlate: Window '消息' being destroyed
+[2019.06.02-12.05.45:457][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail3" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail3.uasset" SILENT=true
+[2019.06.02-12.05.45:493][ 74]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail3BB91F5A449F0E2788DB4FA8E9D884A09.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail3.uasset'
+[2019.06.02-12.05.45:666][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.06.02-12.05.45:731][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.06.02-12.05.45:768][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.06.02-12.05.45:801][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/P_Sword_trail" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/P_Sword_trail.uasset" SILENT=true
+[2019.06.02-12.05.45:884][ 74]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/P_Sword_trail7BB9E6CD4D9FA5AE25DD0F90A257BF49.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/P_Sword_trail.uasset'
+[2019.06.02-12.05.53:716][327]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Mat/M_Sword_trail.M_Sword_trail
+[2019.06.02-12.05.53:726][327]LogMaterial: Display: Missing cached shader map for material M_Sword_trail, compiling. 
+[2019.06.02-12.05.53:867][327]LogMaterial: Display: Missing cached shader map for material M_Sword_trail, compiling. 
+[2019.06.02-12.05.53:891][327]LogMaterial: Display: Missing cached shader map for material M_Sword_trail, compiling. 
+[2019.06.02-12.05.53:937][327]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.06.02-12.05.53:946][327]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2019.06.02-12.05.58:608][399]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.06.00:241][399]LogSlate: Window '消息' being destroyed
+[2019.06.02-12.06.04:051][468]LogSlate: Window '消息' being destroyed
+[2019.06.02-12.06.04:728][468]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.06.02-12.06.04:806][468]LogMaterial: Display: Missing cached shader map for material M_Sword_trail3, compiling. 
+[2019.06.02-12.06.04:875][468]LogMaterial: Display: Missing cached shader map for material M_Sword_trail3, compiling. 
+[2019.06.02-12.06.04:999][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.06.02-12.06.05:021][468]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.06.10:628][468]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.02-12.06.10:628][468]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.06.10:631][468]TextureStreamingBuild: Display: Compiling optional shaders took 5.631 seconds.
+[2019.06.02-12.06.10:746][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.06.02-12.06.12:287][498]LogSlate: Window 'M_Sword_trail_2' being destroyed
+[2019.06.02-12.06.12:301][498]LogSlate: Window 'M_Sword_trail_2' being destroyed
+[2019.06.02-12.06.14:378][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.06.14:433][565]LogTemp: Repeating last play command: 选中的视口
+[2019.06.02-12.06.14:496][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.02-12.06.14:815][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.02-12.06.14:847][565]PIE: New page: PIE会话: ThirdPersonExampleMap (2019年6月3日 下午12:06:14)
+[2019.06.02-12.06.14:876][565]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.02-12.06.14:935][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056573s)
+[2019.06.02-12.06.14:937][565]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.02-12.06.14:938][565]LogPlayLevel: PIE: World Init took: (0.002976s)
+[2019.06.02-12.06.14:938][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.061972s)
+[2019.06.02-12.06.15:041][565]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2019.06.02-12.06.15:101][565]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.02-12.06.15:217][565]LogInit: FAudioDevice initialized.
+[2019.06.02-12.06.15:298][565]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.02-12.06.15:378][565]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.06.03-00.06.15
+[2019.06.02-12.06.15:424][565]LogWorld: Bringing up level for play took: 0.054464
+[2019.06.02-12.06.15:590][565]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0044 seconds. Added 20 classes and 0 folders.
+[2019.06.02-12.06.15:604][565]LogAnimMontage: Warning: Playing a Montage (ExoGame_Troll_Aggro_Montage) for the wrong Skeleton (Boss1Skin_Skeleton) instead of (SK_Troll_Poison_Skeleton).
+[2019.06.02-12.06.15:610][565]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap的‘在编辑器中播放’的起始时间0.625
+[2019.06.02-12.06.15:611][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.02-12.06.30:370][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.02-12.06.30:371][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-12.06.30:402][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.02-12.06.30:403][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.02-12.06.30:441][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-12.06.30:446][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.06.02-12.06.30:479][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.06.02-12.06.32:487][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-12.06.33:786][196]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.06.02-12.06.36:235][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.06.36:444][263]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Player/Character.Character
+[2019.06.02-12.06.36:932][263]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.06.02-12.06.36:996][263]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.02-12.06.37:007][263]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2019.06.02-12.06.37:262][263]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.02-12.06.39:694][301]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:39).
+[2019.06.02-12.06.40:972][325]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Player/PlayerBlendSpace.PlayerBlendSpace
+[2019.06.02-12.06.41:043][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.02-12.06.41:098][325]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.02-12.06.41:863][325]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.02-12.06.50:756][532]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/NewAnimation/Sword_swing_2.Sword_swing_2
+[2019.06.02-12.06.50:757][532]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/NewAnimation/Sword_swing_2.Sword_swing_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.02-12.06.51:131][532]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Player/NewAnimation/Sword_swing_2.Sword_swing_2
+[2019.06.02-12.06.58:889][695]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animetion/Skill2.Skill2
+[2019.06.02-12.07.07:464][881]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Animation/CharacterSwing1.CharacterSwing1
+[2019.06.02-12.07.07:464][881]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/Animation/CharacterSwing1.CharacterSwing1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.02-12.07.07:502][881]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Player/Animation/CharacterSwing1.CharacterSwing1
+[2019.06.02-12.07.14:796][ 51]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animetion/CharacterAttack3.CharacterAttack3
+[2019.06.02-12.07.27:491][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.07.33:852][494]LogSlate: Window 'CharacterAttack3' being destroyed
+[2019.06.02-12.07.33:863][494]LogSlate: Window 'CharacterAttack3' being destroyed
+[2019.06.02-12.07.39:121][628]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/VFX/P_Sword_trail.P_Sword_trail
+[2019.06.02-12.07.39:503][628]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2019.06.02-12.07.46:343][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.07.46:384][807]LogSlate: Window 'P_Sword_trail' being destroyed
+[2019.06.02-12.07.46:398][807]LogSlate: Window 'P_Sword_trail' being destroyed
+[2019.06.02-12.07.46:398][807]LogCascade: Quitting Cascade. FXSystem=0x000001D09B11DF00
+[2019.06.02-12.07.51:326][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (slash)
+[2019.06.02-12.07.57:282][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.08.02:038][432]LogAssetEditorManager: Opening Asset editor for Material /Game/VFX/Mat/M_Sword_trail_2.M_Sword_trail_2
+[2019.06.02-12.08.02:050][432]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.08.02:251][432]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.08.02:275][432]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.08.02:327][432]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.02-12.08.02:339][432]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.06.02-12.08.02:353][432]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.06.02-12.08.02:368][432]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.06.02-12.08.06:010][506]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-12.08.06:149][509]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.08.09:452][581]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.02-12.08.19:575][804]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.08.30:088][ 59]MaterialEditorStats: Base pass shader without light map: 59 instructions
+[2019.06.02-12.08.30:088][ 59]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.08.30:088][ 59]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.02-12.08.30:088][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.02-12.08.30:088][ 59]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.08.36:600][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.08.48:648][727]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_8
+[2019.06.02-12.08.48:649][727]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_8
+[2019.06.02-12.08.48:649][727]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.M_Sword_trail_2:MaterialGraph_0.MaterialGraphNode_8
+[2019.06.02-12.08.48:649][727]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_8.MaterialExpressionTextureSample_5"',OutputIndex=1,Mask=1,MaskR=1)'
+[2019.06.02-12.08.48:649][727]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_6
+[2019.06.02-12.08.48:649][727]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_6
+[2019.06.02-12.08.48:649][727]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.M_Sword_trail_2:MaterialGraph_0.MaterialGraphNode_6
+[2019.06.02-12.08.48:649][727]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_6.MaterialExpressionConstant_0"')'
+[2019.06.02-12.08.48:651][727]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Sword_trail2:MaterialGraph_0.MaterialGraphNode_7
+[2019.06.02-12.08.48:651][727]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.PreviewMaterial_0:MaterialGraph_0.MaterialGraphNode_7
+[2019.06.02-12.08.48:651][727]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Sword_trail_2:MaterialGraph_0.MaterialGraphNode_7
+[2019.06.02-12.08.48:651][727]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'"MaterialGraphNode_7.MaterialExpressionPanner_2"')'
+[2019.06.02-12.08.48:675][727]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.08.48:727][727]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2019.06.02-12.08.48:746][727]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.02-12.08.53:199][826]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.09.08:323][174]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.08:399][174]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.02-12.09.12:349][262]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.14:792][321]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.18:268][399]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.09.20:452][451]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.23:566][523]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.09.25:509][566]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.25:558][566]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.28:315][623]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.29:525][650]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.30:497][672]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.30:500][672]LogMaterial: Warning: /Engine/Transient.M_Sword_trail_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.02-12.09.30:500][672]LogMaterial: 	(Node OneMinus) Missing 1-x input
+[2019.06.02-12.09.30:504][672]MaterialEditorStats: Error: [SM5] (Node OneMinus) Missing 1-x input
+[2019.06.02-12.09.35:975][847]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.35:998][847]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.02-12.09.38:018][889]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.38:068][889]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.02-12.09.40:038][932]LogMaterialEditor: Applying material M_Sword_trail_2
+[2019.06.02-12.09.41:930][932]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.09.42:003][932]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.42:175][932]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.42:236][932]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.09.42:401][932]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.06.02-12.09.42:429][932]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.09.55:957][932]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.02-12.09.55:957][932]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.09.55:974][932]TextureStreamingBuild: Display: Compiling optional shaders took 13.573 seconds.
+[2019.06.02-12.10.01:212][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.06.02-12.10.16:482][ 33]MaterialEditorStats: Base pass shader without light map: 61 instructions
+[2019.06.02-12.10.16:482][ 33]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.10.16:482][ 33]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.02-12.10.16:482][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.06.02-12.10.16:482][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.10.56:077][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-12.11.01:105][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.14.56:966][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-12.15.38:589][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.06.02-12.15.39:050][406]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/ThirdPersonExampleMap_Auto3FB4033AF413ABA4DD23273945E8D4233.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.06.02-12.15.39:060][406]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.507
+[2019.06.02-12.15.39:060][406]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.507
+[2019.06.02-12.15.39:063][406]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VFX/Mat/M_Sword_trail3] ([1] browsable assets)...
+[2019.06.02-12.15.39:108][406]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VFX/Mat/M_Sword_trail3.M_Sword_trail3]
+[2019.06.02-12.15.39:108][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/Mat/M_Sword_trail3]
+[2019.06.02-12.15.39:224][406]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail3_Auto3DE4C4EFB4970BA7BF37DF183CB9F7155.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/VFX/Mat/M_Sword_trail3_Auto3.uasset'
+[2019.06.02-12.15.39:234][406]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VFX/Mat/M_Sword_trail_2] ([1] browsable assets)...
+[2019.06.02-12.15.39:294][406]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VFX/Mat/M_Sword_trail_2.M_Sword_trail_2]
+[2019.06.02-12.15.39:294][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/Mat/M_Sword_trail_2]
+[2019.06.02-12.15.39:622][406]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_2_Auto39DBBE23F4D11594DE4DA2A800B15A335.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/VFX/Mat/M_Sword_trail_2_Auto3.uasset'
+[2019.06.02-12.15.39:627][406]LogFileHelpers: Auto-saving content packages took 0.566
+[2019.06.02-12.20.19:629][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-12.20.22:585][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (slash)
+[2019.06.02-12.20.23:980][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.20.29:532][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.20.34:413][834]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.20.35:950][861]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.20.37:069][895]LogMaterialEditor: Saving and Compiling material M_Sword_trail_2
+[2019.06.02-12.20.38:411][895]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.20.38:543][895]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.20.38:590][895]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.20.38:689][895]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.06.02-12.20.38:707][895]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.20.43:174][895]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.20.43:177][895]TextureStreamingBuild: Display: Compiling optional shaders took 4.487 seconds.
+[2019.06.02-12.20.46:410][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.06.02-12.20.46:430][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-12.20.48:290][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset" SILENT=true
+[2019.06.02-12.20.48:396][895]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_21049E84440A778DA2F5342AE50EBAFA8.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset'
+[2019.06.02-12.20.48:445][895]MaterialEditorStats: Base pass shader without light map: 57 instructions
+[2019.06.02-12.20.48:445][895]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.20.48:445][895]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.02-12.20.48:445][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.06.02-12.20.48:445][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.20.50:285][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-12.20.51:556][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (slash)
+[2019.06.02-12.20.52:024][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.20.59:029][420]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.00:253][461]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.21.01:147][492]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.02:269][529]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.21.03:724][581]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.05:505][645]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.21.09:667][802]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.09:698][802]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.10:167][817]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.12:149][884]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.12:978][910]LogMaterialEditor: Saving and Compiling material M_Sword_trail_2
+[2019.06.02-12.21.14:327][910]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.02-12.21.14:376][910]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.14:502][910]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.14:549][910]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.21.14:657][910]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.06.02-12.21.14:680][910]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.21.18:921][910]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.21.18:924][910]TextureStreamingBuild: Display: Compiling optional shaders took 4.267 seconds.
+[2019.06.02-12.21.24:261][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.06.02-12.21.26:585][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset" SILENT=true
+[2019.06.02-12.21.26:739][910]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_296E118FD4547ACC1BF879B9A87D52F48.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset'
+[2019.06.02-12.21.26:784][910]MaterialEditorStats: Base pass shader without light map: 59 instructions
+[2019.06.02-12.21.26:784][910]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.21.26:784][910]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.02-12.21.26:784][910]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.02-12.21.26:784][910]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.21.38:977][947]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (50.509 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.02-12.21.49:556][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-12.21.50:120][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (slash)
+[2019.06.02-12.21.51:445][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.22.04:908][774]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_6, compiling. 
+[2019.06.02-12.22.27:526][830]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.22.27:554][830]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_6, compiling. 
+[2019.06.02-12.22.27:599][830]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.06.02-12.22.29:833][891]LogMaterialEditor: Applying material M_Sword_trail_2
+[2019.06.02-12.22.31:386][891]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.22.31:528][891]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.22.31:583][891]LogMaterial: Display: Missing cached shader map for material M_Sword_trail_2, compiling. 
+[2019.06.02-12.22.31:682][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.06.02-12.22.31:709][891]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.02-12.22.37:155][891]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.02-12.22.37:155][891]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.02-12.22.37:159][891]TextureStreamingBuild: Display: Compiling optional shaders took 5.476 seconds.
+[2019.06.02-12.22.37:249][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.06.02-12.22.41:426][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-12.22.41:479][ 15]LogMaterialEditor: Saving and Compiling material M_Sword_trail_2
+[2019.06.02-12.22.45:682][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Mat/M_Sword_trail_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset" SILENT=true
+[2019.06.02-12.22.45:774][ 15]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_Sword_trail_2BDD6B28D48BD447208B4A7B4140984F8.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/VFX/Mat/M_Sword_trail_2.uasset'
+[2019.06.02-12.22.45:807][ 15]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2019.06.02-12.22.45:807][ 15]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2019.06.02-12.22.45:807][ 15]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.02-12.22.45:807][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.06.02-12.22.45:807][ 15]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.02-12.22.51:814][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_2)
+[2019.06.02-12.22.58:471][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (slash)
+[2019.06.02-12.23.02:565][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.02-12.23.05:593][952]Cmd: TRANSACTION UNDO
+[2019.06.02-12.23.05:593][952]LogEditorTransaction: Undo 点击Actor
+[2019.06.02-12.23.05:967][952]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.02-12.23.08:972][952]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.004 s
+[2019.06.02-12.23.08:972][952]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.02-12.23.08:972][952]LogOutputDevice: Error: 
+[2019.06.02-12.23.08:972][952]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2019.06.02-12.23.08:972][952]LogOutputDevice: Error: 
+[2019.06.02-12.23.08:972][952]LogOutputDevice: Error: Stack: 
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3c521639 UE4Editor-Engine.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3b4f8391 UE4Editor-Engine.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc38ee4e85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc38f06366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc38ef2f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc38f4ac13 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc38f8ae28 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc38f2925f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc38ef26cc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc38eec576 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3967e9fa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc18a3559e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc18a359fe UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.02-12.23.08:973][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3a1b71ea UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3a1e743e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc18a44fde UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc18a3542e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3a1e8e48 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3a1df1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3aa9b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3aa8ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3aa9d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3aa8c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc6d4c1c84 USER32.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc6d4c15cc USER32.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ffc3aa9e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ff7ad305d3e UE4Editor.exe!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ff7ad31554c UE4Editor.exe!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ff7ad3155ca UE4Editor.exe!UnknownFunction []
+[2019.06.02-12.23.08:974][952]LogOutputDevice: Error: [Callstack] 0x00007ff7ad32316c UE4Editor.exe!UnknownFunction []
+[2019.06.02-12.23.08:975][952]LogOutputDevice: Error: [Callstack] 0x00007ff7ad325b8e UE4Editor.exe!UnknownFunction []
+[2019.06.02-12.23.08:975][952]LogOutputDevice: Error: [Callstack] 0x00007ffc6c1984d4 KERNEL32.DLL!UnknownFunction []
+[2019.06.02-12.23.08:975][952]LogOutputDevice: Error: [Callstack] 0x00007ffc6d7ae851 ntdll.dll!UnknownFunction []
+[2019.06.02-12.23.08:975][952]LogOutputDevice: Error: 
+[2019.06.02-12.23.08:979][952]LogStats:                SubmitErrorReport -  0.000 s
