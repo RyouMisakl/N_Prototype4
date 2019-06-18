@@ -1,0 +1,1236 @@
+﻿Log file open, 06/19/19 05:39:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prototype4
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.774874
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1607) (), CPU: Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unreal/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.18-17.39.38:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.18-17.39.38:163][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.18-17.39.38:164][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.18-17.39.38:164][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.18-17.39.38:164][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.18-17.39.38:164][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.18-17.39.38:164][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.18-17.39.38:164][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.18-17.39.38:164][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.18-17.39.38:169][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.18-17.39.38:169][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.18-17.39.38:170][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.18-17.39.38:170][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.18-17.39.38:171][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.18-17.39.38:189][  0]LogHAL: Display: Platform has ~ 8 GB [8512647168 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.18-17.39.38:190][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.18-17.39.38:190][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.18-17.39.38:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.18-17.39.38:191][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.18-17.39.38:192][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.18-17.39.38:193][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.18-17.39.38:193][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.18-17.39.38:193][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Config/Windows/Engine.ini]
+[2019.06.18-17.39.38:193][  0]LogInit: Computer: HARRYFANHE
+[2019.06.18-17.39.38:193][  0]LogInit: User: Administrator
+[2019.06.18-17.39.38:193][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.06.18-17.39.38:193][  0]LogInit: High frequency timer resolution =2.533209 MHz
+[2019.06.18-17.39.38:194][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.06.18-17.39.38:194][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.18-17.39.38:194][  0]LogMemory: Process Physical Memory: 97.48 MB used, 97.48 MB peak
+[2019.06.18-17.39.38:194][  0]LogMemory: Process Virtual Memory: 90.19 MB used, 90.19 MB peak
+[2019.06.18-17.39.38:194][  0]LogMemory: Physical Memory: 6314.96 MB used,  1803.33 MB free, 8118.29 MB total
+[2019.06.18-17.39.38:194][  0]LogMemory: Virtual Memory: 509.96 MB used,  134217216.00 MB free, 134217728.00 MB total
+[2019.06.18-17.39.38:332][  0]LogInit: Using OS detected language (zh-CN).
+[2019.06.18-17.39.38:332][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.06.18-17.39.38:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.06.18-17.39.38:336][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.06.18-17.39.38:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.06.18-17.39.38:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.06.18-17.39.38:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.06.18-17.39.38:338][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.06.18-17.39.38:338][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.06.18-17.39.38:338][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.06.18-17.39.38:339][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.06.18-17.39.38:339][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.06.18-17.39.38:339][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.06.18-17.39.38:467][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.06.18-17.39.38:467][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.06.18-17.39.38:467][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.06.18-17.39.38:467][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.06.18-17.39.38:468][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.06.18-17.39.38:468][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.06.18-17.39.38:468][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.06.18-17.39.38:468][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.06.18-17.39.38:469][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.06.18-17.39.38:469][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.06.18-17.39.38:469][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.06.18-17.39.38:471][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.06.18-17.39.38:471][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.06.18-17.39.38:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.06.18-17.39.38:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.06.18-17.39.38:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.06.18-17.39.38:472][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.06.18-17.39.38:473][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.06.18-17.39.38:473][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.06.18-17.39.38:473][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.06.18-17.39.38:474][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.06.18-17.39.38:474][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.06.18-17.39.38:528][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.18-17.39.38:616][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.18-17.39.38:616][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.18-17.39.39:214][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.18-17.39.39:214][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.18-17.39.39:434][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2019.06.18-17.39.39:434][  0]LogD3D11RHI:       2010/0/4059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.18-17.39.39:453][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.06.18-17.39.39:454][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.18-17.39.39:459][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.18-17.39.39:459][  0]LogD3D11RHI:       0/0/4059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.18-17.39.39:459][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.18-17.39.39:474][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.18-17.39.39:474][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.18-17.39.39:474][  0]LogWindows: EnumDisplayDevices:
+[2019.06.18-17.39.39:475][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.06.18-17.39.39:478][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.18-17.39.39:481][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.06.18-17.39.39:484][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.18-17.39.39:484][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2019.06.18-17.39.39:484][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.18-17.39.39:484][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.18-17.39.39:484][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.06.18-17.39.39:623][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.18-17.39.39:652][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.18-17.39.39:653][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.18-17.39.39:653][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.18-17.39.39:670][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.18-17.39.41:137][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.18-17.39.41:169][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.18-17.39.41:208][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.18-17.39.41:245][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.18-17.39.41:277][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.18-17.39.41:312][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.18-17.39.41:349][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.18-17.39.41:393][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.18-17.39.41:414][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.18-17.39.41:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.18-17.39.41:640][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.18-17.39.41:640][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.18-17.39.41:640][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.18-17.39.41:640][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.18-17.39.41:640][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.18-17.39.41:640][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.18-17.39.41:649][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.18-17.39.41:761][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.18-17.39.41:761][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.18-17.39.41:856][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.18-17.39.41:856][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.18-17.39.41:904][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.18-17.39.41:947][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.18-17.39.41:997][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.18-17.39.42:042][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.18-17.39.42:151][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.18-17.39.42:151][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.18-17.39.42:151][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.18-17.39.42:184][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.18-17.39.42:364][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Intermediate/Shaders/WorkingDirectory/23088/).
+[2019.06.18-17.39.42:364][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/3C64017642D0DD9586688B8327C8CD38/'.
+[2019.06.18-17.39.42:373][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.18-17.39.42:374][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.18-17.39.42:374][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.18-17.39.43:545][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.18-17.39.43:699][  0]LogDerivedDataCache: Loaded boot cache 0.15s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.18-17.39.43:699][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.18-17.39.43:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Administrator/Documents/N_Prototype4/Prototype4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.18-17.39.43:699][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.18-17.39.43:700][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Administrator/Documents/N_Prototype4/Prototype4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.18-17.39.43:700][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.18-17.39.43:724][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.18-17.39.43:724][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.18-17.39.43:724][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.18-17.39.43:741][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.18-17.39.43:741][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.18-17.39.43:741][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.18-17.39.43:821][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.18-17.39.43:827][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.18-17.39.43:829][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.18-17.39.44:061][  0]LogAssetRegistry: FAssetRegistry took 0.0612 seconds to start up
+[2019.06.18-17.39.45:210][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.18-17.39.45:543][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.18-17.39.45:543][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.18-17.39.45:543][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.18-17.39.45:543][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.18-17.39.45:543][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.18-17.39.45:570][  0]LogNetVersion: Prototype4 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2674950334)
+[2019.06.18-17.39.47:103][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 4 prioritized culture(s) in 0.585933 seconds
+[2019.06.18-17.39.47:113][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.18-17.39.47:113][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.18-17.39.47:113][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.18-17.39.49:372][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.18-17.39.49:391][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.18-17.39.49:930][  0]SourceControl: 源码控制已禁用
+[2019.06.18-17.39.49:930][  0]SourceControl: 源码控制已禁用
+[2019.06.18-17.39.49:942][  0]SourceControl: 源码控制已禁用
+[2019.06.18-17.39.49:947][  0]SourceControl: 源码控制已禁用
+[2019.06.18-17.39.50:315][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.18-17.39.50:641][  0]LogOcInput: OculusInput pre-init called
+[2019.06.18-17.39.52:342][  0]LogEngine: Initializing Engine...
+[2019.06.18-17.39.52:347][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.18-17.39.52:350][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.06.18-17.39.52:826][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.18-17.39.52:881][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.18-17.39.52:920][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-17.39.53:023][  0]LogInit: FAudioDevice initialized.
+[2019.06.18-17.39.53:023][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.18-17.39.53:166][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.18-17.39.53:167][  0]LogInit: Texture streaming: Enabled
+[2019.06.18-17.39.53:234][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.18-17.39.53:315][  0]LogInit: Transaction tracking system initialized
+[2019.06.18-17.39.53:403][  0]BlueprintLog: New page: 编辑器加载
+[2019.06.18-17.39.53:668][  0]LocalizationService: 本地化服务已禁用
+[2019.06.18-17.39.54:631][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.18-17.39.54:632][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.18-17.39.55:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/' took 0.28s
+[2019.06.18-17.39.55:256][  0]SourceControl: 源码控制已禁用
+[2019.06.18-17.39.55:256][  0]Cmd: MAP LOAD FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/ThirdPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.18-17.39.55:262][  0]LightingResults: New page: 光照构建
+[2019.06.18-17.39.55:272][  0]MapCheck: New page: 地图检测
+[2019.06.18-17.39.55:272][  0]LightingResults: New page: 光照构建
+[2019.06.18-17.39.55:346][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.06.18-17.39.55:910][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.06.18-17.39.55:911][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.18-17.39.55:986][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.06.18-17.39.55:987][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.18-17.39.55:988][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时1.097毫秒完成。
+[2019.06.18-17.39.55:988][  0]LogFileHelpers: Loading map 'MainMenu' took 0.732
+[2019.06.18-17.39.56:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-17.39.56:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-17.39.56:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-17.39.56:909][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-17.39.56:989][  0]LogCollectionManager: Loaded 0 collections in 0.005017 seconds
+[2019.06.18-17.39.57:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Collections/' took 0.01s
+[2019.06.18-17.39.57:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Developers/Administrator/Collections/' took 0.01s
+[2019.06.18-17.39.57:196][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Collections/' took 0.01s
+[2019.06.18-17.39.57:196][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.18-17.39.57:213][  0]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 2741 classes and 672 folders.
+[2019.06.18-17.39.57:326][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.18-17.39.57:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.57:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-17.39.58:064][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.06.18-17.39.58:129][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.06.18-17.39.59:405][  0]LogSlate: Took 0.000567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.18-17.39.59:418][  0]LogSlate: Took 0.005253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.06.18-17.39.59:420][  0]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.18-17.39.59:508][  0]LogSlate: Took 0.018866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.18-17.40.00:411][  0]LogRenderer: Reallocating scene render targets to support 1164x572 Format 10 NumSamples 1 (Frame:1).
+[2019.06.18-17.40.01:980][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.06.18-17.40.01:981][  0]LogLoad: (Engine Initialization) Total time: 53.39 seconds
+[2019.06.18-17.40.01:981][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.18-17.40.02:500][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.18-17.40.03:285][  0]LogSlate: Took 0.050382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.18-17.40.04:841][  4]LogAssetRegistry: Asset discovery search completed in 20.8026 seconds
+[2019.06.18-17.40.04:848][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.18-17.40.04:848][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000116 seconds (updated 0 objects)
+[2019.06.18-17.40.08:844][ 16]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/' took 6.78s
+[2019.06.18-17.44.29:469][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.45.04:150][417]LogSlate: Took 0.036970 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.18-17.45.07:465][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/uvlayed_main_BaseColor822DB9D54A96A95F17E9B08BFCF10417.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/uvlayed_main_BaseColor.uasset'
+[2019.06.18-17.45.07:951][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/uvlayed_main_Normal5F2992974993A46C1B77FF88C701A80A.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/uvlayed_main_Normal.uasset'
+[2019.06.18-17.45.08:071][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/uvlayed_main_OcclusionRoughnessM75D388FE49E635D73E8127A2C7DF5B3E.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/uvlayed_main_OcclusionRoughnessMetallic.uasset'
+[2019.06.18-17.45.08:145][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/uvlayed_tsuba_BaseColorEE7AEB434C2B113FF8AAD8A66883092C.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/uvlayed_tsuba_BaseColor.uasset'
+[2019.06.18-17.45.08:308][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/uvlayed_tsuba_NormalBA234AF846C0A2E4FA05AE99FAC03CD9.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/uvlayed_tsuba_Normal.uasset'
+[2019.06.18-17.45.08:376][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/uvlayed_tsuba_OcclusionRoughness8BDF0C0A48CEEBD07600B182E2B97103.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/uvlayed_tsuba_OcclusionRoughnessMetallic.uasset'
+[2019.06.18-17.45.08:520][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/main_Base_Color3A338B2640A92EDB464FD1A54ED8AF57.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/main_Base_Color.uasset'
+[2019.06.18-17.45.08:595][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/main_MetallicF9AB06DC44D73BDE417BF7A1B4A6B6F2.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/main_Metallic.uasset'
+[2019.06.18-17.45.08:677][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/main_Mixed_AO5866563A48F6B8758A62D0B9313A941F.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/main_Mixed_AO.uasset'
+[2019.06.18-17.45.08:854][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/main_Normal_DirectX35173EAC472D6D0A3250F0A8EC801A83.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/main_Normal_DirectX.uasset'
+[2019.06.18-17.45.08:937][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/main_Roughness9BFB3861477D457E4EACB8B638C1AAC9.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/main_Roughness.uasset'
+[2019.06.18-17.45.09:030][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/tsuba_Base_Color9443CF07459FC759DE5C8E854018C78B.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/tsuba_Base_Color.uasset'
+[2019.06.18-17.45.09:079][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/tsuba_Metallic2F1609F245763C79B1DEC8884B18A79E.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/tsuba_Metallic.uasset'
+[2019.06.18-17.45.09:143][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/tsuba_Mixed_AO62A24DA64580B509E2254FB4784744FE.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/tsuba_Mixed_AO.uasset'
+[2019.06.18-17.45.09:306][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/tsuba_Normal_DirectX1A8B66214FBE46BF8EF179A3F26CEEE3.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/tsuba_Normal_DirectX.uasset'
+[2019.06.18-17.45.09:360][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/tsuba_Roughness97B51C6E497F14142ED68BBCA9318054.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/Katana/Red/tsuba_Roughness.uasset'
+[2019.06.18-17.45.11:800][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.06.18-17.45.11:850][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.06.18-17.45.11:922][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.06.18-17.45.11:998][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.06.18-17.45.12:045][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.06.18-17.45.12:116][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.06.18-17.45.12:178][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.06.18-17.45.12:239][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.06.18-17.45.12:310][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.06.18-17.45.12:353][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.06.18-17.45.12:410][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.06.18-17.45.12:462][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.06.18-17.45.12:525][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.06.18-17.45.12:563][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.06.18-17.45.12:611][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.06.18-17.45.12:682][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.06.18-17.45.12:740][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.06.18-17.45.12:781][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.06.18-17.45.13:385][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Material/katana" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/katana.uasset" SILENT=true
+[2019.06.18-17.45.13:569][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/katana66D18E5A4156A7FAA96843A945D07696.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/katana.uasset'
+[2019.06.18-17.45.13:637][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Material/katana_tusba" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/katana_tusba.uasset" SILENT=true
+[2019.06.18-17.45.13:836][417]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/katana_tusba661AE6A24CE5A6A81AE0679872129004.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/katana_tusba.uasset'
+[2019.06.18-17.45.47:626][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert1_BaseColor5E974F7842DB8660EFA1B5B9B51E8EB6.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert1_BaseColor.uasset'
+[2019.06.18-17.45.48:368][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert1_NormalD6AAC2C54F6C0484C04560A48714FB54.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert1_Normal.uasset'
+[2019.06.18-17.45.48:758][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert1_OcclusionRoughnes1A305A9D47B8118D94C9908D937B0690.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert1_OcclusionRoughnessMetallic.uasset'
+[2019.06.18-17.45.48:835][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert2_BaseColor8E37B2C943A11BE94D6C6694064359C3.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert2_BaseColor.uasset'
+[2019.06.18-17.45.49:067][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert2_Normal52DC296A466A959835FE259A797DD414.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert2_Normal.uasset'
+[2019.06.18-17.45.49:188][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert2_OcclusionRoughnes273B310E4566A29CFEEAFF8D52836103.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert2_OcclusionRoughnessMetallic.uasset'
+[2019.06.18-17.45.49:342][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert3_BaseColor96D56AFE41C04C53D264F9B3896979A5.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert3_BaseColor.uasset'
+[2019.06.18-17.45.49:476][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert3_Normal5416FD7F4B9332EAB4568B9A23BEF594.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert3_Normal.uasset'
+[2019.06.18-17.45.49:550][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert3_OcclusionRoughnes937DB63B4910C04D115AF7BF41DD6E67.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert3_OcclusionRoughnessMetallic.uasset'
+[2019.06.18-17.45.49:835][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_mainBody6B19CDE340F3D96CADCE97B0A32795E4.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/M_mainBody.uasset'
+[2019.06.18-17.45.49:989][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_MainCloth4D58E4D0446B2012B836C9BAF9FF7864.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/M_MainCloth.uasset'
+[2019.06.18-17.45.50:174][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_mainEYESC53797FC40C3919E8FCA2EACA0E48B1B.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/M_mainEYES.uasset'
+[2019.06.18-17.45.50:303][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Material/CwithHair/Hair/Hair" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/Hair.uasset" SILENT=true
+[2019.06.18-17.45.50:358][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/HairBE5C84F5453184F95048F9B91842AEC6.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/Hair.uasset'
+[2019.06.18-17.45.50:382][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CwithHair/Hair/Hair" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/CwithHair/Hair/Hair.uasset" SILENT=true
+[2019.06.18-17.45.50:567][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Hair129B37524FEA2500A66BC9963BC9B26B.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/CwithHair/Hair/Hair.uasset'
+[2019.06.18-17.45.50:658][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Material/CwithHair/Hair/Hair_2" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/Hair_2.uasset" SILENT=true
+[2019.06.18-17.45.50:705][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Hair_213E6C60346783297B5B2CC8906FC1B1C.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/Hair_2.uasset'
+[2019.06.18-17.45.50:772][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/T_hair_alphaB1AD1E8A4F594083A04A3CAC170B8A2D.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/T_hair_alpha.uasset'
+[2019.06.18-17.45.51:071][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/T_hair_Ao8877823242C0AF857AE81B8ACFB960A5.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/T_hair_Ao.uasset'
+[2019.06.18-17.45.51:294][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/T_hair_Base_ColorB2773B6F409905A45C13AB851E1AFC6D.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/T_hair_Base_Color.uasset'
+[2019.06.18-17.45.51:613][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/T_hair_MetallicE2F17E1543D538DC52D7978B85D55ACD.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/T_hair_Metallic.uasset'
+[2019.06.18-17.45.52:668][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/T_hair_N4137D4FA47DFDAFEBF384DB2EA4201EA.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/T_hair_N.uasset'
+[2019.06.18-17.45.52:833][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/T_hair_Roughness83C1D99B41B4F1B472FC7CAE01AB3A53.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Hair/T_hair_Roughness.uasset'
+[2019.06.18-17.45.54:963][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.06.18-17.45.55:013][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.06.18-17.45.55:059][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.06.18-17.45.55:119][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.06.18-17.45.55:166][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.06.18-17.45.55:217][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.06.18-17.45.55:268][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.06.18-17.45.55:318][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.06.18-17.45.55:368][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.06.18-17.45.55:422][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.06.18-17.45.55:463][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.06.18-17.45.55:515][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.06.18-17.45.55:570][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.06.18-17.45.55:632][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.06.18-17.45.55:676][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.06.18-17.45.55:735][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.06.18-17.45.55:815][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.06.18-17.45.55:893][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.06.18-17.45.55:958][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.06.18-17.45.56:054][837]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.06.18-17.45.56:124][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.06.18-17.45.56:583][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CharacterSkin" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/CharacterSkin.uasset" SILENT=true
+[2019.06.18-17.45.56:902][837]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/CharacterSkinD2A3F9534D2C1A5C4170EA83D53A5F55.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/CharacterSkin.uasset'
+[2019.06.18-17.46.26:261][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2019.06.18-17.46.29:652][134]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.18-17.46.29:692][134]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Player/CwithHair/Hair.Hair
+	Asset Name: /Game/Player/CwithHair/Hair/Hair.Hair
+[2019.06.18-17.46.32:038][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.06.18-17.46.32:091][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.06.18-17.46.32:149][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.06.18-17.46.32:225][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.06.18-17.46.36:060][295]LogTemp: Repeating last play command: 选中的视口
+[2019.06.18-17.46.36:233][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.18-17.46.36:282][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-17.46.36:321][295]PIE: New page: PIE会话: MainMenu (2019年6月19日 下午5:46:36)
+[2019.06.18-17.46.36:468][295]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2019.06.18-17.46.36:499][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029093s)
+[2019.06.18-17.46.36:529][295]LogAIModule: Creating AISystem for world MainMenu
+[2019.06.18-17.46.36:555][295]LogPlayLevel: PIE: World Init took: (0.055561s)
+[2019.06.18-17.46.36:555][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.086884s)
+[2019.06.18-17.46.36:599][295]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2019.06.18-17.46.36:642][295]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-17.46.36:725][295]LogInit: FAudioDevice initialized.
+[2019.06.18-17.46.39:129][295]LogBlueprint: Warning: [Compiler PlayerAnimBlueprint] Walk到EnterBlock  will never be taken, please connect something to  Can Enter Transition
+[2019.06.18-17.46.39:692][295]LogBlueprint: Warning: [Compiler PlayerAnimBlueprint] [0451.11]PlayerAnimBlueprint 编译成功，但出现了 1 个警告[947 毫秒内]（/Game/Player/PlayerAnimBlueprint.PlayerAnimBlueprint）
+[2019.06.18-17.46.40:871][295]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-17.46.40:994][295]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.06.19-05.46.40
+[2019.06.18-17.46.41:013][295]LogWorld: Bringing up level for play took: 0.019933
+[2019.06.18-17.46.41:283][295]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.06.18-17.46.41:768][295]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu的‘在编辑器中播放’的起始时间4.905
+[2019.06.18-17.46.41:768][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.18-17.46.47:845][442]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level-01/Outside
+[2019.06.18-17.46.47:845][442]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level-01/Outside
+[2019.06.18-17.46.48:194][442]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2019.06.18-17.46.52:074][442]LogAIModule: Creating AISystem for world Outside
+[2019.06.18-17.46.52:075][442]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-17.46.52:205][442]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Outside.Outside up for play (max tick rate 60) at 2019.06.19-05.46.52
+[2019.06.18-17.46.52:216][442]LogWorld: Bringing up level for play took: 0.139075
+[2019.06.18-17.46.52:237][442]LogLoad: Took 4.391489 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level-01/Outside)
+[2019.06.18-17.46.55:032][490]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'texture change' of length 5 in '/Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Outside.Outside_C'!
+[2019.06.18-17.46.55:174][497]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'texture change' of length 5 in '/Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Outside.Outside_C'!
+[2019.06.18-17.46.55:322][505]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'texture change' of length 5 in '/Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Outside.Outside_C'!
+[2019.06.18-17.46.56:862][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.18-17.46.56:929][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-17.46.57:133][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-17.46.57:144][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.18-17.46.57:309][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-17.46.57:642][574]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2019.06.18-17.46.57:808][575]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.06.18-17.46.58:057][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.47.16:784][950]LogEditorFactories: Performing atomic reimport of [C:/Users/Administrator/Desktop/角色材质/1_low_lambert1_BaseColor.png]
+[2019.06.18-17.47.16:819][950]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Administrator/Desktop/角色材质/1_low_lambert1_BaseColor.png)
+[2019.06.18-17.47.17:519][950]LogTexture: Display: 正在编译纹理：1_low_lambert1_BaseColor（AutoDXT、2048X2048）
+[2019.06.18-17.47.28:976][950]LogEditorFactories: -- imported successfully
+[2019.06.18-17.47.50:983][ 86]LogEditorFactories: Performing atomic reimport of [C:/Users/Administrator/Desktop/角色材质/1_low_lambert1_Normal.png]
+[2019.06.18-17.47.51:026][ 86]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Administrator/Desktop/角色材质/1_low_lambert1_Normal.png)
+[2019.06.18-17.47.51:566][ 86]LogTexture: Display: 正在编译纹理：1_low_lambert1_Normal（BC5、2048X2048）
+[2019.06.18-17.47.53:180][ 86]LogEditorFactories: -- imported successfully
+[2019.06.18-17.48.08:489][744]LogEditorFactories: Performing atomic reimport of [C:/Users/Administrator/Desktop/角色材质/1_low_lambert1_OcclusionRoughnessMetallic.png]
+[2019.06.18-17.48.08:507][744]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Administrator/Desktop/角色材质/1_low_lambert1_OcclusionRoughnessMetallic.png)
+[2019.06.18-17.48.08:795][744]LogTexture: Display: 正在编译纹理：1_low_lambert1_OcclusionRoughnessMetallic（AutoDXT、2048X2048）
+[2019.06.18-17.48.11:126][744]LogEditorFactories: -- imported successfully
+[2019.06.18-17.48.20:048][886]LogEditorFactories: Performing atomic reimport of [C:/Users/Administrator/Desktop/角色材质/1_low_lambert2_BaseColor.png]
+[2019.06.18-17.48.20:055][886]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Administrator/Desktop/角色材质/1_low_lambert2_BaseColor.png)
+[2019.06.18-17.48.20:438][886]LogTexture: Display: 正在编译纹理：1_low_lambert2_BaseColor（AutoDXT、2048X2048）
+[2019.06.18-17.48.21:697][886]LogEditorFactories: -- imported successfully
+[2019.06.18-17.48.25:787][958]LogEditorFactories: Performing atomic reimport of [C:/Users/Administrator/Desktop/角色材质/1_low_lambert2_Normal.png]
+[2019.06.18-17.48.25:856][958]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Administrator/Desktop/角色材质/1_low_lambert2_Normal.png)
+[2019.06.18-17.48.26:440][958]LogTexture: Display: 正在编译纹理：1_low_lambert2_Normal（BC5、2048X2048）
+[2019.06.18-17.48.28:019][958]LogEditorFactories: -- imported successfully
+[2019.06.18-17.48.32:456][ 41]LogEditorFactories: Performing atomic reimport of [C:/Users/Administrator/Desktop/角色材质/1_low_lambert2_OcclusionRoughnessMetallic.png]
+[2019.06.18-17.48.32:471][ 41]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Administrator/Desktop/角色材质/1_low_lambert2_OcclusionRoughnessMetallic.png)
+[2019.06.18-17.48.32:831][ 41]LogTexture: Display: 正在编译纹理：1_low_lambert2_OcclusionRoughnessMetallic（AutoDXT、2048X2048）
+[2019.06.18-17.48.35:179][ 41]LogEditorFactories: -- imported successfully
+[2019.06.18-17.48.40:303][247]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Player/CharacterSkin.CharacterSkin
+[2019.06.18-17.48.41:204][247]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.06.18-17.48.43:292][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.18-17.48.43:558][247]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2019.06.18-17.48.46:051][247]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.18-17.48.59:564][247]LogSlate: Took 0.027753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.18-17.48.59:779][247]LogRenderer: Reallocating scene render targets to support 1164x884 Format 10 NumSamples 1 (Frame:1).
+[2019.06.18-17.49.14:284][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.49.14:564][616]LogAssetEditorManager: Opening Asset editor for Material /Game/Player/Material/CwithHair/Character/M_mainBody.M_mainBody
+[2019.06.18-17.49.14:635][616]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.15:591][616]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.15:777][616]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.15:967][616]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.06.18-17.49.16:008][616]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.18-17.49.16:032][616]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.18-17.49.16:276][616]LogSlate: Took 0.090775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.18-17.49.17:807][618]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '着 (U+7740)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.06.18-17.49.20:933][678]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.22:475][711]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.22:653][711]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.22:808][711]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.26:442][780]LogMaterialEditor: Saving and Compiling material M_mainBody
+[2019.06.18-17.49.30:067][780]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.30:545][780]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.30:734][780]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.49.30:986][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.06.18-17.49.31:037][780]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-17.50.31:221][780]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.06.18-17.50.31:221][780]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.06.18-17.50.31:221][780]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.06.18-17.50.31:221][780]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.18-17.50.31:221][780]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.18-17.50.31:222][780]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.18-17.50.31:222][780]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.18-17.50.31:222][780]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.18-17.50.31:222][780]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.18-17.50.31:245][780]TextureStreamingBuild: Display: Compiling optional shaders took 60.245 seconds.
+[2019.06.18-17.50.31:397][780]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2019.06.18-17.51.13:813][780]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-17.51.13:813][780]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-17.51.13:813][780]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-17.51.14:133][780]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_mainBody1237F76148401C5D06C1398D28FA2608.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/M_mainBody.uasset'
+[2019.06.18-17.51.14:264][780]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.06.18-17.51.14:264][780]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.06.18-17.51.14:264][780]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.06.18-17.51.14:264][780]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.06.18-17.51.14:264][780]MaterialEditorStats: Texture samplers: 6/16
+[2019.06.18-17.51.14:264][780]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.18-17.51.14:264][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.18-17.51.14:354][781]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-17.51.24:606][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.06.18-17.51.24:606][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.044
+[2019.06.18-17.51.24:634][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Material/CwithHair/Character/1_low_lambert1_BaseColor] ([1] browsable assets)...
+[2019.06.18-17.51.24:652][ 95]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Player/Material/CwithHair/Character/1_low_lambert1_BaseColor.1_low_lambert1_BaseColor]
+[2019.06.18-17.51.24:652][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Material/CwithHair/Character/1_low_lambert1_BaseColor]
+[2019.06.18-17.51.26:060][ 95]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert1_BaseColor_Auto15876408F49BBF31B4A08079FF6ACB0BF.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/Player/Material/CwithHair/Character/1_low_lambert1_BaseColor_Auto1.uasset'
+[2019.06.18-17.51.26:071][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Material/CwithHair/Character/1_low_lambert2_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2019.06.18-17.51.26:094][ 95]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Player/Material/CwithHair/Character/1_low_lambert2_OcclusionRoughnessMetallic.1_low_lambert2_OcclusionRoughnessMetallic]
+[2019.06.18-17.51.26:094][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Material/CwithHair/Character/1_low_lambert2_OcclusionRoughnessMetallic]
+[2019.06.18-17.51.27:336][ 95]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert2_OcclusionRoughnes6A8DB51144BB905C13C7DD9EFD626DA9.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/Player/Material/CwithHair/Character/1_low_lambert2_OcclusionRoughnessMetallic_Auto1.uasset'
+[2019.06.18-17.51.27:346][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Material/CwithHair/Character/1_low_lambert2_Normal] ([1] browsable assets)...
+[2019.06.18-17.51.27:362][ 95]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Player/Material/CwithHair/Character/1_low_lambert2_Normal.1_low_lambert2_Normal]
+[2019.06.18-17.51.27:362][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Material/CwithHair/Character/1_low_lambert2_Normal]
+[2019.06.18-17.51.29:658][ 95]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert2_Normal_Auto1A0E243204507ACA9F28AD9BBFC16605B.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/Player/Material/CwithHair/Character/1_low_lambert2_Normal_Auto1.uasset'
+[2019.06.18-17.51.29:667][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Material/CwithHair/Character/1_low_lambert2_BaseColor] ([1] browsable assets)...
+[2019.06.18-17.51.29:684][ 95]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Player/Material/CwithHair/Character/1_low_lambert2_BaseColor.1_low_lambert2_BaseColor]
+[2019.06.18-17.51.29:684][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Material/CwithHair/Character/1_low_lambert2_BaseColor]
+[2019.06.18-17.51.30:184][ 95]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert2_BaseColor_Auto1612555E14169513959B11385C0549D19.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/Player/Material/CwithHair/Character/1_low_lambert2_BaseColor_Auto1.uasset'
+[2019.06.18-17.51.30:195][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Material/CwithHair/Character/1_low_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2019.06.18-17.51.30:214][ 95]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Player/Material/CwithHair/Character/1_low_lambert1_OcclusionRoughnessMetallic.1_low_lambert1_OcclusionRoughnessMetallic]
+[2019.06.18-17.51.30:214][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Material/CwithHair/Character/1_low_lambert1_OcclusionRoughnessMetallic]
+[2019.06.18-17.51.31:308][ 95]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert1_OcclusionRoughnes5FB2106A499DB3782DC01D9A1A5FC9D5.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/Player/Material/CwithHair/Character/1_low_lambert1_OcclusionRoughnessMetallic_Auto1.uasset'
+[2019.06.18-17.51.31:319][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Material/CwithHair/Character/1_low_lambert1_Normal] ([1] browsable assets)...
+[2019.06.18-17.51.31:335][ 95]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Player/Material/CwithHair/Character/1_low_lambert1_Normal.1_low_lambert1_Normal]
+[2019.06.18-17.51.31:335][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Material/CwithHair/Character/1_low_lambert1_Normal]
+[2019.06.18-17.51.34:600][ 95]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert1_Normal_Auto13D6FEAAB40C29D9A590479A4BE8AF9DA.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/Autosaves/Game/Player/Material/CwithHair/Character/1_low_lambert1_Normal_Auto1.uasset'
+[2019.06.18-17.51.34:609][ 95]LogFileHelpers: Auto-saving content packages took 10.000
+[2019.06.18-17.52.02:019][135]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.665 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-17.52.32:854][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.52.33:115][964]LogAssetEditorManager: Opening Asset editor for Material /Game/Player/Material/CwithHair/Character/M_mainEYES.M_mainEYES
+[2019.06.18-17.52.33:129][964]LogMaterial: Display: Missing cached shader map for material M_mainEYES, compiling. 
+[2019.06.18-17.52.33:426][964]LogMaterial: Display: Missing cached shader map for material M_mainEYES, compiling. 
+[2019.06.18-17.52.33:540][964]LogMaterial: Display: Missing cached shader map for material M_mainEYES, compiling. 
+[2019.06.18-17.52.33:696][964]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.18-17.52.33:717][964]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.18-17.52.33:733][964]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.18-17.52.38:809][ 53]LogAssetEditorManager: Opening Asset editor for Material /Game/Player/Material/CwithHair/Character/M_MainCloth.M_MainCloth
+[2019.06.18-17.52.38:826][ 53]LogMaterial: Display: Missing cached shader map for material M_MainCloth, compiling. 
+[2019.06.18-17.52.39:415][ 53]LogMaterial: Display: Missing cached shader map for material M_MainCloth, compiling. 
+[2019.06.18-17.52.39:603][ 53]LogMaterial: Display: Missing cached shader map for material M_MainCloth, compiling. 
+[2019.06.18-17.52.39:801][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.18-17.52.39:833][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.18-17.52.39:902][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.18-17.52.52:569][272]LogMaterial: Display: Missing cached shader map for material M_MainCloth, compiling. 
+[2019.06.18-17.52.54:978][313]LogMaterial: Display: Missing cached shader map for material M_MainCloth, compiling. 
+[2019.06.18-17.52.55:188][313]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.06.18-17.52.56:355][338]LogMaterial: Display: Missing cached shader map for material M_MainCloth, compiling. 
+[2019.06.18-17.52.57:487][359]LogMaterialEditor: Saving and Compiling material M_MainCloth
+[2019.06.18-17.52.59:777][359]LogMaterial: Display: Missing cached shader map for material M_MainCloth, compiling. 
+[2019.06.18-17.53.00:244][359]LogMaterial: Display: Missing cached shader map for material M_MainCloth, compiling. 
+[2019.06.18-17.53.00:414][359]LogMaterial: Display: Missing cached shader map for material M_MainCloth, compiling. 
+[2019.06.18-17.53.00:713][359]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2019.06.18-17.53.00:741][359]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-17.55.38:773][359]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.06.18-17.55.38:773][359]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.06.18-17.55.38:773][359]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.06.18-17.55.38:773][359]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.06.18-17.55.38:773][359]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.06.18-17.55.38:773][359]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.06.18-17.55.38:773][359]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.06.18-17.55.38:773][359]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.06.18-17.55.38:774][359]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.06.18-17.55.38:774][359]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.06.18-17.55.38:774][359]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.18-17.55.38:774][359]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.18-17.55.38:774][359]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.18-17.55.38:774][359]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.18-17.55.38:774][359]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.18-17.55.38:774][359]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.18-17.55.38:798][359]TextureStreamingBuild: Display: Compiling optional shaders took 158.085 seconds.
+[2019.06.18-17.55.40:705][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.06.18-17.56.40:162][359]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-17.56.40:162][359]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-17.56.40:162][359]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-17.56.41:708][359]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_MainCloth5C7E9D4145932BED26696480D8C6B36F.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/M_MainCloth.uasset'
+[2019.06.18-17.56.41:769][359]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Texture samplers: 6/16
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Texture samplers: 6/16
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.18-17.56.41:770][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.18-17.56.41:833][360]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-17.56.41:833][360]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-17.56.41:834][360]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-17.57.02:269][421]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (20.436 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-17.57.47:565][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.57.51:086][824]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.57.54:761][921]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.57.54:912][921]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.57.55:203][921]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.57.57:903][976]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.58.03:605][105]LogMaterialEditor: Saving and Compiling material M_mainBody
+[2019.06.18-17.58.18:654][105]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.58.19:382][105]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.58.19:572][105]LogMaterial: Display: Missing cached shader map for material M_mainBody, compiling. 
+[2019.06.18-17.58.29:156][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.06.18-17.58.29:189][105]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-18.00.18:706][105]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.06.18-18.00.18:707][105]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.06.18-18.00.18:707][105]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.06.18-18.00.18:707][105]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.06.18-18.00.18:707][105]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.06.18-18.00.18:707][105]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.18-18.00.18:707][105]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.18-18.00.18:707][105]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.18-18.00.18:714][105]TextureStreamingBuild: Display: Compiling optional shaders took 109.557 seconds.
+[2019.06.18-18.00.18:883][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.06.18-18.01.05:257][105]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-18.01.05:257][105]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-18.01.05:257][105]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-18.01.05:520][105]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/M_mainBody42F5B7E749416585D2FD29AF632C68EA.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/M_mainBody.uasset'
+[2019.06.18-18.01.05:570][105]MaterialEditorStats: Base pass shader: 141 instructions
+[2019.06.18-18.01.05:570][105]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2019.06.18-18.01.05:570][105]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.06.18-18.01.05:570][105]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.06.18-18.01.05:570][105]MaterialEditorStats: Texture samplers: 6/16
+[2019.06.18-18.01.05:570][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.18-18.01.05:570][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.18-18.01.05:604][106]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-18.01.05:605][106]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-18.02.23:184][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-18.02.23:285][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CharacterSkin" FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/CharacterSkin.uasset" SILENT=true
+[2019.06.18-18.02.24:083][ 34]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/CharacterSkinD5C97413412657CD838031871C87EC86.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/CharacterSkin.uasset'
+[2019.06.18-18.02.30:044][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-18.02.30:239][204]LogSlate: Window 'CharacterSkin' being destroyed
+[2019.06.18-18.02.30:272][204]LogSlate: Window 'CharacterSkin' being destroyed
+[2019.06.18-18.02.32:844][204]LogTemp: Repeating last play command: 选中的视口
+[2019.06.18-18.02.33:126][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.18-18.02.33:164][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-18.02.33:299][204]PIE: New page: PIE会话: MainMenu (2019年6月19日 下午6:02:33)
+[2019.06.18-18.02.33:361][204]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2019.06.18-18.02.33:844][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.458249s)
+[2019.06.18-18.02.33:853][204]LogAIModule: Creating AISystem for world MainMenu
+[2019.06.18-18.02.33:918][204]LogPlayLevel: PIE: World Init took: (0.074361s)
+[2019.06.18-18.02.33:940][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.579133s)
+[2019.06.18-18.02.34:208][204]LogUObjectHash: Compacting FUObjectHashTables data took  68.07ms
+[2019.06.18-18.02.34:479][204]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-18.02.34:725][204]LogInit: FAudioDevice initialized.
+[2019.06.18-18.02.36:281][204]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-18.02.36:320][204]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.06.19-06.02.36
+[2019.06.18-18.02.36:373][204]LogWorld: Bringing up level for play took: 0.053709
+[2019.06.18-18.02.38:369][204]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu的‘在编辑器中播放’的起始时间5.506
+[2019.06.18-18.02.38:622][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.18-18.02.47:720][528]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level-01/Outside
+[2019.06.18-18.02.47:721][528]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level-01/Outside
+[2019.06.18-18.02.48:008][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.06.18-18.02.52:480][528]LogAIModule: Creating AISystem for world Outside
+[2019.06.18-18.02.52:482][528]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-18.02.53:381][528]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Outside.Outside up for play (max tick rate 60) at 2019.06.19-06.02.53
+[2019.06.18-18.02.53:501][528]LogWorld: Bringing up level for play took: 1.016975
+[2019.06.18-18.02.53:553][528]LogLoad: Took 5.832714 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level-01/Outside)
+[2019.06.18-18.02.59:601][602]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'texture change' of length 5 in '/Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Outside.Outside_C'!
+[2019.06.18-18.03.04:901][829]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level-01/Indoor
+[2019.06.18-18.03.04:902][829]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level-01/Indoor
+[2019.06.18-18.03.05:056][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.06.18-18.03.05:270][829]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.05:272][829]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.05:346][829]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.05:348][829]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.05:376][829]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.05:377][829]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.05:378][829]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.05:379][829]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.06:142][829]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.06:143][829]LoadErrors: 加载失败 /Game/Player/CwithHair/Hair/Hair.Hair 引用者 characterWithHair_ZBrushDefault2_23
+[2019.06.18-18.03.06:144][829]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.06:793][829]LogAIModule: Creating AISystem for world Indoor
+[2019.06.18-18.03.06:794][829]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-18.03.06:896][829]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor up for play (max tick rate 60) at 2019.06.19-06.03.06
+[2019.06.18-18.03.07:530][829]LogWorld: Bringing up level for play took: 0.734312
+[2019.06.18-18.03.07:600][829]LogLoad: Took 2.698064 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level-01/Indoor)
+[2019.06.18-18.03.33:466][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.18-18.03.33:485][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-18.03.33:570][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-18.03.33:582][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.18-18.03.33:658][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-18.03.33:673][539]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.06.18-18.03.33:861][540]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.06.18-18.03.35:998][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-18.03.42:495][905]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.42:496][905]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.42:530][905]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.42:531][905]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.42:589][905]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.42:590][905]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.42:591][905]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.42:592][905]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.42:894][905]LogLinker: Warning: 无法找到文件 '/Game/Player/CwithHair/Hair/Hair'
+[2019.06.18-18.03.42:906][905]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/Player/CwithHair/Hair/Hair’ 的文件。
+[2019.06.18-18.03.43:003][905]LogAIModule: Creating AISystem for world Indoor
+[2019.06.18-18.03.43:197][905]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor
+[2019.06.18-18.03.43:403][905]LogUObjectHash: Compacting FUObjectHashTables data took  72.26ms
+[2019.06.18-18.03.44:608][905]LogSlate: Window 'Save Content' being destroyed
+[2019.06.18-18.03.46:133][905]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert1_BaseColor91DC52E8450688B92E3E19B5067FB653.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert1_BaseColor.uasset'
+[2019.06.18-18.03.47:767][905]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert1_Normal21EC1CEC4A9500A720534CA0BE52F600.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert1_Normal.uasset'
+[2019.06.18-18.03.48:641][905]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert1_OcclusionRoughnesA2D704A9474B5760B4902FAD4B56881A.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert1_OcclusionRoughnessMetallic.uasset'
+[2019.06.18-18.03.49:148][905]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert2_BaseColor6906C5BF4A8C0B3F93B635B4A7859917.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert2_BaseColor.uasset'
+[2019.06.18-18.03.50:995][905]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert2_NormalD8EDD39D4337E59ABF578FBD3C0152FE.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert2_Normal.uasset'
+[2019.06.18-18.03.51:880][905]LogSavePackage: Moving 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Saved/1_low_lambert2_OcclusionRoughnesB34B2BF54683EF2283306F9D564E1635.tmp' to 'C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/Player/Material/CwithHair/Character/1_low_lambert2_OcclusionRoughnessMetallic.uasset'
+[2019.06.18-18.03.52:220][905]Cmd: MAP LOAD FILE="C:/Users/Administrator/Documents/N_Prototype4/Prototype4/Content/ThirdPersonBP/Maps/Level-01/Indoor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.18-18.03.52:236][905]LightingResults: New page: 光照构建
+[2019.06.18-18.03.52:377][905]LoadErrors: New page: 正在加载地图： Indoor.umap
+[2019.06.18-18.03.52:416][905]MapCheck: New page: 地图检测
+[2019.06.18-18.03.52:416][905]LightingResults: New page: 光照构建
+[2019.06.18-18.03.53:112][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.06.18-18.03.56:621][905]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.18-18.03.57:048][905]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2019.06.18-18.03.57:107][905]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.18-18.03.57:125][905]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.893毫秒完成。
+[2019.06.18-18.03.57:125][905]LogFileHelpers: Loading map 'Indoor' took 5.226
+[2019.06.18-18.04.01:654][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-18.04.02:700][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel.Indoor' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel.Indoor'
+[2019.06.18-18.04.02:700][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-18.04.02:701][  6]PIE: New page: SIE 会话: Indoor (2019年6月19日 下午6:04:02)
+[2019.06.18-18.04.02:703][  6]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor
+[2019.06.18-18.04.02:831][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125663s)
+[2019.06.18-18.04.02:833][  6]LogAIModule: Creating AISystem for world Indoor
+[2019.06.18-18.04.02:855][  6]LogPlayLevel: PIE: World Init took: (0.024010s)
+[2019.06.18-18.04.02:856][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor to /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor (0.152732s)
+[2019.06.18-18.04.02:894][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.06.18-18.04.02:913][  6]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-18.04.02:987][  6]LogInit: FAudioDevice initialized.
+[2019.06.18-18.04.02:988][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-18.04.03:042][  6]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-18.04.03:053][  6]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor up for play (max tick rate 60) at 2019.06.19-06.04.03
+[2019.06.18-18.04.03:055][  6]LogWorld: Bringing up level for play took: 0.011421
+[2019.06.18-18.04.03:136][  6]PIE: /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor的‘在编辑器中播放’的起始时间0.273
+[2019.06.18-18.04.03:679][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel.Indoor' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel.Indoor'
+[2019.06.18-18.04.03:736][  6]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.03:857][  6]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:009][  7]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:009][  7]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:097][  8]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:098][  8]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:114][  9]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:114][  9]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:131][ 10]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:132][ 10]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:147][ 11]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:148][ 11]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:165][ 12]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:166][ 12]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:186][ 13]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:203][ 13]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:216][ 14]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:217][ 14]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:233][ 15]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:234][ 15]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:252][ 16]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:252][ 16]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:274][ 17]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:275][ 17]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:297][ 18]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:297][ 18]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:321][ 19]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:322][ 19]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:342][ 20]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:343][ 20]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:364][ 21]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:365][ 21]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:388][ 22]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5
+	EnemyBoss_C /Game/ThirdPersonBP/Maps/Level-01/UEDPIE_0_Indoor.Indoor:PersistentLevel.EnemyBoss_2
+	Function /Game/Boss/EnemyBoss.EnemyBoss_C:ExecuteUbergraph_EnemyBoss:0E96
+[2019.06.18-18.04.04:388][ 22]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:409][ 23]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:431][ 24]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:453][ 25]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:475][ 26]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:498][ 27]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:577][ 28]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:594][ 29]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:611][ 30]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:630][ 31]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:649][ 32]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:668][ 33]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:685][ 34]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:704][ 35]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:720][ 36]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:742][ 37]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:758][ 38]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:788][ 39]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:805][ 40]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:824][ 41]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:845][ 42]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:869][ 43]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:888][ 44]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:911][ 45]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:932][ 46]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:954][ 47]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:974][ 48]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.04:997][ 49]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.05:021][ 50]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.05:040][ 51]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.05:061][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-18.04.05:062][ 52]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetPlayerCharacter_ReturnValue5"。 蓝图： EnemyBoss 函数： Execute Ubergraph Enemy Boss 图表： EventGraph 节点： SetActorRotation
+[2019.06.18-18.04.15:891][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-18.04.15:973][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel.Indoor' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel.Indoor'
+[2019.06.18-18.04.15:974][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-18.04.16:019][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-18.04.16:020][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel.Indoor' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level-01/Indoor.Indoor:PersistentLevel.Indoor'
+[2019.06.18-18.04.16:099][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-18.04.16:116][426]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.06.18-18.04.16:461][427]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.06.18-18.04.17:620][476]LogSlate: Window '消息日志' being destroyed
+[2019.06.18-18.04.17:637][476]LogSlate: Window '消息日志' being destroyed
+[2019.06.18-18.04.20:652][589]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.06.18-18.04.23:024][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-18.04.27:406][784]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.06.18-18.04.31:771][784]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.1744 seconds. Added 121 classes and 0 folders.
+[2019.06.18-18.04.56:827][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-18.04.58:750][ 48]LogEditorTransaction: Undo 重置比例
+[2019.06.18-18.04.58:804][ 48]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.06.18-18.05.04:544][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-18.05.18:060][422]LogEditorTransaction: Undo 设置缩放
+[2019.06.18-18.05.18:077][422]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.06.18-18.05.24:283][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-18.05.31:374][689]LogEditorTransaction: Undo 设置缩放
+[2019.06.18-18.05.31:441][689]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.06.18-18.05.31:527][689]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.18-18.05.56:584][689]LogStats: FPlatformStackWalk::StackWalkAndDump - 25.010 s
+[2019.06.18-18.05.56:584][689]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.18-18.05.56:584][689]LogOutputDevice: Error: 
+[2019.06.18-18.05.56:584][689]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.06.18-18.05.56:584][689]LogOutputDevice: Error: 
+[2019.06.18-18.05.56:584][689]LogOutputDevice: Error: Stack: 
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd025a0258 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01acb310 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01a84b5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffcfa25efff UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffcfa25fbd5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffcfa216ec1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c34149b UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c3175d9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c3fcc60 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c205efe UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c1b6444 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01041c54 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd00dfd66d UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd00dd81a9 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01124be3 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0110b8c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd010c1b74 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0111192a UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd00dba898 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd00de7576 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd00e0338d UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01a84fed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01aa6366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01a92f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01aeac13 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01b2ae28 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:585][689]LogOutputDevice: Error: [Callstack] 0x00007ffd01ac925f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd00dd8fa8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c1b71ea UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c1e743e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd02266fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd02256791 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c181e66 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c1e8dcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd0c1df1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd11fab55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd11f9ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd11fad77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd11f9c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd594f1c84 USER32.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd594f15cc USER32.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd11fae946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ff661d75d3e UE4Editor.exe!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ff661d8554c UE4Editor.exe!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ff661d855ca UE4Editor.exe!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ff661d9316c UE4Editor.exe!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ff661d95b8e UE4Editor.exe!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd596784d4 KERNEL32.DLL!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: [Callstack] 0x00007ffd5b32e851 ntdll.dll!UnknownFunction []
+[2019.06.18-18.05.56:586][689]LogOutputDevice: Error: 
+[2019.06.18-18.05.56:660][689]LogStats:                SubmitErrorReport -  0.038 s
