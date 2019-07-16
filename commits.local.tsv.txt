@@ -1,0 +1,113 @@
+c29b27b	MDS\darren.lit7358	Tue Jun 18 17:31:18 2019	change menu and control
+a6590dc	MDS\darren.lit7358	Tue Jun 18 16:21:38 2019	lock on camera now track if the boss is in the air
+8ef0484	MDS\darren.lit7358	Tue Jun 18 13:43:15 2019	added hit feedback
+1853834	RyouMisakl	Tue Jun 18 10:38:18 2019	no message
+7aab382	RyouMisakl	Tue Jun 18 04:04:58 2019	sword vfx + lighting setting outside + character materials
+d431b7a	GeorginaWang	Mon Jun 17 22:56:15 2019	Upload Outside Environment
+8df4788	GeorginaWang	Mon Jun 17 21:46:51 2019	Upload outside environment
+8622a21	GeorginaWang	Mon Jun 17 21:08:10 2019	Merge branch 'Alex' of https://github.com/RyouMisakl/N_Prototype4 into Georgina
+1c4db84	AlexFan	Mon Jun 17 16:45:41 2019	Sjdkhaskldhasjdhas
+eec4750	AlexFan	Mon Jun 17 16:40:18 2019	Merge branch 'master' of https://github.com/RyouMisakl/N_Prototype4 into Alex
+da2158c	AlexFan	Mon Jun 17 16:38:01 2019	New Character
+8dc02d2	MDS\darren.lit7358	Mon Jun 17 16:18:58 2019	fixed most bugs
+643267d	AlexFan	Mon Jun 17 15:55:07 2019	no message
+4e88d66	AlexFan	Mon Jun 17 14:43:59 2019	VFX
+2a128e3	HarryFanHe	Mon Jun 17 13:34:15 2019	vfx for alex
+ea05b1d	GeorginaWang	Mon Jun 17 13:12:13 2019	Upload outside environment
+497f322	GeorginaWang	Mon Jun 17 12:36:01 2019	Merge branch 'Harry2' of https://github.com/RyouMisakl/N_Prototype4 into Georgina
+410a7f9	HarryFanHe	Mon Jun 17 10:08:58 2019	test
+bdee3ae	HarryFanHe	Sun Jun 16 04:17:29 2019	Merge branch 'Harry2' of https://github.com/RyouMisakl/N_Prototype4 into Harry2
+bc9b7c5	HarryFanHe	Sun Jun 16 04:17:14 2019	no message
+5bfc019	RyouMisakl	Sun Jun 16 04:12:38 2019	change lighting
+74a47f9	HarryFanHe	Sun Jun 16 03:44:27 2019	lighting setting
+db5b3b7	GeorginaWang	Sun Jun 16 00:25:53 2019	update outside environment
+de2eccf	GeorginaWang	Sat Jun 15 16:50:20 2019	update outside environment
+0966e01	GeorginaWang	Sat Jun 15 14:15:31 2019	Update Outside Environment
+0b7776e	GeorginaWang	Sat Jun 15 00:05:22 2019	Update environment
+66e6d74	GeorginaWang	Fri Jun 14 22:50:03 2019	Update Environment
+9a76f6b	GeorginaWang	Fri Jun 14 21:31:46 2019	Merge branch 'Georgina' of https://github.com/RyouMisakl/N_Prototype4 into Georgina
+f43b5fe	GeorginaWang	Fri Jun 14 21:28:47 2019	Update Outside Environment
+b1656e9	AlexFan	Fri Jun 14 17:29:10 2019	Boss Texture
+0edc766	GeorginaWang	Fri Jun 14 17:16:38 2019	update environment asset
+697ed6f	GeorginaWang	Fri Jun 14 12:28:20 2019	Environment
+ce5db0d	RyouMisakl	Fri Jun 14 05:35:20 2019	no message
+123fea5	RyouMisakl	Fri Jun 14 05:04:20 2019	Completed ver for demo
+1ab47a8	RyouMisakl	Fri Jun 14 04:37:47 2019	game over ui done
+df50a92	RyouMisakl	Fri Jun 14 02:35:47 2019	Player UI Done
+1120e2b	RyouMisakl	Fri Jun 14 00:24:41 2019	boss 2nd mode done
+fda34e9	GeorginaWang	Wed Jun 12 15:01:31 2019	enviourment
+b78d32d	AlexFan	Tue Jun 11 17:23:09 2019	dasdasdads
+efa58a6	AlexFan	Mon Jun 10 15:00:12 2019	dasdadsasda
+2142caa	AlexFan	Fri Jun 7 15:48:34 2019	sdasdasda
+6c2be71	AlexFan	Fri Jun 7 15:33:38 2019	Lighting
+efff894	AlexFan	Tue Jun 4 16:38:00 2019	Merge branch 'Georgina' of https://github.com/RyouMisakl/N_Prototype4 into Alex
+14eccb5	AlexFan	Tue Jun 4 16:17:40 2019	Attack
+8882d6e	GeorginaWang	Tue Jun 4 16:11:04 2019	Change the environment level
+71ee145	MDS\darren.lit7358	Tue Jun 4 11:50:13 2019	Merge branch 'Georgina' of https://github.com/RyouMisakl/N_Prototype4
+f540936	GeorginaWang	Tue Jun 4 11:47:33 2019	Merge branch 'master' of https://github.com/RyouMisakl/N_Prototype4 into Georgina
+103998b	RyouMisakl	Tue Jun 4 04:41:33 2019	Merge branch 'harry' of https://github.com/RyouMisakl/N_Prototype4
+1918784	GeorginaWang	Tue Jun 4 04:17:26 2019	Environment Update
+f00bb6d	GeorginaWang	Tue Jun 4 04:12:15 2019	Environment Update
+acce4b6	GeorginaWang	Tue Jun 4 04:02:34 2019	Environment Update
+c618eea	RyouMisakl	Tue Jun 4 02:53:38 2019	Added Sound and vfx to attacks plus min cam shake
+6c121b7	GeorginaWang	Tue Jun 4 02:41:18 2019	Environment
+37b9c95	GeorginaWang	Tue Jun 4 02:39:29 2019	ENVIRONMENT uPDATE
+f8b5c3e	HarryFanHe	Tue Jun 4 02:19:23 2019	vfx for second stage
+730af4a	GeorginaWang	Tue Jun 4 01:28:30 2019	environment update
+87184ee	RyouMisakl	Mon Jun 3 17:19:02 2019	no message
+2795964	HarryFanHe	Mon Jun 3 17:16:44 2019	wind slash
+3c6a9d0	HarryFanHe	Sun Jun 2 18:19:53 2019	healing particle + shockwave particle + hit particle updated
+bf1540a	AlexFan	Fri May 31 17:22:15 2019	ui
+4d891b3	MDS\Jiefei.He7542	Fri May 31 16:43:36 2019	Healing vfx in progess
+a588c5e	AlexFan	Fri May 31 16:42:38 2019	PlayerDdges
+fc6952d	AlexFan	Fri May 31 16:28:00 2019	Boss
+5d81c1b	AlexFan	Fri May 31 15:54:19 2019	CharacterNormalAttackAnimations
+9017ede	AlexFan	Fri May 31 15:44:24 2019	CharacterAttackAnimation
+6c2ec78	AlexFan	Fri May 31 13:41:51 2019	New Animations
+90576bf	AlexFan	Fri May 31 13:27:38 2019	merged with harry
+e65fedb	HarryFanHe	Fri May 31 11:51:41 2019	update hit effect
+c0e62af	HarryFanHe	Thu May 30 18:13:45 2019	Change texture again
+1794c96	HarryFanHe	Thu May 30 17:55:55 2019	Merge branch 'master' of https://github.com/RyouMisakl/N_Prototype4 into harry
+f92bb7b	HarryFanHe	Thu May 30 17:54:26 2019	some conflicts
+6a5c64c	MDS\Jiefei.He7542	Thu May 30 16:56:42 2019	1111
+7be6792	MDS\Jiefei.He7542	Thu May 30 16:53:47 2019	1111111
+4f42408	HarryFanHe	Thu May 30 03:59:22 2019	change lock on ui + texture of katana
+42835b4	RyouMisakl	Thu May 30 00:59:12 2019	no blood with dodge or parry
+aea5c82	RyouMisakl	Thu May 30 00:33:39 2019	no message
+0506fce	MDS\Jiefei.He7542	Wed May 29 17:21:58 2019	Slash Vfx + Blood VFX
+648be88	MDS\Jiefei.He7542	Wed May 29 10:58:20 2019	Merge branch 'master' of https://github.com/RyouMisakl/N_Prototype4 into Harry's_branch
+dc1839d	MDS\Jiefei.He7542	Wed May 29 10:54:18 2019	discarded
+6862be0	GeorginaWang	Tue May 28 15:22:49 2019	updated background model
+da7add7	RyouMisakl	Mon May 27 20:54:16 2019	Fix Some Bug
+eae55fe	RyouMisakl	Mon May 27 20:18:59 2019	added abit of comment
+0306c7d	RyouMisakl	Mon May 27 20:11:45 2019	Lock On and Skill Done
+9f8fff3	RyouMisakl	Mon May 27 17:53:28 2019	Merge branch 'master' of https://github.com/RyouMisakl/N_Prototype4
+e267ea5	RyouMisakl	Mon May 27 17:52:31 2019	no message
+fc37283	RyouMisakl	Mon May 27 17:51:28 2019	no message
+988f4aa	MDS\darren.lit7358	Mon May 27 17:31:17 2019	player skill change
+2dbda12	MDS\darren.lit7358	Mon May 27 17:03:16 2019	dodge has cooldown
+2f26263	MDS\darren.lit7358	Mon May 27 16:41:42 2019	Player can now heal
+0a740da	AlexFan	Mon May 27 15:28:01 2019	player attack change
+4add361	RyouMisakl	Mon May 27 02:07:33 2019	dodge updated
+e4d55f4	RyouMisakl	Mon May 27 01:28:49 2019	Upgrade boss
+c55936b	RyouMisakl	Mon May 27 00:34:19 2019	new boss
+9d5c526	RyouMisakl	Tue May 14 03:34:19 2019	Main with controller input done
+d5fc35a	RyouMisakl	Tue May 14 01:23:04 2019	Merge branch 'Georgina' of https://github.com/RyouMisakl/N_Prototype4
+6886f13	GeorginaWang	Mon May 13 17:25:55 2019	upsize
+63c13c1	MDS\darren.lit7358	Mon May 13 16:59:34 2019	Player attack combo
+ef4a2de	GeorginaWang	Mon May 13 16:50:39 2019	background
+518572d	MDS\darren.lit7358	Mon May 13 12:50:07 2019	Player health ui
+1ef7ce4	MDS\darren.lit7358	Mon May 13 12:15:32 2019	change to player model
+80c1811	MDS\darren.lit7358	Fri May 3 12:15:50 2019	stop the attack during dodge and blocking
+3e00259	RyouMisakl	Fri May 3 00:26:33 2019	Parry added in
+ce9a653	RyouMisakl	Thu May 2 21:05:00 2019	added boss move set and time dodge
+b2f82ce	RyouMisakl	Tue Apr 30 13:13:54 2019	Merge branch 'master' of https://github.com/RyouMisakl/N_Prototype4
+3a20a7a	RyouMisakl	Tue Apr 30 13:12:25 2019	no message
+e99ec18	RyouMisakl	Tue Apr 30 13:11:47 2019	no message
+fad5f61	MDS\darren.lit7358	Tue Apr 30 12:22:21 2019	no message
+6ee52c4	RyouMisakl	Mon Apr 29 05:02:14 2019	Merge branch 'master' of https://github.com/RyouMisakl/N_Prototype4
+9d29737	RyouMisakl	Mon Apr 29 04:53:07 2019	no message
+aec7ee3	RyouMisakl	Sun Apr 14 21:09:50 2019	Merge pull request #1 from RyouMisakl/add-license-1
+bfb2599	RyouMisakl	Sun Apr 14 21:09:21 2019	Create LICENSE
+a7f129a	RyouMisakl	Sun Apr 14 17:15:07 2019	new project
+d984de7	RyouMisakl	Sun Apr 14 17:10:52 2019	no message
